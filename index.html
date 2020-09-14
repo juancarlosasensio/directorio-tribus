@@ -5,7 +5,19 @@ page_name: home
 
 <section>
   <div class="container">
-    <h1>TRIBUS-Directorio de Comercios Locales</h1>
+    <h1>{{ site.title }}</h1>
     <img src="/assets/img/og-image.jpg" alt="TRIBUS-Directorio Logo">
+    
+    {% for item in site.data.airtable %}
+    <div>
+      {% if item.category == "Restaurantes, Cafeterías y Heladerías" %}
+        {% if forloop.first %}
+          <h3>{{ item.category }}</h3> 
+        {% endif %}
+        <p><strong>{{item.name}}</strong> - <span>{{item.description}}</span></p>
+      {% endif %}
+    </div>
+    {% endfor %}
+
   </div>
 </section>

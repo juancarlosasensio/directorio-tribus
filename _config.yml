@@ -8,16 +8,3 @@ image_url: "{{ site.url }}/assets/img/og-image.jpg"
 # Build settings
 plugins:
   - jekyll-feed
-
-# Exclude from processing. 
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
