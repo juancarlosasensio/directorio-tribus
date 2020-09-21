@@ -1,9 +1,10 @@
+require 'dotenv/load'
 require 'airtable'
 require 'active_support/all'
 require 'colorize'
 
-@client = Airtable::Client.new("keyUQtss54qPKS32W")
-@table = @client.table("appzux6XBDCjO151J", "DirectorioTribus")
+@client = Airtable::Client.new(ENV['AIR_API_KEY'])
+@table = @client.table(ENV['AIR_BASE_ID'], ENV['AIR_BASE_NAME'])
 @records = @table.all
 @column_name_mappings = { "Nombre" => "name", "Categoría" => "category", "Descripción" => "description",
                          "Número de teléfono" => "phone", "Link de contacto directo (red social)" => "social_media", 
