@@ -1,14 +1,18 @@
 require 'dotenv/load'
-require 'airtable'
+
 require 'active_support/all'
+require 'airtable'
 require 'colorize'
 
 @client = Airtable::Client.new(ENV['AIR_API_KEY'])
 @table = @client.table(ENV['AIR_BASE_ID'], ENV['AIR_BASE_NAME'])
 @records = @table.all
-@column_name_mappings = { "Nombre" => "name", "Categoría" => "category", "Descripción" => "description",
-                         "Número de teléfono" => "phone", "Link de contacto directo (red social)" => "social_media", 
-                         "Logo de tu negocio en formato .PNG o .JPG" => "logo_link" }   
+@column_name_mappings = {"Nombre" => "name", 
+                         "Categoría" => "category", 
+                         "Descripción" => "description",
+                         "Número de teléfono" => "phone", 
+                         "Link de contacto directo (red social)" => "social_media", 
+                         "Logo de tu negocio en formato .PNG o .JPG" => "logo_link"}   
 
 puts "#{@records.count} records pulled from Airtable."
 
