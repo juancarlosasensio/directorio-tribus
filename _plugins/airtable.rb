@@ -1,6 +1,5 @@
 require 'active_support/all'
 require 'airtable'
-require 'colorize'
 
 @client = Airtable::Client.new('keyUQtss54qPKS32W')
 @table = @client.table('appzux6XBDCjO151J', 'DirectorioTribus' )
