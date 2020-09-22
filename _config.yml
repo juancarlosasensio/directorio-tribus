@@ -5,6 +5,3 @@ url: ""
 locale: "es_US"
 include: ["_redirects"]
 image_url: "{{ site.url }}/assets/img/og-image.jpg"
-# Build settings
-plugins:
-  - jekyll-feed
