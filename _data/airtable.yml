@@ -1,2038 +1,2032 @@
 ---
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: 'Cevichería Los Chavos '
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Restaurante y Cevichería
-  Número de teléfono: '23354284'
-  Link de contacto directo (red social): https://www.facebook.com/Restaurante-y-Cevicheria-Los-Chavos-162489910474628
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1xzHU6n0te0_mFDjfuWEEOlgHfZc4zy1F
   id: rec00ShKYw4PXslPJ
+  name: 'Cevichería Los Chavos '
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Restaurante y Cevichería
+  phone: '23354284'
+  social_media: https://www.facebook.com/Restaurante-y-Cevicheria-Los-Chavos-162489910474628
+  logo_link: https://drive.google.com/open?id=1xzHU6n0te0_mFDjfuWEEOlgHfZc4zy1F
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Fado Bakery
-  Categoría: Pan y Panadería
-  Descripción: Panadería y Repostería Familiar
-  Número de teléfono: '47913078'
-  Link de contacto directo (red social): https://www.instagram.com/fado_bakery/?hl=es
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1O2aptAtxF1sZA7KJqlZMf3jxoZ3HBcYL
   id: rec0HATgMOHWtr6IS
+  name: Fado Bakery
+  category: Pan y Panadería
+  description: Panadería y Repostería Familiar
+  phone: '47913078'
+  social_media: https://www.instagram.com/fado_bakery/?hl=es
+  logo_link: https://drive.google.com/open?id=1O2aptAtxF1sZA7KJqlZMf3jxoZ3HBcYL
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Mr. Menú
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Mister Menú es la mejor guía digital y móvil de restaurantes, diseñada
-    para ayudarte a consentir tu app-petito donde quiera que estés.
-  Link de contacto directo (red social): https://www.facebook.com/MisterMenu/
   Email: contacto@mister-menu.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1-q8GFVAJq-3HXvJHeM7ux4xUH2n9LQIl
   id: rec0PCoKxbYnrgZ3J
+  name: Mr. Menú
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Mister Menú es la mejor guía digital y móvil de restaurantes, diseñada
+    para ayudarte a consentir tu app-petito donde quiera que estés.
+  social_media: https://www.facebook.com/MisterMenu/
+  logo_link: https://drive.google.com/open?id=1-q8GFVAJq-3HXvJHeM7ux4xUH2n9LQIl
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Mercadito de Lola
-  Categoría: Lácteos y Derivados
-  Descripción: Lácteos orgánicos de vaca y cabra.
-  Número de teléfono: '30324515'
-  Link de contacto directo (red social): https://www.instagram.com/elmercaditodelola/
   Email: elmercaditodelola@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1kT59uo6v7MtgfbeG0A-kYrO0AX5Dtgrc
   id: rec0THSMae0HKMYUc
+  name: Mercadito de Lola
+  category: Lácteos y Derivados
+  description: Lácteos orgánicos de vaca y cabra.
+  phone: '30324515'
+  social_media: https://www.instagram.com/elmercaditodelola/
+  logo_link: https://drive.google.com/open?id=1kT59uo6v7MtgfbeG0A-kYrO0AX5Dtgrc
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Galería Ríos
-  Categoría: Librería e impresiones
-  Descripción: Tienda de material de Bellas Artes, las mejores marcas en productos
-    y material de dibujo, pinturas y oleos.
-  Link de contacto directo (red social): https://www.instagram.com/galeriarios/
   Email: galeriarios@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1T5kUTerK5ot7FPfPiolZVu18yNA7E0RN
   id: rec0Vk6Ig1wqnecLS
+  name: Galería Ríos
+  category: Librería e impresiones
+  description: Tienda de material de Bellas Artes, las mejores marcas en productos
+    y material de dibujo, pinturas y oleos.
+  social_media: https://www.instagram.com/galeriarios/
+  logo_link: https://drive.google.com/open?id=1T5kUTerK5ot7FPfPiolZVu18yNA7E0RN
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: ACRECER
-  Categoría: Clases online y Terapias
-  Descripción: |-
+  Email: acrecerpadresgt@gmail.com
+  id: rec0f3TcvyeKAqfXu
+  name: ACRECER
+  category: Clases online y Terapias
+  description: |-
     Escuela para Padres donde elaboramos y
     realizamos programas preventivos y piscosociales
     para dar apoyo y orientación a la familia.
-  Número de teléfono: '51738098'
-  Link de contacto directo (red social): https://www.facebook.com/Acrecer/
-  Email: acrecerpadresgt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1Y5wunKypz1aKGa7e9zKyUx77nfX7KZW-
-  id: rec0f3TcvyeKAqfXu
+  phone: '51738098'
+  social_media: https://www.facebook.com/Acrecer/
+  logo_link: https://drive.google.com/open?id=1Y5wunKypz1aKGa7e9zKyUx77nfX7KZW-
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Top Bikes de Vecesa
-  Categoría: Movilidad (bicicletas, skate, patines electricos,etc.)
-  Descripción: Tienda de bicicletas, diferentes modelos.
-  Número de teléfono: '23657431'
-  Link de contacto directo (red social): https://www.facebook.com/TopBikesVecesa/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=10z4NhjNl_AfGD81ILQGCJHukVlTefsIw
   id: rec0fQfMooICLBiIc
+  name: Top Bikes de Vecesa
+  category: Movilidad (bicicletas, skate, patines electricos,etc.)
+  description: Tienda de bicicletas, diferentes modelos.
+  phone: '23657431'
+  social_media: https://www.facebook.com/TopBikesVecesa/
+  logo_link: https://drive.google.com/open?id=10z4NhjNl_AfGD81ILQGCJHukVlTefsIw
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Zaaki
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Comida Árabe
-  Número de teléfono: '31374473'
-  Link de contacto directo (red social): https://www.instagram.com/zaakigt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1zFIp4oF65zjnwE4q3K6DYIvijUEjz5sy
   id: rec1JiYe6NKvrwi07
+  name: Zaaki
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Comida Árabe
+  phone: '31374473'
+  social_media: https://www.instagram.com/zaakigt/
+  logo_link: https://drive.google.com/open?id=1zFIp4oF65zjnwE4q3K6DYIvijUEjz5sy
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Maskaraid
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Belleza/Spa/Relax/cosmético.
-  Número de teléfono: '50338172'
-  Link de contacto directo (red social): https://www.instagram.com/maskaraidsiemprebella/?igshid=npkyz4jila5t
   Email: maskaraid818@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1nkfAvKMUrIyCPdVJPTik2iHW0hZ4b7Oy
   id: rec1XYfjtVKEyoaoG
+  name: Maskaraid
+  category: Salud, Hospitales y Limpieza
+  description: Belleza/Spa/Relax/cosmético.
+  phone: '50338172'
+  social_media: https://www.instagram.com/maskaraidsiemprebella/?igshid=npkyz4jila5t
+  logo_link: https://drive.google.com/open?id=1nkfAvKMUrIyCPdVJPTik2iHW0hZ4b7Oy
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: 12 onzas
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: 'Café directo de nuestra finca a tu taza. #directoalgrano'
   Persona encargada del negocio: Atenea Kairé
-  Número de teléfono: '22923834'
-  Link de contacto directo (red social): https://www.facebook.com/12onzas
   Email: info@12onzas.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1LFbc8byQHtWvXZUiPM4DmaYNL7-7IecC
   id: rec1jCU2csx93XdHf
+  name: 12 onzas
+  category: Restaurantes, Cafeterías y Heladerías
+  description: 'Café directo de nuestra finca a tu taza. #directoalgrano'
+  phone: '22923834'
+  social_media: https://www.facebook.com/12onzas
+  logo_link: https://drive.google.com/open?id=1LFbc8byQHtWvXZUiPM4DmaYNL7-7IecC
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Electronica Panamericana
-  Categoría: Electrodomésticos
-  Descripción: 'Venta de Electrodomésticos, tecnología, audio profesional, car audio
+  id: rec1v8pys0dTjHYJB
+  name: Electronica Panamericana
+  category: Electrodomésticos
+  description: 'Venta de Electrodomésticos, tecnología, audio profesional, car audio
     y otros categorías especiales.
 
     '
-  Número de teléfono: '24109000'
-  Link de contacto directo (red social): https://www.facebook.com/ElectroPanamericana/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1NaZbImgB9b3QPntVMC4yNcuRJsYjklDo
-  id: rec1v8pys0dTjHYJB
+  phone: '24109000'
+  social_media: https://www.facebook.com/ElectroPanamericana/
+  logo_link: https://drive.google.com/open?id=1NaZbImgB9b3QPntVMC4yNcuRJsYjklDo
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Trovajazz
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Trovajazz es una institución guatemalteca que se dedica al desarrollo,
-    proyección, organización y difusión de actividades artísticas y culturales
-  Número de teléfono: '23341241'
-  Link de contacto directo (red social): https://www.facebook.com/trovajazz.trovajazz/
   Email: trovajazz@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1KLcCjaKcXCjQYIX2dQqaxltIz7DQXUxn
   id: rec1wvBhCDqZLRrpk
+  name: Trovajazz
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Trovajazz es una institución guatemalteca que se dedica al desarrollo,
+    proyección, organización y difusión de actividades artísticas y culturales
+  phone: '23341241'
+  social_media: https://www.facebook.com/trovajazz.trovajazz/
+  logo_link: https://drive.google.com/open?id=1KLcCjaKcXCjQYIX2dQqaxltIz7DQXUxn
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: ANTIGUA BREWING CO.
-  Categoría: Coctelería
-  Descripción: Antigua's artisanal microbrew. A brewpub serving delicious food, and
+  Email: antiguabrewingco@gmail.com
+  id: rec2HaadRipTslthY
+  name: ANTIGUA BREWING CO.
+  category: Coctelería
+  description: Antigua's artisanal microbrew. A brewpub serving delicious food, and
     a craft beers on tap! Cervecería chapina, moderno restaurante + cervezas artesanales.
-  Número de teléfono: '41561007'
-  Link de contacto directo (red social): 'http://www.antiguabrewingco.com/
+  phone: '41561007'
+  social_media: 'http://www.antiguabrewingco.com/
 
     '
-  Email: antiguabrewingco@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1_fogXmE9NBoMJL-8biZPU_gAeIh29F_f
-  id: rec2HaadRipTslthY
+  logo_link: https://drive.google.com/open?id=1_fogXmE9NBoMJL-8biZPU_gAeIh29F_f
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: A La Mesa
-  Categoría: Alimentos
-  Descripción: proyecto culinario que nace de la premisa que la comida nos une. La
+  Lugares que cubre tu delivery: alamesagt@gmail.com
+  id: rec2nesQtf7AmfkDN
+  name: A La Mesa
+  category: Alimentos
+  description: proyecto culinario que nace de la premisa que la comida nos une. La
     elaboración es bajo pedido para conservar la frescura y sabor de cada ingrediente,
     ya que no poseen conservantes ni químicos. ‎
-  Número de teléfono: '45080365'
-  Link de contacto directo (red social): https://www.facebook.com/alamesagt
-  Lugares que cubre tu delivery: alamesagt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1wwSyZsSQNyADqLsHVa88xbDlG9B3X940
-  id: rec2nesQtf7AmfkDN
+  phone: '45080365'
+  social_media: https://www.facebook.com/alamesagt
+  logo_link: https://drive.google.com/open?id=1wwSyZsSQNyADqLsHVa88xbDlG9B3X940
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: GuatePassport
-  Categoría: Jardinería, Plantas y Semillas
-  Descripción: Somos un grupo entusiasta dedicado a conocer y promocionar rincones
+  Email: guatepass@gmail.com
+  id: rec4E0wWbzLvXT6GF
+  name: GuatePassport
+  category: Jardinería, Plantas y Semillas
+  description: Somos un grupo entusiasta dedicado a conocer y promocionar rincones
     y pequeños artesanos o productores de Guatemala y países hermanos. Welcome on
     board!
-  Número de teléfono: '56307712'
-  Link de contacto directo (red social): facebook.com/GuatePassport
-  Email: guatepass@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=17VT1_O6TAYU9b2-hk4un6G5d8VT6Vnny
-  id: rec4E0wWbzLvXT6GF
+  phone: '56307712'
+  social_media: facebook.com/GuatePassport
+  logo_link: https://drive.google.com/open?id=17VT1_O6TAYU9b2-hk4un6G5d8VT6Vnny
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Distribuidora Poseidón
-  Categoría: Alimentos
-  Descripción: MARISCOS PREMIUM
-  Número de teléfono: '35409188'
-  Link de contacto directo (red social): https://www.instagram.com/distribuidoraposeidon/?hl=es-la
   Email: kai@sapper.me
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=16TUyh1K7fCBEGyyxUPut8Nb-YbIZlIlI
   id: rec4Xq7fh5YZXw5WR
+  name: Distribuidora Poseidón
+  category: Alimentos
+  description: MARISCOS PREMIUM
+  phone: '35409188'
+  social_media: https://www.instagram.com/distribuidoraposeidon/?hl=es-la
+  logo_link: https://drive.google.com/open?id=16TUyh1K7fCBEGyyxUPut8Nb-YbIZlIlI
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: " COLMENA COWORKING"
-  Categoría: Coctelería
-  Descripción: |2-
+  Email: inmobiliariaav7@gmail.com
+  id: rec4ptfZFlVITsDS0
+  name: " COLMENA COWORKING"
+  category: Coctelería
+  description: |2-
 
     Colmena Coworking es una espacio de negocios para empresas y emprendedores que buscan proyectar imagen y cercanía con sus clientes a bajo costo.
-  Número de teléfono: '58473838'
-  Link de contacto directo (red social): https://www.facebook.com/colmenacoworkingt
-  Email: inmobiliariaav7@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1aafiQskLjMGI2OF9sH-D_CTTASMeCd-g
-  id: rec4ptfZFlVITsDS0
+  phone: '58473838'
+  social_media: https://www.facebook.com/colmenacoworkingt
+  logo_link: https://drive.google.com/open?id=1aafiQskLjMGI2OF9sH-D_CTTASMeCd-g
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Hospital Esperanza
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Hospital Universitario Esperanza
-  Número de teléfono: '24159000'
-  Link de contacto directo (red social): https://www.facebook.com/HospitalUniversitarioEsperanza/
   Email: info@hospitalesperanza.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1J5olFbGgBoFpCsmuvmKOpmdpsGUb2PwV
   id: rec5Z7fUUahfFVdSN
+  name: Hospital Esperanza
+  category: Salud, Hospitales y Limpieza
+  description: Hospital Universitario Esperanza
+  phone: '24159000'
+  social_media: https://www.facebook.com/HospitalUniversitarioEsperanza/
+  logo_link: https://drive.google.com/open?id=1J5olFbGgBoFpCsmuvmKOpmdpsGUb2PwV
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Inter Banco
-  Categoría: Bancos
-  Número de teléfono: '22773666'
-  Link de contacto directo (red social): https://www.interbanco.com.gt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1vs_QgiMpCGmyM8PoofWrrxT6xQ_2EfB0
   id: rec5mDcGWUZbE2dZD
+  name: Inter Banco
+  category: Bancos
+  phone: '22773666'
+  social_media: https://www.interbanco.com.gt/
+  logo_link: https://drive.google.com/open?id=1vs_QgiMpCGmyM8PoofWrrxT6xQ_2EfB0
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: San Román
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Un homenaje a nuestras recetas favoritas, reinterpretadas para disfrutar
-    nuestra hora preferida del día.
-  Número de teléfono: '22286547'
-  Link de contacto directo (red social): https://www.facebook.com/patiosanroman/
   Email: sanromangt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1B-lULWVgs7vucWhArK_ZuglGcJkQDLIP
   id: rec6RXCtDYMXucHYT
+  name: San Román
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Un homenaje a nuestras recetas favoritas, reinterpretadas para disfrutar
+    nuestra hora preferida del día.
+  phone: '22286547'
+  social_media: https://www.facebook.com/patiosanroman/
+  logo_link: https://drive.google.com/open?id=1B-lULWVgs7vucWhArK_ZuglGcJkQDLIP
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Urbano Gardens
-  Categoría: Jardinería, Plantas y Semillas
-  Descripción: Más que huertos urbanos, es un estilo de vida que nos enseña a respetar
-    el medio ambiente y que nos inspira a vivir y comer de la naturaleza.
-  Número de teléfono: '40421211'
-  Link de contacto directo (red social): https://www.instagram.com/urbanogardens/
   Email: info@urbanogardens.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1g1GSG_h75JVau5MAIgL-J8kTCfSEY6Ep
   id: rec756aqTI0h6FNRK
+  name: Urbano Gardens
+  category: Jardinería, Plantas y Semillas
+  description: Más que huertos urbanos, es un estilo de vida que nos enseña a respetar
+    el medio ambiente y que nos inspira a vivir y comer de la naturaleza.
+  phone: '40421211'
+  social_media: https://www.instagram.com/urbanogardens/
+  logo_link: https://drive.google.com/open?id=1g1GSG_h75JVau5MAIgL-J8kTCfSEY6Ep
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Beyond Service
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: 95Mascarillas KN95
-  Número de teléfono: '47394479'
-  Link de contacto directo (red social): https://www.facebook.com/Beyond-Service-Guatemala-382304325908648/
   Email: info@beyondserviceguatemala.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1iYS2Ubt2m_NdaCvqWlbJPAXc5pT6QYwT
   id: rec7EcdhMf0muXa5x
+  name: Beyond Service
+  category: Salud, Hospitales y Limpieza
+  description: 95Mascarillas KN95
+  phone: '47394479'
+  social_media: https://www.facebook.com/Beyond-Service-Guatemala-382304325908648/
+  logo_link: https://drive.google.com/open?id=1iYS2Ubt2m_NdaCvqWlbJPAXc5pT6QYwT
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Last Minute
-  Categoría: Librería e impresiones
-  Descripción: Servicios de impresión en variedad de superficies y materiales, encuadernación
+  Email: cotizaciones@lastminute.net.gt
+  id: rec7I6L7LPN019tC0
+  name: Last Minute
+  category: Librería e impresiones
+  description: Servicios de impresión en variedad de superficies y materiales, encuadernación
     y diseño para que tus ideas cobren vida tal como las imaginas. Nuestras puertas
     están abiertas las 24 horas, los 7 días de la semana. Entendemos tus ideas, ritmos
     de vida y hacemos realidad tus sueños.
-  Número de teléfono: '47406809'
-  Link de contacto directo (red social): https://www.facebook.com/LastMinute24horas/
-  Email: cotizaciones@lastminute.net.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1VMka8klJ5_JSEO8MiuhIH983L5DpuubA
-  id: rec7I6L7LPN019tC0
+  phone: '47406809'
+  social_media: https://www.facebook.com/LastMinute24horas/
+  logo_link: https://drive.google.com/open?id=1VMka8klJ5_JSEO8MiuhIH983L5DpuubA
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Atomic
-  Categoría: Estudios de Diseño y Creatividad
-  Descripción: Agencia de publicidad.
   Persona encargada del negocio: Alvaro del Cid
-  Número de teléfono: '24413739'
-  Link de contacto directo (red social): https://www.facebook.com/Atomic-535286946584548/
   Email: cuentas@atomicdiez.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1tVRia2A8sCQe79fVrWlL_AZFIcaoV2v-
   id: rec7MG7SfunNyHKr7
+  name: Atomic
+  category: Estudios de Diseño y Creatividad
+  description: Agencia de publicidad.
+  phone: '24413739'
+  social_media: https://www.facebook.com/Atomic-535286946584548/
+  logo_link: https://drive.google.com/open?id=1tVRia2A8sCQe79fVrWlL_AZFIcaoV2v-
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Café Despierto
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Nuestra pasión es el buen café. Nos encanta tomar más café de la cuenta.
-  Número de teléfono: '24273524'
-  Link de contacto directo (red social): https://www.facebook.com/CafeDespierto/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1Lr-2YnyIePTMXBXDCYn0rUJimbGfHmSp
   id: rec7WNboWLt5re2Q0
+  name: Café Despierto
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Nuestra pasión es el buen café. Nos encanta tomar más café de la cuenta.
+  phone: '24273524'
+  social_media: https://www.facebook.com/CafeDespierto/
+  logo_link: https://drive.google.com/open?id=1Lr-2YnyIePTMXBXDCYn0rUJimbGfHmSp
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Vivero Botanik
-  Categoría: Jardinería, Plantas y Semillas
-  Descripción: Un oasis dentro de la ciudad donde encuentra mas de 2000 variedades
-    de plantas. Respira,disfruta , juega y lleva la naturaleza a tu casa.
-  Número de teléfono: '22249999'
-  Link de contacto directo (red social): https://www.instagram.com/viverobotanikgt/
   Email: info@viverobotanik.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1-1nEbbDFGzy1eoyAS2bdiP3oRwV7_n6N
   id: rec7WPRIr3SsXNfcF
+  name: Vivero Botanik
+  category: Jardinería, Plantas y Semillas
+  description: Un oasis dentro de la ciudad donde encuentra mas de 2000 variedades
+    de plantas. Respira,disfruta , juega y lleva la naturaleza a tu casa.
+  phone: '22249999'
+  social_media: https://www.instagram.com/viverobotanikgt/
+  logo_link: https://drive.google.com/open?id=1-1nEbbDFGzy1eoyAS2bdiP3oRwV7_n6N
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Hospital Angeles
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Hospital Angeles es una institución privada que brinda servicios hospitalarios
+  Email: redessociales@hospitalangeles.com.gt
+  id: rec7YPx0P6b9Lpbxr
+  name: Hospital Angeles
+  category: Salud, Hospitales y Limpieza
+  description: Hospital Angeles es una institución privada que brinda servicios hospitalarios
     de alta calidad en la zona 1 de Guatemala, contamos con Emergencia 24 horas, encamamiento,
     maternidad, Centro de Diagnóstico, pediatría, cirugías, chequeos médicos
-  Número de teléfono: '25058100'
-  Link de contacto directo (red social): https://www.facebook.com/hospitalangelesgt/
-  Email: redessociales@hospitalangeles.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1tbmV20t4qQtXYKNgfRRyxoEOeaw-pO3x
-  id: rec7YPx0P6b9Lpbxr
+  phone: '25058100'
+  social_media: https://www.facebook.com/hospitalangelesgt/
+  logo_link: https://drive.google.com/open?id=1tbmV20t4qQtXYKNgfRRyxoEOeaw-pO3x
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Alianza Francesa
-  Categoría: Cartelera Cultural
-  Descripción: Es un centro de enseñanza de la lengua francesa y centro cultural.
-  Número de teléfono: '5647389'
-  Link de contacto directo (red social): http://www.alianzafrancesa.org.gt/
   Email: inscripciones@alianzafrancesa.org.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1Zk6TUAIg_WslI-6DqM5quW_aJ__f97dk
   id: rec85R3HlQxXP0Xkq
+  name: Alianza Francesa
+  category: Cartelera Cultural
+  description: Es un centro de enseñanza de la lengua francesa y centro cultural.
+  phone: '5647389'
+  social_media: http://www.alianzafrancesa.org.gt/
+  logo_link: https://drive.google.com/open?id=1Zk6TUAIg_WslI-6DqM5quW_aJ__f97dk
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Manada To Go
-  Categoría: Mensajería
-  Descripción: Mensajería Express
   Persona encargada del negocio: Alejandro Reyes
-  Número de teléfono: '51286518'
-  Link de contacto directo (red social): https://www.facebook.com/Ruido420
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1GJRtyXsQ5K8AqaEsYNJ_eEA6R0ggdFQo
   id: rec8SV7Pga2nBSQAt
+  name: Manada To Go
+  category: Mensajería
+  description: Mensajería Express
+  phone: '51286518'
+  social_media: https://www.facebook.com/Ruido420
+  logo_link: https://drive.google.com/open?id=1GJRtyXsQ5K8AqaEsYNJ_eEA6R0ggdFQo
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: QUO
-  Categoría: Inmobiliaria
-  Descripción: Proyecto inmobiliario en zona 4.
-  Link de contacto directo (red social): http://www.quo.com.gt/
   Email: |2
 
     mpedroza@gruporosul.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=10Vy_kT2Gvxx0c-Ysko_OykIOQuIRbXDD
   id: rec8aYvgZzkWQ6yWi
+  name: QUO
+  category: Inmobiliaria
+  description: Proyecto inmobiliario en zona 4.
+  social_media: http://www.quo.com.gt/
+  logo_link: https://drive.google.com/open?id=10Vy_kT2Gvxx0c-Ysko_OykIOQuIRbXDD
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Panadería Nawal
-  Categoría: Pan y Panadería
-  Descripción: Otro concepto de pan en el Centro Histórico
-  Número de teléfono: '47171358'
-  Link de contacto directo (red social): https://www.facebook.com/PanaderiaNawal
   Email: restaurantenawal@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1XAUPpoeEB3AU_hnY6Lr1Djka0X39NTnm
   id: rec8lIAGwPAhuSVxj
+  name: Panadería Nawal
+  category: Pan y Panadería
+  description: Otro concepto de pan en el Centro Histórico
+  phone: '47171358'
+  social_media: https://www.facebook.com/PanaderiaNawal
+  logo_link: https://drive.google.com/open?id=1XAUPpoeEB3AU_hnY6Lr1Djka0X39NTnm
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Verduras Gt
-  Categoría: Alimentos
-  Descripción: Verduras y frutas de alta calidad hasta la puerta de tu casa
-  Número de teléfono: '58902027'
-  Link de contacto directo (red social): https://www.instagram.com/verdurasgt/?hl=es-la
   Email: frutas.verduragt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1T2PFQjiE20t76LDO95pwzFC_HQlBsdgG
   id: rec9O2VTrbXcaBEcL
+  name: Verduras Gt
+  category: Alimentos
+  description: Verduras y frutas de alta calidad hasta la puerta de tu casa
+  phone: '58902027'
+  social_media: https://www.instagram.com/verdurasgt/?hl=es-la
+  logo_link: https://drive.google.com/open?id=1T2PFQjiE20t76LDO95pwzFC_HQlBsdgG
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Grupo Coral
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Comercialización, administración y asesoría de todos los ramos de seguros.
-  Número de teléfono: '58789020'
-  Link de contacto directo (red social): https://www.facebook.com/Grupo-Coral-413889325813948/
   Email: gerencia@grupocoralgt.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1ZstW4KHqprQziWgiiCoW6_bHPYPh1PEW
   id: rec9Xzc8UtFFyxnvz
+  name: Grupo Coral
+  category: Salud, Hospitales y Limpieza
+  description: Comercialización, administración y asesoría de todos los ramos de seguros.
+  phone: '58789020'
+  social_media: https://www.facebook.com/Grupo-Coral-413889325813948/
+  logo_link: https://drive.google.com/open?id=1ZstW4KHqprQziWgiiCoW6_bHPYPh1PEW
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: La Fototeca
-  Categoría: Clases online y Terapias
-  Descripción: Escuela y centro de fotografía contemporánea
-  Número de teléfono: '23368570'
-  Link de contacto directo (red social): http://www.lafototeca.org/
   Email: hola@lafototeca.org
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1gYXFD5CWbvKoZJDNpZatUJggclGXtjf0
   id: rec9d98A0rihO8Oq7
+  name: La Fototeca
+  category: Clases online y Terapias
+  description: Escuela y centro de fotografía contemporánea
+  phone: '23368570'
+  social_media: http://www.lafototeca.org/
+  logo_link: https://drive.google.com/open?id=1gYXFD5CWbvKoZJDNpZatUJggclGXtjf0
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: TALKIN’HEADS
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Talkin' Heads Salón de belleza en Guatemala expertos en el diseño de
+  Email: servicioalcliente@talkinheads.net
+  id: recALwL7ACBbVXjEm
+  name: TALKIN’HEADS
+  category: Salud, Hospitales y Limpieza
+  description: Talkin' Heads Salón de belleza en Guatemala expertos en el diseño de
     tu cabello, más que un salón una experiencia exclusiva en el país. Haz tu cita
     al 2300.7979
-  Número de teléfono: '23007979'
-  Link de contacto directo (red social): https://www.facebook.com/talkinheadsgt/
-  Email: servicioalcliente@talkinheads.net
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=14UcBn8Tyof_mGsZUm7IXhxw-brSFeKA9
-  id: recALwL7ACBbVXjEm
+  phone: '23007979'
+  social_media: https://www.facebook.com/talkinheadsgt/
+  logo_link: https://drive.google.com/open?id=14UcBn8Tyof_mGsZUm7IXhxw-brSFeKA9
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Cruzada
-  Categoría: Ropa, Joyería y Regalos
-  Descripción: Joyas 100% hechas a mano en plata de ley diseñadas en la Ciudad de
-    México.
-  Link de contacto directo (red social): https://www.facebook.com/Cruzada-Jewelry-Guatemala-103191171149839/
   Email: info@cruzadaplata.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1s1ghwQFIQgJpFNiQfEaQ7JlGgvagNOZ1
   id: recANT6qjDqlQl9aR
+  name: Cruzada
+  category: Ropa, Joyería y Regalos
+  description: Joyas 100% hechas a mano en plata de ley diseñadas en la Ciudad de
+    México.
+  social_media: https://www.facebook.com/Cruzada-Jewelry-Guatemala-103191171149839/
+  logo_link: https://drive.google.com/open?id=1s1ghwQFIQgJpFNiQfEaQ7JlGgvagNOZ1
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Saravandah Producciones
-  Categoría: Cartelera Cultural
-  Descripción: Saravandah Producciones es una empresa dedicada a la producción de
-    eventos artísticos fomentando el crecimiento de las artes escénicas en Guatemala.
-  Número de teléfono: '30238044'
-  Link de contacto directo (red social): https://www.facebook.com/SaravandahProducciones
   Email: saravandahp@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=16OFfYydxm50s3_wZIt0oXjH7rblZVUWq
   id: recAh2qhYWnKA8bzj
+  name: Saravandah Producciones
+  category: Cartelera Cultural
+  description: Saravandah Producciones es una empresa dedicada a la producción de
+    eventos artísticos fomentando el crecimiento de las artes escénicas en Guatemala.
+  phone: '30238044'
+  social_media: https://www.facebook.com/SaravandahProducciones
+  logo_link: https://drive.google.com/open?id=16OFfYydxm50s3_wZIt0oXjH7rblZVUWq
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: ARRA INMOBILIARIA
-  Categoría: Inmobiliaria
-  Descripción: Somos una empresa dedicada al alquiler y venta de casas, apartamentos,
+  Email: ar.arrainmobiliaria@gmail.com
+  id: recAyEebveSjFRPGH
+  name: ARRA INMOBILIARIA
+  category: Inmobiliaria
+  description: Somos una empresa dedicada al alquiler y venta de casas, apartamentos,
     terrenos, locales comerciales y bodegas ¡escríbenos seguro podemos apoyarte a
     encontrar tu nueva propiedad! Si lo puedes soñar, ¡lo podemos lograr!
-  Número de teléfono: '44070707'
-  Link de contacto directo (red social): https://www.easybroker.com/agent/web_pages
-  Email: ar.arrainmobiliaria@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1URjK8EAtdfZm_O3rohfD50liy9t6Ubru
-  id: recAyEebveSjFRPGH
+  phone: '44070707'
+  social_media: https://www.easybroker.com/agent/web_pages
+  logo_link: https://drive.google.com/open?id=1URjK8EAtdfZm_O3rohfD50liy9t6Ubru
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Coffe District
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Apasionados por el café de especialidad guatemalteco. Nos apasiona
-    servirles un excelente café acompañado con comida de la misma calidad.
-  Número de teléfono: '48686206'
-  Link de contacto directo (red social): https://www.facebook.com/coffeedistrict.gt/
   Email: info@coffeedistrict.co
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=12gtPPvaLfd3yVsNl894V5zAeSw-RoqJs
   id: recBENloAxxAjFMbe
+  name: Coffe District
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Apasionados por el café de especialidad guatemalteco. Nos apasiona
+    servirles un excelente café acompañado con comida de la misma calidad.
+  phone: '48686206'
+  social_media: https://www.facebook.com/coffeedistrict.gt/
+  logo_link: https://drive.google.com/open?id=12gtPPvaLfd3yVsNl894V5zAeSw-RoqJs
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Medisalud
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Equipo médico descartable y de seguridad ocupacional.
-  Número de teléfono: '41959815'
-  Link de contacto directo (red social): https://www.facebook.com/medisaludguatemala/
   Email: santiago@medisaludgt.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1GabLtyU9w5y_Hk93wOAPoB2e44Y16FTs
   id: recBXgkxVamoxn60n
+  name: Medisalud
+  category: Salud, Hospitales y Limpieza
+  description: Equipo médico descartable y de seguridad ocupacional.
+  phone: '41959815'
+  social_media: https://www.facebook.com/medisaludguatemala/
+  logo_link: https://drive.google.com/open?id=1GabLtyU9w5y_Hk93wOAPoB2e44Y16FTs
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: La Curiosa
-  Categoría: Estudios de Diseño y Creatividad
-  Descripción: 'Un estudio creativo formado por artistas y productores.  Nos especializamos
+  Persona encargada del negocio: Rodrigo Aguilar
+  Email: info@la-curiosa.com
+  id: recCAn165rolvfKBq
+  name: La Curiosa
+  category: Estudios de Diseño y Creatividad
+  description: 'Un estudio creativo formado por artistas y productores.  Nos especializamos
     en animación, creación de personajes y branding animado. Hemos trabajado para
     grandes corporaciones así como organizaciones que buscan promover el desarrollo
     social.  '
-  Persona encargada del negocio: Rodrigo Aguilar
-  Número de teléfono: '35516787'
-  Link de contacto directo (red social): https://www.facebook.com/EsLaCuriosa/
-  Email: info@la-curiosa.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1VaWVQ7zq7SJj67z0T_01sJzpbXINRF3i
-  id: recCAn165rolvfKBq
+  phone: '35516787'
+  social_media: https://www.facebook.com/EsLaCuriosa/
+  logo_link: https://drive.google.com/open?id=1VaWVQ7zq7SJj67z0T_01sJzpbXINRF3i
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Grupo Cimiento
-  Categoría: Jardinería, Plantas y Semillas
-  Descripción: Diseño y mantenimiento de jardines.
-  Número de teléfono: '54664656'
-  Link de contacto directo (red social): https://www.instagram.com/grupocimientosa/?hl=es
   Email: info@grupocimiento.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1Qo9XAvm5fWuOgDIjAYdf2IW7KUvQhPj-
   id: recCBfGKgI5K5sI3y
+  name: Grupo Cimiento
+  category: Jardinería, Plantas y Semillas
+  description: Diseño y mantenimiento de jardines.
+  phone: '54664656'
+  social_media: https://www.instagram.com/grupocimientosa/?hl=es
+  logo_link: https://drive.google.com/open?id=1Qo9XAvm5fWuOgDIjAYdf2IW7KUvQhPj-
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Ours Suculents
-  Categoría: Jardinería, Plantas y Semillas
-  Descripción: Suculentas para regalos y eventos, Tulipanes, Kokedamas
-  Número de teléfono: '30251609'
-  Link de contacto directo (red social): https://www.facebook.com/OURSsucculent/
   Email: suculentas.ours@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1KRcgRGvgWGoAnB995hfi_-3-G0AgObaW
   id: recCY9z1GDpa2fSNy
+  name: Ours Suculents
+  category: Jardinería, Plantas y Semillas
+  description: Suculentas para regalos y eventos, Tulipanes, Kokedamas
+  phone: '30251609'
+  social_media: https://www.facebook.com/OURSsucculent/
+  logo_link: https://drive.google.com/open?id=1KRcgRGvgWGoAnB995hfi_-3-G0AgObaW
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Mundi Deportes
-  Categoría: Deportes y Ejercicio
-  Descripción: Venta de artículos deportivos y de ejercicio.
-  Número de teléfono: '58265963'
-  Link de contacto directo (red social): https://www.facebook.com/MundiDeportes/
   Email: mundigerencia@yahoo.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1o2q3WZSkeafJPooHHrWH1T3KHZ3QWsV1
   id: recCeLPbEzHdJ4I0k
+  name: Mundi Deportes
+  category: Deportes y Ejercicio
+  description: Venta de artículos deportivos y de ejercicio.
+  phone: '58265963'
+  social_media: https://www.facebook.com/MundiDeportes/
+  logo_link: https://drive.google.com/open?id=1o2q3WZSkeafJPooHHrWH1T3KHZ3QWsV1
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Saúl Bistro
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: De la marca Saúl E. Méndez. Un punto informal para amantes de la buena
-    comida y el diseño.
-  Número de teléfono: '42469444'
-  Link de contacto directo (red social): https://mercado.saulemendez.com/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1n-a2CLZuf4Y86Z3-l2t5vSIqscTB6dbR
   id: recCn061mCpwfT6HE
+  name: Saúl Bistro
+  category: Restaurantes, Cafeterías y Heladerías
+  description: De la marca Saúl E. Méndez. Un punto informal para amantes de la buena
+    comida y el diseño.
+  phone: '42469444'
+  social_media: https://mercado.saulemendez.com/
+  logo_link: https://drive.google.com/open?id=1n-a2CLZuf4Y86Z3-l2t5vSIqscTB6dbR
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Banco Azteca
-  Categoría: Bancos
-  Número de teléfono: '22292222'
-  Link de contacto directo (red social): https://www.bancoazteca.com.gt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1OxZHrGsYwFKM3qfNngX7RW9lg4WH9rxQ
   id: recD9BGrypCcvuQti
+  name: Banco Azteca
+  category: Bancos
+  phone: '22292222'
+  social_media: https://www.bancoazteca.com.gt/
+  logo_link: https://drive.google.com/open?id=1OxZHrGsYwFKM3qfNngX7RW9lg4WH9rxQ
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Mandados Express
-  Categoría: Mensajería
-  Descripción: Nuestro compromiso es realizar sus encomiendas y mandados de una forma
-    rápida, eficiente, confiable y segura.
-  Número de teléfono: '24584324'
-  Link de contacto directo (red social): https://mandados.com.gt/
   Email: info@mandados.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1EkZBzjr6TaWpeAVcmnaYqKj4T3zs1zPO
   id: recDBVJUdIDPUdvrT
+  name: Mandados Express
+  category: Mensajería
+  description: Nuestro compromiso es realizar sus encomiendas y mandados de una forma
+    rápida, eficiente, confiable y segura.
+  phone: '24584324'
+  social_media: https://mandados.com.gt/
+  logo_link: https://drive.google.com/open?id=1EkZBzjr6TaWpeAVcmnaYqKj4T3zs1zPO
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Little India
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Comida Hindú
-  Número de teléfono: '22931284'
-  Link de contacto directo (red social): https://www.instagram.com/littleindiarestaurante/?hl=es
   Email: info@littleindiarestaurante.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1l2XnST0lwRwV4glGz2tb8TxGlLXDQQSS
   id: recDCrCKbTFsYDwH3
+  name: Little India
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Comida Hindú
+  phone: '22931284'
+  social_media: https://www.instagram.com/littleindiarestaurante/?hl=es
+  logo_link: https://drive.google.com/open?id=1l2XnST0lwRwV4glGz2tb8TxGlLXDQQSS
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: TRES TRISTES TIGRES
-  Categoría: Cartelera Cultural
-  Descripción: |-
+  id: recDdBHUA3vxHKOo0
+  name: TRES TRISTES TIGRES
+  category: Cartelera Cultural
+  description: |-
     Comunidad productora de contenido creativo
     arte • literatura • cine • música • diseño • etc
     somos un colectivo triste que contagia risas
-  Link de contacto directo (red social): https://www.instagram.com/trestristestigresenjaulados/tagged/?hl=es
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1vpm4omolU_k0xuzwHYspbMRHftQ9dGg7
-  id: recDdBHUA3vxHKOo0
+  social_media: https://www.instagram.com/trestristestigresenjaulados/tagged/?hl=es
+  logo_link: https://drive.google.com/open?id=1vpm4omolU_k0xuzwHYspbMRHftQ9dGg7
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: 502 Pizza
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Nacimos con la idea de hacer pizzas diferentes y ofrecer TRES opciones
-    nuevas CADA SEMANA.
-  Número de teléfono: '37239063'
-  Link de contacto directo (red social): https://www.facebook.com/502-Pizza-178626352247423/
   Email: 502pizzagt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1xCzEEdDmbvMpVWQ5j61mQ0qk-qSxy580
   id: recDgrJSChpwmqNLU
+  name: 502 Pizza
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Nacimos con la idea de hacer pizzas diferentes y ofrecer TRES opciones
+    nuevas CADA SEMANA.
+  phone: '37239063'
+  social_media: https://www.facebook.com/502-Pizza-178626352247423/
+  logo_link: https://drive.google.com/open?id=1xCzEEdDmbvMpVWQ5j61mQ0qk-qSxy580
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: La Jardinería GT
-  Categoría: Jardinería, Plantas y Semillas
-  Descripción: Servicio de jardinería, mantenimiento, construcción, diseño, riego,
-    fumigación . Cubrimos todo el país. Personal confiable.
-  Número de teléfono: '22951515'
-  Link de contacto directo (red social): https://www.facebook.com/jardineriagt/
   Email: lajardineriaguatemala@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=19uS3TFsE5SiL02FVax7QPLTBXQ7vVY8s
   id: recDpDOyOi746mewj
+  name: La Jardinería GT
+  category: Jardinería, Plantas y Semillas
+  description: Servicio de jardinería, mantenimiento, construcción, diseño, riego,
+    fumigación . Cubrimos todo el país. Personal confiable.
+  phone: '22951515'
+  social_media: https://www.facebook.com/jardineriagt/
+  logo_link: https://drive.google.com/open?id=19uS3TFsE5SiL02FVax7QPLTBXQ7vVY8s
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: GUIA PARA CREAR CONTENIDO
-  Categoría: Movilidad (bicicletas, skate, patines electricos,etc.)
-  Descripción: |-
-    Fotografía con celular para redes sociales
-    Grabar y editar videos con tu celular.
   Persona encargada del negocio: Yiyi Sosa
-  Número de teléfono: '57013986'
-  Link de contacto directo (red social): https://www.instagram.com/yiyisosa92/
   Email: |2-
 
     fersosacas@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1zUcziHPHmV2btptYD8Tf29iq7rHsITx7
   id: recE6PILIUSzg2t00
+  name: GUIA PARA CREAR CONTENIDO
+  category: Movilidad (bicicletas, skate, patines electricos,etc.)
+  description: |-
+    Fotografía con celular para redes sociales
+    Grabar y editar videos con tu celular.
+  phone: '57013986'
+  social_media: https://www.instagram.com/yiyisosa92/
+  logo_link: https://drive.google.com/open?id=1zUcziHPHmV2btptYD8Tf29iq7rHsITx7
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: FUNDACIÓN ROZAS BOTRÁN
-  Categoría: Cartelera Cultural
-  Descripción: La Fundación Rozas-Botrán, a través de la promoción del arte y la cultura,
-    apoya a los más necesitados en las áreas de salud, educación e investigación genética
-    humana.
-  Número de teléfono: '23667123'
-  Link de contacto directo (red social): http://www.fundacionrozasbotran.org/
   Email: 'info@fundacionrozasbotran.org
 
     '
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1yF-wnK4jkAQ30o5godtg05HDZrQ9R2IR
   id: recEAlYgk1xiNo3u5
+  name: FUNDACIÓN ROZAS BOTRÁN
+  category: Cartelera Cultural
+  description: La Fundación Rozas-Botrán, a través de la promoción del arte y la cultura,
+    apoya a los más necesitados en las áreas de salud, educación e investigación genética
+    humana.
+  phone: '23667123'
+  social_media: http://www.fundacionrozasbotran.org/
+  logo_link: https://drive.google.com/open?id=1yF-wnK4jkAQ30o5godtg05HDZrQ9R2IR
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Go Box Delivery
-  Categoría: Servicios online
-  Descripción: Compra en Amazon, Ebay o Best Buy al Copiar y Pegar el Link en nuestra
-    Web pagando en Quetzales e incluyendo todos los gastos.
-  Link de contacto directo (red social): https://www.facebook.com/GOBOXDELIVERY/
   Email: ventas@goboxdelivery.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1RNBM_YUlo0omXxuWKH57etrep5GbFStR
   id: recEXcqciYkUBXJ0P
+  name: Go Box Delivery
+  category: Servicios online
+  description: Compra en Amazon, Ebay o Best Buy al Copiar y Pegar el Link en nuestra
+    Web pagando en Quetzales e incluyendo todos los gastos.
+  social_media: https://www.facebook.com/GOBOXDELIVERY/
+  logo_link: https://drive.google.com/open?id=1RNBM_YUlo0omXxuWKH57etrep5GbFStR
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Baked Goods by Pramix
-  Categoría: Pan y Panadería
-  Descripción: Gluten Free, Lactose free & Guilt Free bakery SUGAR FREE & KETO Options
-  Número de teléfono: '41060432'
-  Link de contacto directo (red social): https://www.instagram.com/bakepramixgt/?hl=es
   Email: info.specialbakers@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1--ZSVH6xGqP7jlEqbhUl9sMz8dbl__fy
   id: recEwWErc64RNer0n
+  name: Baked Goods by Pramix
+  category: Pan y Panadería
+  description: Gluten Free, Lactose free & Guilt Free bakery SUGAR FREE & KETO Options
+  phone: '41060432'
+  social_media: https://www.instagram.com/bakepramixgt/?hl=es
+  logo_link: https://drive.google.com/open?id=1--ZSVH6xGqP7jlEqbhUl9sMz8dbl__fy
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Del Día Market
-  Categoría: Alimentos
-  Descripción: Somos una empresa de servicio ágil para la entrega a domicilio de frutas,
-    verduras y otros alimentos que cumplen altos estándares de calidad
-  Número de teléfono: '58675287'
-  Link de contacto directo (red social): https://www.facebook.com/DelDiaMarket
   Email: deldiamarket@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1G6kZrezvNFJT4AER19HVAXwITOSfM5Dw
   id: recEyrTrenXALSUa5
+  name: Del Día Market
+  category: Alimentos
+  description: Somos una empresa de servicio ágil para la entrega a domicilio de frutas,
+    verduras y otros alimentos que cumplen altos estándares de calidad
+  phone: '58675287'
+  social_media: https://www.facebook.com/DelDiaMarket
+  logo_link: https://drive.google.com/open?id=1G6kZrezvNFJT4AER19HVAXwITOSfM5Dw
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Aquasistemas
-  Categoría: Jardinería, Plantas y Semillas
-  Descripción: Equipo de Bombeo, Piscinas, Jacuzzis, Spa, Equipos de Riego, Equipos
-    Sumergibles, Aplicaciones Hidráulicas en General.
-  Número de teléfono: '23875500'
-  Link de contacto directo (red social): https://www.facebook.com/aquasistemasgt/
   Email: ventas@aquasistemas.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1AeG5cE_di2Z27Qf3EZP6RelLqYgU5vYJ
   id: recFHuz2Q0sNYHbcU
+  name: Aquasistemas
+  category: Jardinería, Plantas y Semillas
+  description: Equipo de Bombeo, Piscinas, Jacuzzis, Spa, Equipos de Riego, Equipos
+    Sumergibles, Aplicaciones Hidráulicas en General.
+  phone: '23875500'
+  social_media: https://www.facebook.com/aquasistemasgt/
+  logo_link: https://drive.google.com/open?id=1AeG5cE_di2Z27Qf3EZP6RelLqYgU5vYJ
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Kloster
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Llevamos a la mesa la cultura del fondue en versiones de quesos, carnes
-    y postres. Nuestro estilo de menú es el ideal para compartir.
-  Número de teléfono: '24582111'
-  Link de contacto directo (red social): https://www.facebook.com/restaurantekloster/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1dn5Mve9kdWleIW_9Xwja03u2htLVdX5l
   id: recFizugZToLWxFzN
+  name: Kloster
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Llevamos a la mesa la cultura del fondue en versiones de quesos, carnes
+    y postres. Nuestro estilo de menú es el ideal para compartir.
+  phone: '24582111'
+  social_media: https://www.facebook.com/restaurantekloster/
+  logo_link: https://drive.google.com/open?id=1dn5Mve9kdWleIW_9Xwja03u2htLVdX5l
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Mocca’s Homemade Bakery
-  Categoría: Pan y Panadería
-  Descripción: |-
+  Email: moccasbakerygt@gmail.com
+  id: recGdbAUXD2G4P2K8
+  name: Mocca’s Homemade Bakery
+  category: Pan y Panadería
+  description: |-
     Respostería para todo tipo de eventos, nuestra especialidad son pasteles únicos y exclusivos y mesas de repostería variada.
 
     Panadería Gourmet variada.
-  Número de teléfono: '55550879'
-  Link de contacto directo (red social): https://www.instagram.com/moccasbakerygt/?hl=es
-  Email: moccasbakerygt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1QMmoUF_LbS2KXXMDJfhgbIXsrMJ3sKTJ
-  id: recGdbAUXD2G4P2K8
+  phone: '55550879'
+  social_media: https://www.instagram.com/moccasbakerygt/?hl=es
+  logo_link: https://drive.google.com/open?id=1QMmoUF_LbS2KXXMDJfhgbIXsrMJ3sKTJ
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Virtud Milhongo
-  Categoría: Alimentos
-  Descripción: Somos proveedor especialista en el cultivo de variedad de Hongos Gourmet
-    y Saludable en Guatemala.
-  Número de teléfono: '54940266'
-  Link de contacto directo (red social): https://www.facebook.com/virtudmilhongo/?ref=page_internal
   Email: virtudmilhongo@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1ro9kfrGZCT-urrauTUXu4CmWdRzkfHaj
   id: recGfCVLBqBWZydHc
+  name: Virtud Milhongo
+  category: Alimentos
+  description: Somos proveedor especialista en el cultivo de variedad de Hongos Gourmet
+    y Saludable en Guatemala.
+  phone: '54940266'
+  social_media: https://www.facebook.com/virtudmilhongo/?ref=page_internal
+  logo_link: https://drive.google.com/open?id=1ro9kfrGZCT-urrauTUXu4CmWdRzkfHaj
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Fundación Puedes
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Yoga, terapias con caballos sin montarlos terapias - salud mental y
-    fisica, talleres en horticultura como terapia.
-  Número de teléfono: '31638160'
-  Link de contacto directo (red social): https://www.facebook.com/puedesguatemala/
   Email: mauricio.fundacionpuedes@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1cTfwM-WgiiAwyXfkzklAFn6Q9aggbDCq
   id: recGrHzoCLBOV1BDu
+  name: Fundación Puedes
+  category: Salud, Hospitales y Limpieza
+  description: Yoga, terapias con caballos sin montarlos terapias - salud mental y
+    fisica, talleres en horticultura como terapia.
+  phone: '31638160'
+  social_media: https://www.facebook.com/puedesguatemala/
+  logo_link: https://drive.google.com/open?id=1cTfwM-WgiiAwyXfkzklAFn6Q9aggbDCq
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Zepelines
-  Categoría: Pan y Panadería
-  Descripción: Zepelines de naranja, chocolate, banano y zanahoria.
-  Número de teléfono: '42155005'
-  Link de contacto directo (red social): https://wa.link/ekd0qi
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1At8NEilBo36F3e0wIHT6CYT8CGL3FAav
   id: recH0s4Z4y791w9mo
+  name: Zepelines
+  category: Pan y Panadería
+  description: Zepelines de naranja, chocolate, banano y zanahoria.
+  phone: '42155005'
+  social_media: https://wa.link/ekd0qi
+  logo_link: https://drive.google.com/open?id=1At8NEilBo36F3e0wIHT6CYT8CGL3FAav
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: THE ONE MAND BAND
-  Categoría: Cartelera Cultural
-  Descripción: 'Show virtual #CuarentenaRock a las 8:00pm tres veces a la semana.'
-  Número de teléfono: '32906060'
-  Link de contacto directo (red social): https://www.facebook.com/OneWizaMusic/
   Email: vocalead@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1W7xYfQH9_r91yc9c4yHNRwsOsV9-8y5T
   id: recHDcI1xXlylYFaZ
+  name: THE ONE MAND BAND
+  category: Cartelera Cultural
+  description: 'Show virtual #CuarentenaRock a las 8:00pm tres veces a la semana.'
+  phone: '32906060'
+  social_media: https://www.facebook.com/OneWizaMusic/
+  logo_link: https://drive.google.com/open?id=1W7xYfQH9_r91yc9c4yHNRwsOsV9-8y5T
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Helados Adela
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Inspirados en el amor de una abuelita Adela trae lo mejor de los helados
-    en una versión de los 50´s. Helados 100% artesanales llenos de amor
-  Número de teléfono: '47281445'
-  Link de contacto directo (red social): https://www.heladosadela.com/
   Email: hola@heladosadela.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1lpgsayyKdgHCOAt2h3O2_mlXHGm2kXa5
   id: recHmKko6U6fFmK0G
+  name: Helados Adela
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Inspirados en el amor de una abuelita Adela trae lo mejor de los helados
+    en una versión de los 50´s. Helados 100% artesanales llenos de amor
+  phone: '47281445'
+  social_media: https://www.heladosadela.com/
+  logo_link: https://drive.google.com/open?id=1lpgsayyKdgHCOAt2h3O2_mlXHGm2kXa5
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Skip
-  Categoría: Movilidad (bicicletas, skate, patines electricos,etc.)
-  Descripción: Somos parte de la evolución. Traemos movilidad eléctrica a Guatemala.
-  Número de teléfono: '45292606'
-  Link de contacto directo (red social): https://www.instagram.com/skipelectrico/?hl=es
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1jtGY4qM-17jPMEJRb-2q4J_dnEI9eyXi
   id: recI24pldZA0oIUUW
+  name: Skip
+  category: Movilidad (bicicletas, skate, patines electricos,etc.)
+  description: Somos parte de la evolución. Traemos movilidad eléctrica a Guatemala.
+  phone: '45292606'
+  social_media: https://www.instagram.com/skipelectrico/?hl=es
+  logo_link: https://drive.google.com/open?id=1jtGY4qM-17jPMEJRb-2q4J_dnEI9eyXi
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Librería Progreso
-  Categoría: Librería e impresiones
-  Descripción: "¡De todo para estudiantes, artistas, diseñadores, oficina!"
-  Número de teléfono: '23202727'
-  Link de contacto directo (red social): https://www.facebook.com/libreria.progreso.9/
   Email: pedidos@libreriaprogreso.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1ptXCeYcO4bcVvQLhxbX6UpgKTuXRlObB
   id: recIDpAotoGOBNZli
+  name: Librería Progreso
+  category: Librería e impresiones
+  description: "¡De todo para estudiantes, artistas, diseñadores, oficina!"
+  phone: '23202727'
+  social_media: https://www.facebook.com/libreria.progreso.9/
+  logo_link: https://drive.google.com/open?id=1ptXCeYcO4bcVvQLhxbX6UpgKTuXRlObB
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Manguificos
-  Categoría: Alimentos
-  Descripción: Mangos diferentes
-  Link de contacto directo (red social): https://www.instagram.com/manguificos/?hl=es-la
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1xp7gd96ISx62UZRxFmaiJ62x3xUImVHE
   id: recJ4I97VbuQJnpGa
+  name: Manguificos
+  category: Alimentos
+  description: Mangos diferentes
+  social_media: https://www.instagram.com/manguificos/?hl=es-la
+  logo_link: https://drive.google.com/open?id=1xp7gd96ISx62UZRxFmaiJ62x3xUImVHE
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Ceviches Colochef
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: 'Ceviches de autor por Pablo Bromo. Catering, Pop-Up y Delivery '
   Persona encargada del negocio: Pablo Bromo
-  Número de teléfono: '58258325'
-  Link de contacto directo (red social): https://www.facebook.com/locolochef
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1KsyaNpreH0t50o8bXHkEkMuf6RB3_drP
   id: recJftO9sv5YEFwa6
+  name: Ceviches Colochef
+  category: Restaurantes, Cafeterías y Heladerías
+  description: 'Ceviches de autor por Pablo Bromo. Catering, Pop-Up y Delivery '
+  phone: '58258325'
+  social_media: https://www.facebook.com/locolochef
+  logo_link: https://drive.google.com/open?id=1KsyaNpreH0t50o8bXHkEkMuf6RB3_drP
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: 'Lapau Catering '
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Lasañas, dip de espinaca y alcachofa, brownies, tartas, cheesecake.
-  Número de teléfono: '53068964'
-  Link de contacto directo (red social): https://www.instagram.com/lapaufoodstyling/?hl=es
   Email: hola@paulinadelacerda.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1JDQNdGfC17SW8AmDRpk3df_W2JdCZ-bd
   id: recKHhBZhidq05G62
+  name: 'Lapau Catering '
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Lasañas, dip de espinaca y alcachofa, brownies, tartas, cheesecake.
+  phone: '53068964'
+  social_media: https://www.instagram.com/lapaufoodstyling/?hl=es
+  logo_link: https://drive.google.com/open?id=1JDQNdGfC17SW8AmDRpk3df_W2JdCZ-bd
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Rock Star Prints
-  Categoría: Librería e impresiones
-  Descripción: Somos un centro de impresión a gran formato enfocados en la calidad
-    y el buen servicio
-  Número de teléfono: '49182284'
-  Link de contacto directo (red social): https://www.facebook.com/RockStarPrintsGT/
   Email: hola@rockstarprintsgt.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1hu24v6lS-Kzc6lYeG79QOl-WvusBYNoe
   id: recKNWINyiz8UBz01
+  name: Rock Star Prints
+  category: Librería e impresiones
+  description: Somos un centro de impresión a gran formato enfocados en la calidad
+    y el buen servicio
+  phone: '49182284'
+  social_media: https://www.facebook.com/RockStarPrintsGT/
+  logo_link: https://drive.google.com/open?id=1hu24v6lS-Kzc6lYeG79QOl-WvusBYNoe
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: GALERÍA 77
-  Categoría: Cartelera Cultural
-  Descripción: Galeria de Arte Contemporáneo New Contemporary Art Gallery
-  Número de teléfono: '47694492'
-  Link de contacto directo (red social): https://www.facebook.com/galeria77
   Email: galeria77gt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1iFbVFMCZ0PmNlnYKI_B1IsvZ4cNSkr7t
   id: recKWdNKZ3B3eQ9uQ
+  name: GALERÍA 77
+  category: Cartelera Cultural
+  description: Galeria de Arte Contemporáneo New Contemporary Art Gallery
+  phone: '47694492'
+  social_media: https://www.facebook.com/galeria77
+  logo_link: https://drive.google.com/open?id=1iFbVFMCZ0PmNlnYKI_B1IsvZ4cNSkr7t
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: La Marketina
-  Categoría: Alimentos
-  Descripción: 'La Marketina ofrece conservas artesanales 100% naturales, sin preservantes
+  Email: info@lamarketina.com
+  id: recKp2009XkIZ4iF0
+  name: La Marketina
+  category: Alimentos
+  description: 'La Marketina ofrece conservas artesanales 100% naturales, sin preservantes
     y con un sabor casero.
 
     '
-  Número de teléfono: '57698558'
-  Link de contacto directo (red social): https://www.facebook.com/LaMarketina
-  Email: info@lamarketina.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=18OqU4pTCGfdp_BYXaszBbMMfSi3Fy01a
-  id: recKp2009XkIZ4iF0
+  phone: '57698558'
+  social_media: https://www.facebook.com/LaMarketina
+  logo_link: https://drive.google.com/open?id=18OqU4pTCGfdp_BYXaszBbMMfSi3Fy01a
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: PANCHORIZO
-  Categoría: Cartelera Cultural
-  Descripción: |-
+  Persona encargada del negocio: Francisco Toralla
+  id: recLWVDw4C2BuN1qp
+  name: PANCHORIZO
+  category: Cartelera Cultural
+  description: |-
     Cumpleaños presenciales en jardín o balcón
     y vía zoom.
-  Persona encargada del negocio: Francisco Toralla
-  Número de teléfono: '52523122'
-  Link de contacto directo (red social): https://www.instagram.com/panchorizoguate/?hl=es
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1hVeqTOLA_yY_f1N9iagEVRvYLGPLx67A
-  id: recLWVDw4C2BuN1qp
+  phone: '52523122'
+  social_media: https://www.instagram.com/panchorizoguate/?hl=es
+  logo_link: https://drive.google.com/open?id=1hVeqTOLA_yY_f1N9iagEVRvYLGPLx67A
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: DISTRIBUIDORA ALCAZAREN
-  Categoría: Coctelería
-  Descripción: Con más de 50 años. Distribuidora y representante de marcas líderes
-    en el mercado Guatemalteco.
-  Número de teléfono: '52019851'
-  Link de contacto directo (red social): https://www.facebook.com/DistribuidoraAlcazaren
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1iH_QyuQ74I9hRs-Zo1Ld-z06xrIpmyc2
   id: recLe0tMpIwHgsV4c
+  name: DISTRIBUIDORA ALCAZAREN
+  category: Coctelería
+  description: Con más de 50 años. Distribuidora y representante de marcas líderes
+    en el mercado Guatemalteco.
+  phone: '52019851'
+  social_media: https://www.facebook.com/DistribuidoraAlcazaren
+  logo_link: https://drive.google.com/open?id=1iH_QyuQ74I9hRs-Zo1Ld-z06xrIpmyc2
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: El Garbanzo
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Entrega a domicilio de maridaje perfecto entre comida de medio oriente
-    y vino de diversas regiones Europa y Sur América .
-  Número de teléfono: '42184905'
-  Link de contacto directo (red social): https://www.facebook.com/El-Garbanzo-105236294513657/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1fU_kAXVp9-m0MnU-7aZSf2aQMHw1l2Wn
   id: recLi2qVx85AVQJ9y
+  name: El Garbanzo
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Entrega a domicilio de maridaje perfecto entre comida de medio oriente
+    y vino de diversas regiones Europa y Sur América .
+  phone: '42184905'
+  social_media: https://www.facebook.com/El-Garbanzo-105236294513657/
+  logo_link: https://drive.google.com/open?id=1fU_kAXVp9-m0MnU-7aZSf2aQMHw1l2Wn
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: INDUSTRIAL FITNESS
-  Categoría: Deportes y Ejercicio
-  Link de contacto directo (red social): https://www.instagram.com/industrialfitnessgt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1I8pGK0Yc4J--h9D2Dqp8iM0LuAjbL5jr
   id: recLrcwUuOXtqBbQ7
+  name: INDUSTRIAL FITNESS
+  category: Deportes y Ejercicio
+  social_media: https://www.instagram.com/industrialfitnessgt/
+  logo_link: https://drive.google.com/open?id=1I8pGK0Yc4J--h9D2Dqp8iM0LuAjbL5jr
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Bruni
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Lasagnas hechas en horno de leña.
-  Número de teléfono: '34009042'
-  Link de contacto directo (red social): https://www.instagram.com/brunisason/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1rawXOJWRWjHjS4n14ohpNvSFQ72D1rr-
   id: recMSu4Ijc6WlRM0v
+  name: Bruni
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Lasagnas hechas en horno de leña.
+  phone: '34009042'
+  social_media: https://www.instagram.com/brunisason/
+  logo_link: https://drive.google.com/open?id=1rawXOJWRWjHjS4n14ohpNvSFQ72D1rr-
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Tre Fratelli
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: En nuestros restaurantes ofrecemos promociones de platos seleccionados
+  Email: trefragroup.socialmedia@gmail.com
+  id: recN6Koa7HDHDqq27
+  name: Tre Fratelli
+  category: Restaurantes, Cafeterías y Heladerías
+  description: En nuestros restaurantes ofrecemos promociones de platos seleccionados
     a 2x1 con tarjetas Club BI, Promerica y BAM. Éstas NO aplican en días festivos.
-  Número de teléfono: '24205959'
-  Link de contacto directo (red social): |2-
+  phone: '24205959'
+  social_media: |2-
 
     http://www.trefratelli.trefragroup.com/
-  Email: trefragroup.socialmedia@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=12Xz7MiRBKlJiZXg509jSA6m7R99YFcrC
-  id: recN6Koa7HDHDqq27
+  logo_link: https://drive.google.com/open?id=12Xz7MiRBKlJiZXg509jSA6m7R99YFcrC
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: ANANDA YOGA
-  Categoría: Clases online y Terapias
-  Descripción: Welcome! this a space where you'll find love, positivitism and encouragement
-    for your own self healing and personal growth
-  Link de contacto directo (red social): http://www.anandayogaestudio.com/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1vHcufi1nEiRN0XbMPBPisama3QPbl5jp
   id: recN81pxImA5Nxcbq
+  name: ANANDA YOGA
+  category: Clases online y Terapias
+  description: Welcome! this a space where you'll find love, positivitism and encouragement
+    for your own self healing and personal growth
+  social_media: http://www.anandayogaestudio.com/
+  logo_link: https://drive.google.com/open?id=1vHcufi1nEiRN0XbMPBPisama3QPbl5jp
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: JAPONÉS EN GUATE
-  Categoría: Clases online y Terapias
-  Descripción: Fomentamos el interés por el estudio del idioma Japonés y la cultura
-    Japonesa.
-  Número de teléfono: '58668171'
-  Link de contacto directo (red social): https://www.facebook.com/japonesenguate/
   Email: japonesenguate2016@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1L8AqytALlOz8_jNhRwsGcgZPCtE4btxp
   id: recNNImZ2OvVdx1m4
+  name: JAPONÉS EN GUATE
+  category: Clases online y Terapias
+  description: Fomentamos el interés por el estudio del idioma Japonés y la cultura
+    Japonesa.
+  phone: '58668171'
+  social_media: https://www.facebook.com/japonesenguate/
+  logo_link: https://drive.google.com/open?id=1L8AqytALlOz8_jNhRwsGcgZPCtE4btxp
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Planesa Fresh
-  Categoría: Alimentos
-  Descripción: Somos parte de una empresa guatemalteca que desde hace más de 20 años
+  Email: hola@planesa.com.gt
+  id: recNa86OFLP2cgA8o
+  name: Planesa Fresh
+  category: Alimentos
+  description: Somos parte de una empresa guatemalteca que desde hace más de 20 años
     se ha dedicado a la producción y exportación de frutas y vegetales de calidad
     premium
-  Número de teléfono: '30709848'
-  Link de contacto directo (red social): |2-
+  phone: '30709848'
+  social_media: |2-
 
     http://bit.ly/PlanesaFreshOnline
-  Email: hola@planesa.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1N_zNvXwVHA6kRBtZY89hqqWNXGznpHWg
-  id: recNa86OFLP2cgA8o
+  logo_link: https://drive.google.com/open?id=1N_zNvXwVHA6kRBtZY89hqqWNXGznpHWg
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Ferretería El Globo
-  Categoría: Ferreterías
-  Descripción: Equipos para Soldadura, Herramientas Eléctricas, Accesorios, Herramientas
-    Manuales, Accesorios para Plomeria, Herrajes y Escaleras. De Todo en Ferretería.
-  Número de teléfono: '24988900'
-  Link de contacto directo (red social): https://www.facebook.com/ElGloboFerreteriaGT/
   Email: sac@ferreteriaelglobo.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1rLtWAYeez9KT7VM3QAa9GA4ixLMv_MgX
   id: recNps1fiRPGJDRet
+  name: Ferretería El Globo
+  category: Ferreterías
+  description: Equipos para Soldadura, Herramientas Eléctricas, Accesorios, Herramientas
+    Manuales, Accesorios para Plomeria, Herrajes y Escaleras. De Todo en Ferretería.
+  phone: '24988900'
+  social_media: https://www.facebook.com/ElGloboFerreteriaGT/
+  logo_link: https://drive.google.com/open?id=1rLtWAYeez9KT7VM3QAa9GA4ixLMv_MgX
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Bonito Mi Barrio
-  Categoría: Estudios de Diseño y Creatividad
-  Descripción: Servicios de murales para interior y exterior.
-  Número de teléfono: '41675098'
-  Link de contacto directo (red social): https://www.instagram.com/bonitomibarrio/?hl=es
   Email: bonitomibarrio@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1QvE3-w80PgYD11UHBX-vPY7K-QXhEg-i
   id: recNzTd9rmLwLH0Ke
+  name: Bonito Mi Barrio
+  category: Estudios de Diseño y Creatividad
+  description: Servicios de murales para interior y exterior.
+  phone: '41675098'
+  social_media: https://www.instagram.com/bonitomibarrio/?hl=es
+  logo_link: https://drive.google.com/open?id=1QvE3-w80PgYD11UHBX-vPY7K-QXhEg-i
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Banco de Antigua
-  Categoría: Bancos
-  Número de teléfono: '24205555'
-  Link de contacto directo (red social): https://bantigua.com.gt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1WRFla_OMl0jn6SnEHMuV_F23tARyYxWK
   id: recOID7KVNeqgpNRT
+  name: Banco de Antigua
+  category: Bancos
+  phone: '24205555'
+  social_media: https://bantigua.com.gt/
+  logo_link: https://drive.google.com/open?id=1WRFla_OMl0jn6SnEHMuV_F23tARyYxWK
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: EPA
-  Categoría: Ferreterías
-  Descripción: EPA es la cadena de tiendas con soluciones para el hogar en construcción,
-    decoración y remodelación.
-  Número de teléfono: '23050100'
-  Link de contacto directo (red social): https://www.facebook.com/EPAguatemala/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1d0uDake2alaTVwxmNsLLJSQEz8-kqKsE
   id: recOgkiumTYtqIJWn
+  name: EPA
+  category: Ferreterías
+  description: EPA es la cadena de tiendas con soluciones para el hogar en construcción,
+    decoración y remodelación.
+  phone: '23050100'
+  social_media: https://www.facebook.com/EPAguatemala/
+  logo_link: https://drive.google.com/open?id=1d0uDake2alaTVwxmNsLLJSQEz8-kqKsE
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: CORCHOS
-  Categoría: Coctelería
-  Descripción: Importadores y distribuidores exclusivos de marcas de vinos "Premium"
-    de países como Argentina, Francia, Chile, España, Italia, Portugal y Estados Unidos.
-  Número de teléfono: '22241100'
-  Link de contacto directo (red social): https://www.corchos.com.gt/
   Email: ventas@corchos.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1ji6gtYkLUeUk3mg-uHejb8klHOPAeVwG
   id: recOpGaOlkyD0kTjx
+  name: CORCHOS
+  category: Coctelería
+  description: Importadores y distribuidores exclusivos de marcas de vinos "Premium"
+    de países como Argentina, Francia, Chile, España, Italia, Portugal y Estados Unidos.
+  phone: '22241100'
+  social_media: https://www.corchos.com.gt/
+  logo_link: https://drive.google.com/open?id=1ji6gtYkLUeUk3mg-uHejb8klHOPAeVwG
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: SOL DEL RÍO
-  Categoría: Cartelera Cultural
-  Descripción: Somos un espacio para las artes visuales, creado en 1984. Su línea
-    incluye exposiciones e investigaciones de arte alternativo, con una apertura total
-    a expresiones artísticas actuales.
-  Número de teléfono: '49976899'
-  Link de contacto directo (red social): 'http://www.soldelrio.com/
-
-    '
   Email: |2-
 
     soldelrio@soldelrio.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1fqKPFsf0UoeuLrWAyAHaXwgwmeg4xFTw
   id: recOqD7DXTvE4iWsV
+  name: SOL DEL RÍO
+  category: Cartelera Cultural
+  description: Somos un espacio para las artes visuales, creado en 1984. Su línea
+    incluye exposiciones e investigaciones de arte alternativo, con una apertura total
+    a expresiones artísticas actuales.
+  phone: '49976899'
+  social_media: 'http://www.soldelrio.com/
+
+    '
+  logo_link: https://drive.google.com/open?id=1fqKPFsf0UoeuLrWAyAHaXwgwmeg4xFTw
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: POLYESTER MAGAZINE
-  Categoría: Cartelera Cultural
-  Descripción: Polyester es un espacio de referencia para quienes siguen y buscan
-    ampliar sus conocimientos sobre moda, música, estilo de vida y otros temas importantes
-    de la actualidad, sin atarse a la coyuntura.
-  Link de contacto directo (red social): http://www.polyestermag.com/
   Email: 'magazinepolyester@gmail.com
 
     '
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=16FNBhJhZS1DPT2n7IuXtMU9Ckt-IYM_M
   id: recOqungqgM9WelWz
+  name: POLYESTER MAGAZINE
+  category: Cartelera Cultural
+  description: Polyester es un espacio de referencia para quienes siguen y buscan
+    ampliar sus conocimientos sobre moda, música, estilo de vida y otros temas importantes
+    de la actualidad, sin atarse a la coyuntura.
+  social_media: http://www.polyestermag.com/
+  logo_link: https://drive.google.com/open?id=16FNBhJhZS1DPT2n7IuXtMU9Ckt-IYM_M
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Uniformes Castillo Gt
-  Categoría: Ropa, Joyería y Regalos
-  Descripción: Diseño y Confección de todo tipo de Uniformes.
-  Número de teléfono: '23340360'
-  Link de contacto directo (red social): http://www.uniformescastillo.com/
   Email: castillouniformes@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1InNscV1QxXLOdZD3MO44NmUGy9za2FMN
   id: recOuW92vzDEUnPCF
+  name: Uniformes Castillo Gt
+  category: Ropa, Joyería y Regalos
+  description: Diseño y Confección de todo tipo de Uniformes.
+  phone: '23340360'
+  social_media: http://www.uniformescastillo.com/
+  logo_link: https://drive.google.com/open?id=1InNscV1QxXLOdZD3MO44NmUGy9za2FMN
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Opíparo
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Comida honesta, cocina artesanal. Ubicaciones en Antigua Guatemala
-    y 4 Grados Norte. Servicio a domicilio
   Persona encargada del negocio: Carlos Sosa
-  Número de teléfono: '37231373'
-  Link de contacto directo (red social): https://www.facebook.com/opiparo.gt
   Email: opiparo.gt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1IrLRZKIGC2-dADqhVkQ3M3F01tUGO6Ti
   id: recP9HAmLKbpNrRuD
+  name: Opíparo
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Comida honesta, cocina artesanal. Ubicaciones en Antigua Guatemala
+    y 4 Grados Norte. Servicio a domicilio
+  phone: '37231373'
+  social_media: https://www.facebook.com/opiparo.gt
+  logo_link: https://drive.google.com/open?id=1IrLRZKIGC2-dADqhVkQ3M3F01tUGO6Ti
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Royale Studios
-  Categoría: Servicios online
-  Descripción: Diseño y desarrollo de páginas web.
-  Número de teléfono: '22183161'
-  Link de contacto directo (red social): https://www.facebook.com/royalecompany/
   Email: hola@royalestudios.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1kJSN8_J_M06FlUTwgdFf-_aRaJB_Iv3w
   id: recPH7AGCFWT3WMtt
+  name: Royale Studios
+  category: Servicios online
+  description: Diseño y desarrollo de páginas web.
+  phone: '22183161'
+  social_media: https://www.facebook.com/royalecompany/
+  logo_link: https://drive.google.com/open?id=1kJSN8_J_M06FlUTwgdFf-_aRaJB_Iv3w
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Beyond Service Guatemala
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Venta de equipo nuevo y usado para laboratorio clínico e industrial.
-    Contamos con más de 15 años de experiencia en la rama de la industria.
-  Número de teléfono: '47394479'
-  Link de contacto directo (red social): https://www.facebook.com/Beyond-Service-Guatemala-382304325908648
   Email: info@beyondserviceguatemala.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1Kax6okB2q3pdKapEflUB72F8yfkyf6X0
   id: recPH8P8rxAR2iORl
+  name: Beyond Service Guatemala
+  category: Salud, Hospitales y Limpieza
+  description: Venta de equipo nuevo y usado para laboratorio clínico e industrial.
+    Contamos con más de 15 años de experiencia en la rama de la industria.
+  phone: '47394479'
+  social_media: https://www.facebook.com/Beyond-Service-Guatemala-382304325908648
+  logo_link: https://drive.google.com/open?id=1Kax6okB2q3pdKapEflUB72F8yfkyf6X0
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: BANTRAB
-  Categoría: Bancos
-  Número de teléfono: '23633423'
-  Link de contacto directo (red social): https://www.bantrab.com.gt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1s5CkB2U7llPTkYb2o2MFfRPmcCSVsrja
   id: recPiFqL4luT9LQXB
+  name: BANTRAB
+  category: Bancos
+  phone: '23633423'
+  social_media: https://www.bantrab.com.gt/
+  logo_link: https://drive.google.com/open?id=1s5CkB2U7llPTkYb2o2MFfRPmcCSVsrja
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Algo Fuera de lo Normal
-  Categoría: Estudios de Diseño y Creatividad
-  Descripción: |-
+  Persona encargada del negocio: Mathias Fahsen
+  Email: booking@algofueradelonormal.com
+  id: recPwTaYk2EfGIPVF
+  name: Algo Fuera de lo Normal
+  category: Estudios de Diseño y Creatividad
+  description: |-
     Experimento social enfocado en impulsar la industria cultural y creativa.
     Creando experiencias únicas, magicas, disruptivas y llenas de concepto para lograr un SHIFT TRANSFORMACIONAL.
-  Persona encargada del negocio: Mathias Fahsen
-  Número de teléfono: '31177684'
-  Link de contacto directo (red social): https://www.instagram.com/guate.es.anormal/?hl=es
-  Email: booking@algofueradelonormal.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=11uP6u9fiYAJ_79kL_tzGGl8JclpNGS7g
-  id: recPwTaYk2EfGIPVF
+  phone: '31177684'
+  social_media: https://www.instagram.com/guate.es.anormal/?hl=es
+  logo_link: https://drive.google.com/open?id=11uP6u9fiYAJ_79kL_tzGGl8JclpNGS7g
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Papelería Tivoli
-  Categoría: Librería e impresiones
-  Descripción: De todo en artículos escolares, de oficina, arte, manualidades. 3 cómodas
-    ubicaciones y servicio a domicilio*. Las mejores marcas y el mejor surtido.
-  Número de teléfono: '24288090'
-  Link de contacto directo (red social): https://www.facebook.com/papeleriativoli/
   Email: ventas@papeleriativoli.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1SOR5-YXLrEoebmNQmzdecP0lr9D6Gm_d
   id: recQ3VKO2obqfcWA5
+  name: Papelería Tivoli
+  category: Librería e impresiones
+  description: De todo en artículos escolares, de oficina, arte, manualidades. 3 cómodas
+    ubicaciones y servicio a domicilio*. Las mejores marcas y el mejor surtido.
+  phone: '24288090'
+  social_media: https://www.facebook.com/papeleriativoli/
+  logo_link: https://drive.google.com/open?id=1SOR5-YXLrEoebmNQmzdecP0lr9D6Gm_d
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Hospitales La Paz
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: |-
+  Email: servicio@gruposermesa.com
+  id: recRcx59B4gyq6a2K
+  name: Hospitales La Paz
+  category: Salud, Hospitales y Limpieza
+  description: |-
     Centros Hospitalarios La Paz cuenta con 6 hospitales, La Paz Zona 14, La Paz Zona 11, La Paz Zona 10, La Paz Zona 1, La Paz Eskala y La Paz Occidente.
 
     Cuenta con 236 Camas de las cuales 27 son de Cuidados Intensivos; 19 Quirófanos, 38 Cubículos de Emergencia y 53 Clínicas.
-  Número de teléfono: '22099550'
-  Link de contacto directo (red social): https://www.facebook.com/CentrosHospitalariosLaPaz/
-  Email: servicio@gruposermesa.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1DiN_RkqdAVgJnLlKAdkU8Kl2ZhOO-Mpi
-  id: recRcx59B4gyq6a2K
+  phone: '22099550'
+  social_media: https://www.facebook.com/CentrosHospitalariosLaPaz/
+  logo_link: https://drive.google.com/open?id=1DiN_RkqdAVgJnLlKAdkU8Kl2ZhOO-Mpi
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Arrin Cuan
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Comida guatemalteca con recetas propias y autenticas.
-  Número de teléfono: '22380242'
-  Link de contacto directo (red social): https://www.facebook.com/ArrinCuan/
   Email: centrohistorico@arrincuan.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1WkJS_vK2GZ_eXjr8VBoSXx3ZYXjBYgur
   id: recRo2Z2Mtgy2QbGB
+  name: Arrin Cuan
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Comida guatemalteca con recetas propias y autenticas.
+  phone: '22380242'
+  social_media: https://www.facebook.com/ArrinCuan/
+  logo_link: https://drive.google.com/open?id=1WkJS_vK2GZ_eXjr8VBoSXx3ZYXjBYgur
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Mascarillas Luis Villacinda
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: 'Creyente del agua clara :: Diseñador gráfico, masoquista, inoxidable,
-    rudo, rasposo y callejero. '
   Persona encargada del negocio: Luis Villacinda
-  Número de teléfono: '40010312'
-  Link de contacto directo (red social): https://www.facebook.com/villacindaluisdesign
   Email: |2
 
     creyentedelaguaclara@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1qSaRFIj44YOyFh17NYeQIAIAvZ4MBdtV
   id: recS0waKdANJPMU7i
+  name: Mascarillas Luis Villacinda
+  category: Salud, Hospitales y Limpieza
+  description: 'Creyente del agua clara :: Diseñador gráfico, masoquista, inoxidable,
+    rudo, rasposo y callejero. '
+  phone: '40010312'
+  social_media: https://www.facebook.com/villacindaluisdesign
+  logo_link: https://drive.google.com/open?id=1qSaRFIj44YOyFh17NYeQIAIAvZ4MBdtV
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Banrural
-  Categoría: Bancos
-  Número de teléfono: '23398888'
-  Link de contacto directo (red social): https://www.banrural.com.gt/banruralc/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1o2y3h7U2aw_293oZf3PxpUBv4Ke6UOuI
   id: recS1GNZz1Rji0lKc
+  name: Banrural
+  category: Bancos
+  phone: '23398888'
+  social_media: https://www.banrural.com.gt/banruralc/
+  logo_link: https://drive.google.com/open?id=1o2y3h7U2aw_293oZf3PxpUBv4Ke6UOuI
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Tu Mercadito Gt
-  Categoría: Alimentos
-  Descripción: Desde la comodidad de tú hogar podrás realizar tus compras de frutas
+  Email: informacion@tumercaditogt.com
+  id: recSLrWHi2E1OoMss
+  name: Tu Mercadito Gt
+  category: Alimentos
+  description: Desde la comodidad de tú hogar podrás realizar tus compras de frutas
     y vegetales como en el mismo mercado; producto fresco y de excelente calidad a
     un buen precio. Te entregamos tú pedido a la puerta de tú hogar o a la dirección
     que indiques en tú solicitud
-  Número de teléfono: '57127641'
-  Link de contacto directo (red social): https://www.facebook.com/tumercaditogt
-  Email: informacion@tumercaditogt.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1d0OKfCbBBsFBcpEck_PfUJUUai1EICo6
-  id: recSLrWHi2E1OoMss
+  phone: '57127641'
+  social_media: https://www.facebook.com/tumercaditogt
+  logo_link: https://drive.google.com/open?id=1d0OKfCbBBsFBcpEck_PfUJUUai1EICo6
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Queseso
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Somos un misterio, una búsqueda. Exploradores del mejor queso y vino.
-    Un momento para la mejor compañía.
-  Número de teléfono: '47281445'
-  Link de contacto directo (red social): https://www.instagram.com/quesesogt/?hl=es
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=180icuMqt2YB14AqHpbBGTY3qgRz9sAMQ
   id: recSYrNhWVJFpBsPI
+  name: Queseso
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Somos un misterio, una búsqueda. Exploradores del mejor queso y vino.
+    Un momento para la mejor compañía.
+  phone: '47281445'
+  social_media: https://www.instagram.com/quesesogt/?hl=es
+  logo_link: https://drive.google.com/open?id=180icuMqt2YB14AqHpbBGTY3qgRz9sAMQ
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: La Casa de las Flores
-  Categoría: Jardinería, Plantas y Semillas
-  Descripción: Tu Vivero Favorito, plantas, orquídeas, macetas y más...
-  Número de teléfono: '47186338'
-  Link de contacto directo (red social): https://www.instagram.com/casadelasfloresgt/?hl=es
   Email: infocasadelaaflores@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1vCN77qC5nAVfiDL3ZdVvt8-kp-rtWBCw
   id: recSyeGkK1LP7Hw8o
+  name: La Casa de las Flores
+  category: Jardinería, Plantas y Semillas
+  description: Tu Vivero Favorito, plantas, orquídeas, macetas y más...
+  phone: '47186338'
+  social_media: https://www.instagram.com/casadelasfloresgt/?hl=es
+  logo_link: https://drive.google.com/open?id=1vCN77qC5nAVfiDL3ZdVvt8-kp-rtWBCw
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: CAMILLE ESCUELA DE ALTA COCINA
-  Categoría: Clases online y Terapias
-  Descripción: |-
-    Escuela de Cocina desde 1996. Diplomados, Clases
-    y Talleres para todos los amantes de la cocina.
-  Número de teléfono: '23680048'
-  Link de contacto directo (red social): https://www.facebook.com/camillecocina
   Email: 'camille@camillecocina.com
 
     '
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1jx6yyvK9lkjq83aKit0b_2s1j5zhKTnH
   id: recSzZVyaKJQLguuw
+  name: CAMILLE ESCUELA DE ALTA COCINA
+  category: Clases online y Terapias
+  description: |-
+    Escuela de Cocina desde 1996. Diplomados, Clases
+    y Talleres para todos los amantes de la cocina.
+  phone: '23680048'
+  social_media: https://www.facebook.com/camillecocina
+  logo_link: https://drive.google.com/open?id=1jx6yyvK9lkjq83aKit0b_2s1j5zhKTnH
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: EL HUB PODCAST
-  Categoría: Cartelera Cultural
-  Descripción: |-
+  id: recT1T0RrQm826Q0J
+  name: EL HUB PODCAST
+  category: Cartelera Cultural
+  description: |-
     Cineastas de latinoamerica hablan sobre cómo hacer
     cine y no morir en el intento.
-  Link de contacto directo (red social): https://www.facebook.com/elhubpodcast
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=18zpEtRAaQ7XdHhJSG5Gkv5v8sgGQ6BLb
-  id: recT1T0RrQm826Q0J
+  social_media: https://www.facebook.com/elhubpodcast
+  logo_link: https://drive.google.com/open?id=18zpEtRAaQ7XdHhJSG5Gkv5v8sgGQ6BLb
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: RHINO Electric Bikes
-  Categoría: Movilidad (bicicletas, skate, patines electricos,etc.)
-  Descripción: |-
+  Email: rhinoelectricbikes@gmail.com
+  id: recTvX1n7mk9tqr0I
+  name: RHINO Electric Bikes
+  category: Movilidad (bicicletas, skate, patines electricos,etc.)
+  description: |-
     Venta de bicicletas con asistencia eléctrica.
     - Motor: 220W, 250W
     - Batería de litio recargable (incluye cargador)
     - Distancia: hasta 40 kms con asistencia eléctrica
     - Velocidad: hasta 30km/hr con asistencia eléctrica
     - Frenos de disco, v-brake
-  Número de teléfono: '23005100'
-  Link de contacto directo (red social): https://www.facebook.com/rhinoelectricbikes/
-  Email: rhinoelectricbikes@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1iThWo61DEmsp77X2uT2PI2hvIgrOn_3Z
-  id: recTvX1n7mk9tqr0I
+  phone: '23005100'
+  social_media: https://www.facebook.com/rhinoelectricbikes/
+  logo_link: https://drive.google.com/open?id=1iThWo61DEmsp77X2uT2PI2hvIgrOn_3Z
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: The New Denim Project
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Sustainable Design Lab & New Wave Textile Mill - a project by IRIS
-    TEXTILES, est. 1956
-  Número de teléfono: '22043900'
-  Link de contacto directo (red social): http://www.thenewdenimproject.com/
   Email: tndp@iristextiles.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1salCmjqO5gGRSMkt82Gxc4kUEdCmNN4G
   id: recTwSrDfc5VoZ2pR
+  name: The New Denim Project
+  category: Salud, Hospitales y Limpieza
+  description: Sustainable Design Lab & New Wave Textile Mill - a project by IRIS
+    TEXTILES, est. 1956
+  phone: '22043900'
+  social_media: http://www.thenewdenimproject.com/
+  logo_link: https://drive.google.com/open?id=1salCmjqO5gGRSMkt82Gxc4kUEdCmNN4G
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Yogurt San Andrés
-  Categoría: Lácteos y Derivados
-  Descripción: YOGURT SAN ANDRÉS, 100% GUATEMALTECO, NATURAL Y EL MEJOR DEL PAIS!
-  Número de teléfono: '123'
-  Link de contacto directo (red social): https://www.instagram.com/yogurtsanandresgt/?hl=es-la
   Email: yogurtsanandres@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1RKS_N_3GIo5gcXyKxgLxQX8XobpLZHLU
   id: recUAnYqCpoQ9kf1v
+  name: Yogurt San Andrés
+  category: Lácteos y Derivados
+  description: YOGURT SAN ANDRÉS, 100% GUATEMALTECO, NATURAL Y EL MEJOR DEL PAIS!
+  phone: '123'
+  social_media: https://www.instagram.com/yogurtsanandresgt/?hl=es-la
+  logo_link: https://drive.google.com/open?id=1RKS_N_3GIo5gcXyKxgLxQX8XobpLZHLU
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Miettes
-  Categoría: Lácteos y Derivados
-  Descripción: Lacteos y huevos de diferentes emprendimientos.
-  Número de teléfono: '30086131'
-  Link de contacto directo (red social): https://www.instagram.com/miettesgt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1RCmqfklB3saJqrYlemuP-FFIkw6q5Xdg
   id: recUQV2SDn8dlxBZh
+  name: Miettes
+  category: Lácteos y Derivados
+  description: Lacteos y huevos de diferentes emprendimientos.
+  phone: '30086131'
+  social_media: https://www.instagram.com/miettesgt/
+  logo_link: https://drive.google.com/open?id=1RCmqfklB3saJqrYlemuP-FFIkw6q5Xdg
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Cemaco
-  Categoría: Ferreterías
-  Descripción: CEMACO es la cadena más grande de tiendas en Guatemala enfocada en
-    ofrecer productos y servicios de la más alta calidad para mejoras del hogar.
-  Número de teléfono: '24999900'
-  Link de contacto directo (red social): https://www.facebook.com/cemacogt/
   Email: tusamigos@cemaco.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1s6O4ykRaAbdeQa2Uebr5VQfEpUFLF9A5
   id: recUktLRzUSgesdzy
+  name: Cemaco
+  category: Ferreterías
+  description: CEMACO es la cadena más grande de tiendas en Guatemala enfocada en
+    ofrecer productos y servicios de la más alta calidad para mejoras del hogar.
+  phone: '24999900'
+  social_media: https://www.facebook.com/cemacogt/
+  logo_link: https://drive.google.com/open?id=1s6O4ykRaAbdeQa2Uebr5VQfEpUFLF9A5
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Centro Médico
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Contamos con Hospitalización, Hospital de día, Sala de Emergencia y
+  Email: mercadeo@centromedico.com.gt
+  id: recW7iZ7IHEo1YZUP
+  name: Centro Médico
+  category: Salud, Hospitales y Limpieza
+  description: Contamos con Hospitalización, Hospital de día, Sala de Emergencia y
     la Unidad de Tratamiento Intensivo. Además de 10 Laboratorios periféricos, Centros
     de Diagnóstico de Imágenes, Departamento de Medicina Física y Rehabilitación,
     entre otros.
-  Número de teléfono: '23194600'
-  Link de contacto directo (red social): https://www.facebook.com/CentroMedicoGuatemala/
-  Email: mercadeo@centromedico.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1KQGtZdLufkyb1n72oInDwYs3s9J3irDK
-  id: recW7iZ7IHEo1YZUP
+  phone: '23194600'
+  social_media: https://www.facebook.com/CentroMedicoGuatemala/
+  logo_link: https://drive.google.com/open?id=1KQGtZdLufkyb1n72oInDwYs3s9J3irDK
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: ORIENTACIÓN PROFESIONAL PARA ARTISTAS
-  Categoría: Clases online y Terapias
-  Link de contacto directo (red social): https://docs.google.com/forms/d/e/1FAIpQLScRXDzEBTP9BMVe8JQSgltkhgkjdZjNsK1HZSZn2vlg74YcHg/viewform
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=11Wi_pbXE-U57ZpN-uLbdws_Xbo2_Yd5y
   id: recWUYqcFY3LcL84k
+  name: ORIENTACIÓN PROFESIONAL PARA ARTISTAS
+  category: Clases online y Terapias
+  social_media: https://docs.google.com/forms/d/e/1FAIpQLScRXDzEBTP9BMVe8JQSgltkhgkjdZjNsK1HZSZn2vlg74YcHg/viewform
+  logo_link: https://drive.google.com/open?id=11Wi_pbXE-U57ZpN-uLbdws_Xbo2_Yd5y
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: El Mercadito de Lola
-  Categoría: Alimentos
-  Descripción: Restaurante y tienda de productos orgánicos y artesanales. Zona 15,
-    ciudad de Guatemala
-  Número de teléfono: '22936899'
-  Link de contacto directo (red social): https://www.facebook.com/elmercaditodelola
   Email: elmercaditodelola@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1YEbLeU2n8-izsweh_cjrUPHO17N7314K
   id: recWXYEKbaigPgDpt
+  name: El Mercadito de Lola
+  category: Alimentos
+  description: Restaurante y tienda de productos orgánicos y artesanales. Zona 15,
+    ciudad de Guatemala
+  phone: '22936899'
+  social_media: https://www.facebook.com/elmercaditodelola
+  logo_link: https://drive.google.com/open?id=1YEbLeU2n8-izsweh_cjrUPHO17N7314K
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Librería Platino
-  Categoría: Librería e impresiones
-  Descripción: Sólida empresa de servicio bajo conceptos innovadores de comercialización,
+  id: recWen20AzZw29rJf
+  name: Librería Platino
+  category: Librería e impresiones
+  description: Sólida empresa de servicio bajo conceptos innovadores de comercialización,
     distribución y promoción de artículos de oficina, escolar, tecnología, papelería,
     arte y hogar.
-  Número de teléfono: '57169677'
-  Link de contacto directo (red social): https://www.facebook.com/platino.tienda/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1mmYNGlGFQZEi1uCmxZMfWCqTENX7w4c6
-  id: recWen20AzZw29rJf
+  phone: '57169677'
+  social_media: https://www.facebook.com/platino.tienda/
+  logo_link: https://drive.google.com/open?id=1mmYNGlGFQZEi1uCmxZMfWCqTENX7w4c6
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Carnes y Embutidos El Parrillero
-  Categoría: Alimentos
-  Descripción: Carnes y Embutidos de la mejor calidad a la puerta de tu casa o negocio.
-  Número de teléfono: '37171753'
-  Link de contacto directo (red social): https://primemeatimport.com/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1H5MGac4OpgIX9fOavH5CNEurm0vprdJn
   id: recWsEGwVVoIYQyr3
+  name: Carnes y Embutidos El Parrillero
+  category: Alimentos
+  description: Carnes y Embutidos de la mejor calidad a la puerta de tu casa o negocio.
+  phone: '37171753'
+  social_media: https://primemeatimport.com/
+  logo_link: https://drive.google.com/open?id=1H5MGac4OpgIX9fOavH5CNEurm0vprdJn
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Grupo Gaya
-  Categoría: Jardinería, Plantas y Semillas
-  Descripción: |-
+  Persona encargada del negocio: Pablo Chinchilla
+  Email: gerencia@grupogaya.com
+  id: recWxQ3kN4QI8z8Wi
+  name: Grupo Gaya
+  category: Jardinería, Plantas y Semillas
+  description: |-
     Chipeadoras GTM Professional.
 
     Soluciones para el manejo de residuos en actividades
     agrícolas, pecuarias y de jardinería con maquinaria y
     tecnología amigable con el medio ambiente.
-  Persona encargada del negocio: Pablo Chinchilla
-  Número de teléfono: '41996511'
-  Link de contacto directo (red social): https://www.facebook.com/grupogayaguatemala/
-  Email: gerencia@grupogaya.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1N61dONqA1XTnZjUCHF4vi2YRnIJUApiH
-  id: recWxQ3kN4QI8z8Wi
+  phone: '41996511'
+  social_media: https://www.facebook.com/grupogayaguatemala/
+  logo_link: https://drive.google.com/open?id=1N61dONqA1XTnZjUCHF4vi2YRnIJUApiH
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: BAC
-  Categoría: Bancos
-  Número de teléfono: '23610909'
-  Link de contacto directo (red social): https://www.baccredomatic.com/es-gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=10_AdZAjpLEjPmE3cycyHjipCQgpEkfpi
   id: recXDXYSuX5bIT9f5
+  name: BAC
+  category: Bancos
+  phone: '23610909'
+  social_media: https://www.baccredomatic.com/es-gt
+  logo_link: https://drive.google.com/open?id=10_AdZAjpLEjPmE3cycyHjipCQgpEkfpi
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: MOKSHA SHALA
-  Categoría: Clases online y Terapias
-  Descripción: Estudio de yoga enfocado en la sanación, el balance y la libertad.
-  Link de contacto directo (red social): https://www.facebook.com/mokshashalagt
   Email: |2
 
     mokshashalagt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1rJ2-eXzGkOs9DI1C9F6SdpwqfMmEGDLG
   id: recXKNWpFfw9joKQT
+  name: MOKSHA SHALA
+  category: Clases online y Terapias
+  description: Estudio de yoga enfocado en la sanación, el balance y la libertad.
+  social_media: https://www.facebook.com/mokshashalagt
+  logo_link: https://drive.google.com/open?id=1rJ2-eXzGkOs9DI1C9F6SdpwqfMmEGDLG
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Multimédica
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Somos un Complejo de atención médica moderno e innovador en Guatemala.
+  Email: info@multimedica.com.gt
+  id: recXRDjgkPv7uRhg4
+  name: Multimédica
+  category: Salud, Hospitales y Limpieza
+  description: Somos un Complejo de atención médica moderno e innovador en Guatemala.
     Contamos con más de 250 profesionales con 45 diferentes especialidades. Nuestros
     servicios incluyen hospital, centro de diagnostico TECNISCAN (El mas grande en
     el área centroamericana), laboratorio clínico, farmacia y helipuerto, distinguiéndonos
     por personal altamente calificado que provee servicios a la vanguardia de la tecnología,
     innovación y altos estándares de calidad.
-  Número de teléfono: '23857555'
-  Link de contacto directo (red social): https://www.facebook.com/MultimedicaVistaHermosa/
-  Email: info@multimedica.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1o7VB5pe7yEbvXSMSQBEG16oMyC_KASJ3
-  id: recXRDjgkPv7uRhg4
+  phone: '23857555'
+  social_media: https://www.facebook.com/MultimedicaVistaHermosa/
+  logo_link: https://drive.google.com/open?id=1o7VB5pe7yEbvXSMSQBEG16oMyC_KASJ3
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: LA REBELDE
-  Categoría: Cartelera Cultural
-  Descripción: Decoración de interiores
-  Número de teléfono: '56911907'
-  Link de contacto directo (red social): https://www.facebook.com/larebeldecoleccion
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1P_nKauxA-pH55VU903gVZ7ueNcUQondG
   id: recY1rEKS8wVCEd4Z
+  name: LA REBELDE
+  category: Cartelera Cultural
+  description: Decoración de interiores
+  phone: '56911907'
+  social_media: https://www.facebook.com/larebeldecoleccion
+  logo_link: https://drive.google.com/open?id=1P_nKauxA-pH55VU903gVZ7ueNcUQondG
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Sassón
-  Categoría: Alimentos
-  Descripción: Condimentos ricos y saludables para tus comidas
-  Número de teléfono: '66289000'
-  Link de contacto directo (red social): https://www.facebook.com/AlimentosSasson
   Email: consultas@grupoalza.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1MId_zvUsGCIEg5Div05iNPTAokmLNyXP
   id: recYUtv9BYUENHf7j
+  name: Sassón
+  category: Alimentos
+  description: Condimentos ricos y saludables para tus comidas
+  phone: '66289000'
+  social_media: https://www.facebook.com/AlimentosSasson
+  logo_link: https://drive.google.com/open?id=1MId_zvUsGCIEg5Div05iNPTAokmLNyXP
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Top Bikes de Vecesa
-  Categoría: Movilidad (bicicletas, skate, patines electricos,etc.)
-  Descripción: Tienda de Bicicletas.
-  Número de teléfono: '23657431'
-  Link de contacto directo (red social): |2-
+  id: recYWQYDwfXQ417Rt
+  name: Top Bikes de Vecesa
+  category: Movilidad (bicicletas, skate, patines electricos,etc.)
+  description: Tienda de Bicicletas.
+  phone: '23657431'
+  social_media: |2-
 
     http://www.vecesa.com.gt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1RtfRqPc3is3djNeBpbeqDZge1WYxdAgD
-  id: recYWQYDwfXQ417Rt
+  logo_link: https://drive.google.com/open?id=1RtfRqPc3is3djNeBpbeqDZge1WYxdAgD
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: La Virula Gt
-  Categoría: Mensajería
-  Descripción: |-
+  Email: info@lavirulagt.com
+  id: recYj4r5vZBUjsYJ1
+  name: La Virula Gt
+  category: Mensajería
+  description: |-
     La Virula App busca unir negocios y emprendimientos con una red de ecomensajeros urbanos independientes.
 
     No pagues de más en comisiones o cobros escondidos, te ofrecemos tarifas planas, sin recargos adicionales.
-  Número de teléfono: '36082222'
-  Link de contacto directo (red social): https://www.facebook.com/lavirula/
-  Email: info@lavirulagt.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1bfI3rqGVMt2elYXnn7EOK4IQgMIirtav
-  id: recYj4r5vZBUjsYJ1
+  phone: '36082222'
+  social_media: https://www.facebook.com/lavirula/
+  logo_link: https://drive.google.com/open?id=1bfI3rqGVMt2elYXnn7EOK4IQgMIirtav
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Leche de Almendra Silk
-  Categoría: Lácteos y Derivados
-  Descripción: Somos una empresa GT que ofrece los mejores productos al mejor precio
-    en la puerta de tu casa o negocio en todo el país.
-  Número de teléfono: '41347549'
-  Link de contacto directo (red social): https://www.instagram.com/selecciondelchefdelivery/?hl=es-la
   Email: 'sac@selecciondelchef.com '
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1CGge-t0671moa5ueMRjp_AbmhdvJ2VRK
   id: recZShRgJwRQxV6nX
+  name: Leche de Almendra Silk
+  category: Lácteos y Derivados
+  description: Somos una empresa GT que ofrece los mejores productos al mejor precio
+    en la puerta de tu casa o negocio en todo el país.
+  phone: '41347549'
+  social_media: https://www.instagram.com/selecciondelchefdelivery/?hl=es-la
+  logo_link: https://drive.google.com/open?id=1CGge-t0671moa5ueMRjp_AbmhdvJ2VRK
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Sobre Ruedas
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Recetas gourmet internacionales, comida asiática.
-  Número de teléfono: '52326689'
-  Link de contacto directo (red social): https://www.facebook.com/Sobre-Ruedas-2299970936942262/
   Email: sobreruedas@gmx.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1-KOX5qGBw3e4tifXKj29rR1xQC2bqNLf
   id: recZSxokivGBh5n6Z
+  name: Sobre Ruedas
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Recetas gourmet internacionales, comida asiática.
+  phone: '52326689'
+  social_media: https://www.facebook.com/Sobre-Ruedas-2299970936942262/
+  logo_link: https://drive.google.com/open?id=1-KOX5qGBw3e4tifXKj29rR1xQC2bqNLf
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Caoba Farms
-  Categoría: Alimentos
-  Descripción: huerto organico que reparte productos a restaurantes, hoteles y famillias
-    individuales. Tenemos servicio adomicilio en Antigua y La Capital
-  Número de teléfono: '54199993'
-  Link de contacto directo (red social): https://www.facebook.com/caoba.farms
   Email: info@caobafarms.com
   Lugares que cubre tu delivery: Antigua Guatemala y Ciudad
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=13bNzyT62lMgVIP8zWHexLe25KmHGKhFX
   id: recZkmAGCOdLKwerk
+  name: Caoba Farms
+  category: Alimentos
+  description: huerto organico que reparte productos a restaurantes, hoteles y famillias
+    individuales. Tenemos servicio adomicilio en Antigua y La Capital
+  phone: '54199993'
+  social_media: https://www.facebook.com/caoba.farms
+  logo_link: https://drive.google.com/open?id=13bNzyT62lMgVIP8zWHexLe25KmHGKhFX
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: GALERÍA EL ÁTICO
-  Categoría: Cartelera Cultural
-  Descripción: Galeria de Arte y Centro de Documentación
-  Número de teléfono: '23680853'
-  Link de contacto directo (red social): http://www.galeriaelattico.com/
   Email: elattico@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=17jFK8tLOKOCjt7o4Pxz0l53iQVw1v_or
   id: recaPtEJYbXql8uC6
+  name: GALERÍA EL ÁTICO
+  category: Cartelera Cultural
+  description: Galeria de Arte y Centro de Documentación
+  phone: '23680853'
+  social_media: http://www.galeriaelattico.com/
+  logo_link: https://drive.google.com/open?id=17jFK8tLOKOCjt7o4Pxz0l53iQVw1v_or
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: EL PRINCIPE GRIS
-  Categoría: Coctelería
-  Descripción: La primera cervecería artesanal en Guatemala especializada en estilos
-    de relevancia cultural e historica.
-  Número de teléfono: '57034199'
-  Link de contacto directo (red social): https://www.facebook.com/elprincipegris
   Email: |2-
 
     clientes@elprincipegris.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=15eUnNbG5TzSgaS6GwIUGajowLkQHyJ7Y
   id: recb13jhygcMdJKby
+  name: EL PRINCIPE GRIS
+  category: Coctelería
+  description: La primera cervecería artesanal en Guatemala especializada en estilos
+    de relevancia cultural e historica.
+  phone: '57034199'
+  social_media: https://www.facebook.com/elprincipegris
+  logo_link: https://drive.google.com/open?id=15eUnNbG5TzSgaS6GwIUGajowLkQHyJ7Y
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Achilles Superfood Gt
-  Categoría: Alimentos
-  Descripción: Creemos en la magia de la madre naturaleza. Superalimentos en polvo,
+  Email: achillesguatemala@gmail.com
+  id: recbZ6zuyPyhqdwcX
+  name: Achilles Superfood Gt
+  category: Alimentos
+  description: Creemos en la magia de la madre naturaleza. Superalimentos en polvo,
     muchas nutrientes; pocas cantidades. Con los colores mas bonitos para tus preparaciones
     SUPERFOODS COLORIDOS /100% NATURAL / VEGAN / ORGANIC / GLUTEN FREE / COLORANTES
     NATURALES
-  Número de teléfono: '56986598'
-  Link de contacto directo (red social): https://www.facebook.com/achillesguatemala
-  Email: achillesguatemala@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=17cpOY7x2R2j_nRwe-fGoXMMVyBl6vgwS
-  id: recbZ6zuyPyhqdwcX
+  phone: '56986598'
+  social_media: https://www.facebook.com/achillesguatemala
+  logo_link: https://drive.google.com/open?id=17cpOY7x2R2j_nRwe-fGoXMMVyBl6vgwS
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Boulevard 37
-  Categoría: Ropa, Joyería y Regalos
-  Descripción: Ropa de Marca
-  Link de contacto directo (red social): https://www.facebook.com/Boulevard-37-2558183157532198
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1xpBrnzI5rmzIA3GPWIHpN_tkEpADrb8c
   id: reccb7VvCtm8X2Fn8
+  name: Boulevard 37
+  category: Ropa, Joyería y Regalos
+  description: Ropa de Marca
+  social_media: https://www.facebook.com/Boulevard-37-2558183157532198
+  logo_link: https://drive.google.com/open?id=1xpBrnzI5rmzIA3GPWIHpN_tkEpADrb8c
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: CCE Guatemala
-  Categoría: Cartelera Cultural
-  Descripción: Los Centros Culturales de España representan una gran parte de la Acción
+  Email: cce@cceguatemala.org
+  id: recdAGYsMXofoOWpr
+  name: CCE Guatemala
+  category: Cartelera Cultural
+  description: Los Centros Culturales de España representan una gran parte de la Acción
     Cultural de España en el Exterior desarrollando actividades y proyectos de promoción,
     cooperación y acción cultural para el desarrollo.
-  Número de teléfono: '23772200'
-  Link de contacto directo (red social): http://www.cceguatemala.org/
-  Email: cce@cceguatemala.org
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1G27u7U2Ir_jtueBgpQcb_G347LPYhgUb
-  id: recdAGYsMXofoOWpr
+  phone: '23772200'
+  social_media: http://www.cceguatemala.org/
+  logo_link: https://drive.google.com/open?id=1G27u7U2Ir_jtueBgpQcb_G347LPYhgUb
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Cerveza El Zapote
-  Categoría: Coctelería
-  Descripción: Cerveza Artesanal
-  Número de teléfono: '52868853'
-  Link de contacto directo (red social): https://www.instagram.com/cervezaelzapote/?hl=es
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=10sdi5-wP1jUjvcfaJ-walmiS5CDAgRTS
   id: recdGA7H8k3lT2SjA
+  name: Cerveza El Zapote
+  category: Coctelería
+  description: Cerveza Artesanal
+  phone: '52868853'
+  social_media: https://www.instagram.com/cervezaelzapote/?hl=es
+  logo_link: https://drive.google.com/open?id=10sdi5-wP1jUjvcfaJ-walmiS5CDAgRTS
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Mercado 24
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Cocina de mercado Producto local Cocina de producto
-  Número de teléfono: '22345944'
-  Link de contacto directo (red social): https://www.facebook.com/mercado24.restaurante
   Email: mercado24.info@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1vgkYE9_8R-TE5wOx9fQ2yO9HfXGNvrxa
   id: recdHHHIWfq1NQWsm
+  name: Mercado 24
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Cocina de mercado Producto local Cocina de producto
+  phone: '22345944'
+  social_media: https://www.facebook.com/mercado24.restaurante
+  logo_link: https://drive.google.com/open?id=1vgkYE9_8R-TE5wOx9fQ2yO9HfXGNvrxa
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: REVISTA PLANOS Y ESTILOS
-  Categoría: Inmobiliaria
-  Descripción: Revista multimedia enfocada en la industria de bienes raíces de Guatemala.
-  Número de teléfono: '22967223'
-  Link de contacto directo (red social): http://www.planosyestilos.com/
   Email: |2-
 
     info@planosyestilos.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1FA49K6y5zg-OG6HF6Jnfpn7iAcA7xaNd
   id: recdKnQgKivH9ylkT
+  name: REVISTA PLANOS Y ESTILOS
+  category: Inmobiliaria
+  description: Revista multimedia enfocada en la industria de bienes raíces de Guatemala.
+  phone: '22967223'
+  social_media: http://www.planosyestilos.com/
+  logo_link: https://drive.google.com/open?id=1FA49K6y5zg-OG6HF6Jnfpn7iAcA7xaNd
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: EMERGT
-  Categoría: Cartelera Cultural
-  Descripción: |-
+  Email: cineemergt@gmail.com
+  id: recdjHnv0Mbh98bss
+  name: EMERGT
+  category: Cartelera Cultural
+  description: |-
     Intercambio de conocimientos entre cineastas
     emergentes y recaudación de fondos para reactivar el
     CINE EMERGENTE después del COVID-19
-  Link de contacto directo (red social): https://www.facebook.com/Emergt-114716120258844
-  Email: cineemergt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1ZC8Xbhq9ZMbcru7ThL5w5zyPMI1ESXn9
-  id: recdjHnv0Mbh98bss
+  social_media: https://www.facebook.com/Emergt-114716120258844
+  logo_link: https://drive.google.com/open?id=1ZC8Xbhq9ZMbcru7ThL5w5zyPMI1ESXn9
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Pet Food
-  Categoría: Mascotas
-  Descripción: Somos una tienda en línea para mascotas con entrega a domicilio en
+  Email: info@petfood.gt
+  id: recdyL2L7RuAS0HQe
+  name: Pet Food
+  category: Mascotas
+  description: Somos una tienda en línea para mascotas con entrega a domicilio en
     toda Guatemala. Vendemos las mejores marcas de alimento para perros y gatos, accesorios,
     desparasitantes, antipulgas y más!
-  Número de teléfono: '22771010'
-  Link de contacto directo (red social): https://www.facebook.com/PetfoodGT
-  Email: info@petfood.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1aNMyxZULQu5RyVenNFsApovWLD7SiTRP
-  id: recdyL2L7RuAS0HQe
+  phone: '22771010'
+  social_media: https://www.facebook.com/PetfoodGT
+  logo_link: https://drive.google.com/open?id=1aNMyxZULQu5RyVenNFsApovWLD7SiTRP
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Nuestra cocina
-  Categoría: Alimentos
-  Descripción: Comida tradicional de Guatemala
-  Número de teléfono: '31015432'
-  Link de contacto directo (red social): https://www.instagram.com/nuestracocina.gt/?hl=es-la
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1xI-V7bRkbN7H6mavXefCRV-gv6lT_uCi
   id: rece3W8D6OsGLqKLs
+  name: Nuestra cocina
+  category: Alimentos
+  description: Comida tradicional de Guatemala
+  phone: '31015432'
+  social_media: https://www.instagram.com/nuestracocina.gt/?hl=es-la
+  logo_link: https://drive.google.com/open?id=1xI-V7bRkbN7H6mavXefCRV-gv6lT_uCi
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: QUETZAL BREWING COMPANY
-  Categoría: Coctelería
-  Descripción: Somos una cervecería artesanal guatemalteca, inspirada en uno de los
-    íconos más representativos de Guatemala
-  Link de contacto directo (red social): https://www.facebook.com/quetzalbrewingcompany
   Email: 'info@quetzalbrewingcompany.com
 
     '
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=17-1dvfa1IY0XnO-yuQHrcA535hJHf-Tv
   id: rece7DPqLnKNRJToX
+  name: QUETZAL BREWING COMPANY
+  category: Coctelería
+  description: Somos una cervecería artesanal guatemalteca, inspirada en uno de los
+    íconos más representativos de Guatemala
+  social_media: https://www.facebook.com/quetzalbrewingcompany
+  logo_link: https://drive.google.com/open?id=17-1dvfa1IY0XnO-yuQHrcA535hJHf-Tv
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: La Esquina
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: La Esquina, el mercadito del barrio, es un destino para deliciosa comida
-    que no solo es saludable, accesible y artesanal sino esta alineada con tus valores.
-  Número de teléfono: '47281445'
-  Link de contacto directo (red social): https://www.mercaditolaesquina.com/
   Email: info@mercaditolaesquina.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=14Nd0SErgYlJqqwKA6turdTbd8d-vkKrr
   id: recf8gpXRWaflpb3K
+  name: La Esquina
+  category: Restaurantes, Cafeterías y Heladerías
+  description: La Esquina, el mercadito del barrio, es un destino para deliciosa comida
+    que no solo es saludable, accesible y artesanal sino esta alineada con tus valores.
+  phone: '47281445'
+  social_media: https://www.mercaditolaesquina.com/
+  logo_link: https://drive.google.com/open?id=14Nd0SErgYlJqqwKA6turdTbd8d-vkKrr
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Tutto Bene
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: PASTA FRESCA con salsas artesanales e ingredientes premium. Empacado
-    con amore. Pedidos martes-viernes, entregas viernes-domingo.
-  Link de contacto directo (red social): https://www.instagram.com/tutto_bene_gt/?hl=es
   Email: kai@sapper.me
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=11kPv-LUEYaVrBrmPiVKPDmZce_cGUn0M
   id: recfBYARFbfAfpSqg
+  name: Tutto Bene
+  category: Restaurantes, Cafeterías y Heladerías
+  description: PASTA FRESCA con salsas artesanales e ingredientes premium. Empacado
+    con amore. Pedidos martes-viernes, entregas viernes-domingo.
+  social_media: https://www.instagram.com/tutto_bene_gt/?hl=es
+  logo_link: https://drive.google.com/open?id=11kPv-LUEYaVrBrmPiVKPDmZce_cGUn0M
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Imaginatorio Studio
-  Categoría: Estudios de Diseño y Creatividad
-  Descripción: Ecosistema consciente que teje una red artística en un espacio que
+  Persona encargada del negocio: Nohemí Marroquín
+  Email: info@imaginatoriostudio.com
+  id: recfZ84nUp7oVz3di
+  name: Imaginatorio Studio
+  category: Estudios de Diseño y Creatividad
+  description: Ecosistema consciente que teje una red artística en un espacio que
     desarrolla proyectos que transforman la sociedad a través del arte, la creación
     colaborativa y la interrelación de colectivos.
-  Persona encargada del negocio: Nohemí Marroquín
-  Número de teléfono: '48587345'
-  Link de contacto directo (red social): https://www.facebook.com/imaginatoriocoop/
-  Email: info@imaginatoriostudio.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1vX45LGDlUR-ErFX9N8gMTYci0BFdMMCC
-  id: recfZ84nUp7oVz3di
+  phone: '48587345'
+  social_media: https://www.facebook.com/imaginatoriocoop/
+  logo_link: https://drive.google.com/open?id=1vX45LGDlUR-ErFX9N8gMTYci0BFdMMCC
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: FRESH SEEDS EXPRESS
-  Categoría: Alimentos
-  Descripción: |-
+  Email: 'freshseedsexpress@gmail.com
+
+    '
+  id: recgmHUtWElKllfvB
+  name: FRESH SEEDS EXPRESS
+  category: Alimentos
+  description: |-
     Distribuimos los mejores snacks saludables,
     gran variedades de semillas y nueces hasta
     la puerta de casa o trabajo entrega a toda
     Guatemala
-  Número de teléfono: '51916051'
-  Link de contacto directo (red social): https://www.facebook.com/freshseedsexpress
-  Email: 'freshseedsexpress@gmail.com
-
-    '
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1iqRqUY6WDnF4ZX-3E32qhjyCvEMXkKt5
-  id: recgmHUtWElKllfvB
+  phone: '51916051'
+  social_media: https://www.facebook.com/freshseedsexpress
+  logo_link: https://drive.google.com/open?id=1iqRqUY6WDnF4ZX-3E32qhjyCvEMXkKt5
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: 'Miettes '
-  Categoría: Pan y Panadería
-  Descripción: En Miettes retomamos lo artesanal para convertirlo en pan de masa madre
+  id: recgtqFUtqSuQNJdG
+  name: 'Miettes '
+  category: Pan y Panadería
+  description: En Miettes retomamos lo artesanal para convertirlo en pan de masa madre
     horneado al horno de leña y compartir con ustedes el amor de un panadero por su
     masa. Somos un restaurante que alrededor del horno de leña busca nuevas formas
     de conquistar paladares.
-  Número de teléfono: '30086131'
-  Link de contacto directo (red social): https://www.instagram.com/miettesgt/?hl=es
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1HA2Wm50K6Bf4wVRpL9ePpKEz52WmSLER
-  id: recgtqFUtqSuQNJdG
+  phone: '30086131'
+  social_media: https://www.instagram.com/miettesgt/?hl=es
+  logo_link: https://drive.google.com/open?id=1HA2Wm50K6Bf4wVRpL9ePpKEz52WmSLER
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Lapau Foodstyling
-  Categoría: Estudios de Diseño y Creatividad
-  Descripción: Servicios de fotografía foodstyling
-  Número de teléfono: '53068964'
-  Link de contacto directo (red social): https://www.instagram.com/lapaufoodstyling/?hl=es
   Email: hola@paulinadelacerda.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1bT_ifnlbcVLnaC0QYm4XcHU8k9tesinJ
   id: rechSwvMCUeJya9DH
+  name: Lapau Foodstyling
+  category: Estudios de Diseño y Creatividad
+  description: Servicios de fotografía foodstyling
+  phone: '53068964'
+  social_media: https://www.instagram.com/lapaufoodstyling/?hl=es
+  logo_link: https://drive.google.com/open?id=1bT_ifnlbcVLnaC0QYm4XcHU8k9tesinJ
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Eckel´s Kitchen
-  Categoría: Alimentos
-  Descripción: Pasteles y Yogurt natural
   Persona encargada del negocio: Eckel Contreras
-  Número de teléfono: '123'
-  Link de contacto directo (red social): https://www.instagram.com/eckelskitchen/?hl=es-la
   Email: eckelmcontreras@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1leTLEDILPL6-ueqACPbGMz5FWCRPAqk_
   id: rechepQo3Ptz8qYJW
+  name: Eckel´s Kitchen
+  category: Alimentos
+  description: Pasteles y Yogurt natural
+  phone: '123'
+  social_media: https://www.instagram.com/eckelskitchen/?hl=es-la
+  logo_link: https://drive.google.com/open?id=1leTLEDILPL6-ueqACPbGMz5FWCRPAqk_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: The New Denim Project
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Mascarillas de lona (hechas con material reciclado) venta por mayoreo
-  Número de teléfono: '22043900'
-  Link de contacto directo (red social): https://www.facebook.com/thenewdenimproject/
   Email: tndp@iristextiles.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1zV6Z5vd0ms7y-veNdoacTBCZNnZHoIaf
   id: rechlrDDlNLEwIv6o
+  name: The New Denim Project
+  category: Salud, Hospitales y Limpieza
+  description: Mascarillas de lona (hechas con material reciclado) venta por mayoreo
+  phone: '22043900'
+  social_media: https://www.facebook.com/thenewdenimproject/
+  logo_link: https://drive.google.com/open?id=1zV6Z5vd0ms7y-veNdoacTBCZNnZHoIaf
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: PROYECTO APARTAMENTO 302
-  Categoría: Cartelera Cultural
-  Descripción: |2-
+  id: rechn0S4le5YMvCJ8
+  name: PROYECTO APARTAMENTO 302
+  category: Cartelera Cultural
+  description: |2-
 
     Espacio Alternativo de Arte y Movimiento
-  Número de teléfono: '48590390'
-  Link de contacto directo (red social): https://www.instagram.com/proyectoapartamento302/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1Gyzi1_sAM-jE7NSEBs_U9UDtWMU4271G
-  id: rechn0S4le5YMvCJ8
+  phone: '48590390'
+  social_media: https://www.instagram.com/proyectoapartamento302/
+  logo_link: https://drive.google.com/open?id=1Gyzi1_sAM-jE7NSEBs_U9UDtWMU4271G
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: 3DSIGN Arquitectura
-  Categoría: Servicios online
-  Descripción: Realidad virtual 360°
-  Link de contacto directo (red social): https://www.facebook.com/3dsign.arquitectura/
   Email: 'info@3dsign-arquitectura.com
 
     '
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=17ktcLFFlMdXbWmzBATLPaIOWGH8Kbq0q
   id: reci8TmoqpFSftLJ1
+  name: 3DSIGN Arquitectura
+  category: Servicios online
+  description: Realidad virtual 360°
+  social_media: https://www.facebook.com/3dsign.arquitectura/
+  logo_link: https://drive.google.com/open?id=17ktcLFFlMdXbWmzBATLPaIOWGH8Kbq0q
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: RAYSA MORALES
-  Categoría: Cartelera Cultural
-  Descripción: Serenatas de balcón o jardín
-  Link de contacto directo (red social): https://www.instagram.com/raysa.morales/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1kmXkKBI5Wn-aclFLfxAd2EEeenIMTe-x
   id: reci9apkhuW04LUeM
+  name: RAYSA MORALES
+  category: Cartelera Cultural
+  description: Serenatas de balcón o jardín
+  social_media: https://www.instagram.com/raysa.morales/
+  logo_link: https://drive.google.com/open?id=1kmXkKBI5Wn-aclFLfxAd2EEeenIMTe-x
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Partisano Coctelería
-  Categoría: Coctelería
-  Descripción: Coctelería hasta la puerta de tu casa, para brindar, celebrar con amigos
-    o simplemente relajarse en la comodidad de tu hogar.
-  Número de teléfono: '44994745'
-  Link de contacto directo (red social): https://www.facebook.com/Partisano-Cocteler%C3%ADa-114418920248572
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=17bD7s7IulXSihmjLsfTj56qnnMOM941j
   id: reciTxoYoviktau9D
+  name: Partisano Coctelería
+  category: Coctelería
+  description: Coctelería hasta la puerta de tu casa, para brindar, celebrar con amigos
+    o simplemente relajarse en la comodidad de tu hogar.
+  phone: '44994745'
+  social_media: https://www.facebook.com/Partisano-Cocteler%C3%ADa-114418920248572
+  logo_link: https://drive.google.com/open?id=17bD7s7IulXSihmjLsfTj56qnnMOM941j
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Banco Industrial
-  Categoría: Bancos
-  Número de teléfono: '24116000'
-  Link de contacto directo (red social): https://www.corporacionbi.com/gt/bancoindustrial/inicio
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=16B9hdg1nFulMG9-SmY_PmOo7fTJ5o75t
   id: recilKDhfQaXet18l
+  name: Banco Industrial
+  category: Bancos
+  phone: '24116000'
+  social_media: https://www.corporacionbi.com/gt/bancoindustrial/inicio
+  logo_link: https://drive.google.com/open?id=16B9hdg1nFulMG9-SmY_PmOo7fTJ5o75t
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Restaurante El Adobe
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Nuestra misión es recuperar el gusto por la sazón guatemalteca brindando
-    al comensal el mejor servicio gourmet de nuestra región
-  Número de teléfono: '22210567'
-  Link de contacto directo (red social): https://www.facebook.com/restauranteeladobe
   Email: restauranteeladobe@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=12XuJ08dgVMoGcQo4zk52GX1z5TRbnynp
   id: recj8J1XkmrbD0Pft
+  name: Restaurante El Adobe
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Nuestra misión es recuperar el gusto por la sazón guatemalteca brindando
+    al comensal el mejor servicio gourmet de nuestra región
+  phone: '22210567'
+  social_media: https://www.facebook.com/restauranteeladobe
+  logo_link: https://drive.google.com/open?id=12XuJ08dgVMoGcQo4zk52GX1z5TRbnynp
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Box Color
-  Categoría: Librería e impresiones
-  Descripción: Librería con útiles escolares, material educativo y suministros de
-    oficina. Ubicados en Plaza Fraijanes, Local 12 y Plaza Arrazola Local 19.
-  Número de teléfono: '66341264'
-  Link de contacto directo (red social): https://www.facebook.com/LibreriaBoxColor/
   Email: administracion@boxcolorgt.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=15y_-YJssKYVsUf9lUJH5L3Tb5LKwRVLX
   id: recjHg1bU9rylbSE8
+  name: Box Color
+  category: Librería e impresiones
+  description: Librería con útiles escolares, material educativo y suministros de
+    oficina. Ubicados en Plaza Fraijanes, Local 12 y Plaza Arrazola Local 19.
+  phone: '66341264'
+  social_media: https://www.facebook.com/LibreriaBoxColor/
+  logo_link: https://drive.google.com/open?id=15y_-YJssKYVsUf9lUJH5L3Tb5LKwRVLX
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Astoria Delicatessen
-  Categoría: Alimentos
-  Descripción: Con más de 60 años de experiencia y tradición alemana, Astoria Delicatessen
-    te ofrece los mejores embutidos, quesos, vinos, cervezas y abarrotes.
-  Número de teléfono: '22850207'
-  Link de contacto directo (red social): https://www.facebook.com/astoriadelicatessen
   Email: astoriagt.socialmedia@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=11MdoefJoXT0N21q3uoAqTVrv1rx3wHkj
   id: recjOq24c3Mu1lLOg
+  name: Astoria Delicatessen
+  category: Alimentos
+  description: Con más de 60 años de experiencia y tradición alemana, Astoria Delicatessen
+    te ofrece los mejores embutidos, quesos, vinos, cervezas y abarrotes.
+  phone: '22850207'
+  social_media: https://www.facebook.com/astoriadelicatessen
+  logo_link: https://drive.google.com/open?id=11MdoefJoXT0N21q3uoAqTVrv1rx3wHkj
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Cycle Works
-  Categoría: Movilidad (bicicletas, skate, patines electricos,etc.)
-  Descripción: En Ciclovida Urbana nos encanta resolver tus dudas sobre el ciclismo
+  Email: jorgexarriola@gmail.com
+  id: reckK3NW5XzAVVLSr
+  name: Cycle Works
+  category: Movilidad (bicicletas, skate, patines electricos,etc.)
+  description: En Ciclovida Urbana nos encanta resolver tus dudas sobre el ciclismo
     en general, no somos la típica empresa que busca venderte nada mas un producto,
     buscamos transmitirte nuestra pasión por las bicis y que quedes contento con lo
     que buscas
-  Número de teléfono: '23314160'
-  Link de contacto directo (red social): https://www.facebook.com/ciclovidaguatemala
-  Email: jorgexarriola@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1kl2Xnee5yIhkx730sl08IpX-zmTXWLOG
-  id: reckK3NW5XzAVVLSr
+  phone: '23314160'
+  social_media: https://www.facebook.com/ciclovidaguatemala
+  logo_link: https://drive.google.com/open?id=1kl2Xnee5yIhkx730sl08IpX-zmTXWLOG
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Alimentos Santa Lucía
-  Categoría: Alimentos
-  Descripción: Somos una tienda en línea, donde elaboramos alimentos 100% naturales
+  Email: santalucia.alimentos@gmail.com
+  id: reckN1O6ltszgeFGu
+  name: Alimentos Santa Lucía
+  category: Alimentos
+  description: Somos una tienda en línea, donde elaboramos alimentos 100% naturales
     y artesanales, sin preservantes, sin grasas ni azúcar dañinos y sin gluten. Utilizamos
     productos e ingredientes de calidad y amigables con el medio ambiente y sobretodo
     con tu salud.
-  Número de teléfono: '56341453'
-  Link de contacto directo (red social): https://www.facebook.com/santalucia.alimentosgt
-  Email: santalucia.alimentos@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1bJxTqjO_84SWKdRuAiqrE_MuJGd9Fa-2
-  id: reckN1O6ltszgeFGu
+  phone: '56341453'
+  social_media: https://www.facebook.com/santalucia.alimentosgt
+  logo_link: https://drive.google.com/open?id=1bJxTqjO_84SWKdRuAiqrE_MuJGd9Fa-2
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Tikonel Farms
-  Categoría: Alimentos
-  Descripción: |-
-    Buscamos mantener una armonía entre los sistemas naturales que nos rodean cuidando nuestra zona de cultivo
-    Productos orgánicos, entrega a domicilio
   Persona encargada del negocio: Juan Ma Perez
-  Número de teléfono: '57876194'
-  Link de contacto directo (red social): https://www.instagram.com/tikonel_farms/?hl=es-la
   Email: jm.kodama@gmail.com
   Lugares que cubre tu delivery: Antigua Guatemala y Ciudad
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=16RedkkDePcYo4LkdOOx3ZTlHqod3_P4b
   id: reckNZKoo1Ap4LKj4
+  name: Tikonel Farms
+  category: Alimentos
+  description: |-
+    Buscamos mantener una armonía entre los sistemas naturales que nos rodean cuidando nuestra zona de cultivo
+    Productos orgánicos, entrega a domicilio
+  phone: '57876194'
+  social_media: https://www.instagram.com/tikonel_farms/?hl=es-la
+  logo_link: https://drive.google.com/open?id=16RedkkDePcYo4LkdOOx3ZTlHqod3_P4b
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: RON BOTRÁN AÑEJO
-  Categoría: Coctelería
-  Descripción: Rones Añejos Botran para un mundo que celebra. Visita www.mixologyblog.com
-    para aprender a preparar los mejores cocteles.
-  Link de contacto directo (red social): https://www.facebook.com/RonBotranAnejoCA
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=10ouwEA0LM3jDtVXkZc-Z5HHuaisNTJhV
   id: reckNoNye51xooNJr
+  name: RON BOTRÁN AÑEJO
+  category: Coctelería
+  description: Rones Añejos Botran para un mundo que celebra. Visita www.mixologyblog.com
+    para aprender a preparar los mejores cocteles.
+  social_media: https://www.facebook.com/RonBotranAnejoCA
+  logo_link: https://drive.google.com/open?id=10ouwEA0LM3jDtVXkZc-Z5HHuaisNTJhV
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Juancho Ming
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Cantonese Soul food. Noodles, dumplings, soups and craft beers.
-  Número de teléfono: '23316915'
-  Link de contacto directo (red social): https://www.facebook.com/JCMRestaurant/
   Email: juanchoming.gt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1FUaTbrGM3DZKqFeyxy_gjy-3vQ6ULpuS
   id: reckm9gQBVziRnYIt
+  name: Juancho Ming
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Cantonese Soul food. Noodles, dumplings, soups and craft beers.
+  phone: '23316915'
+  social_media: https://www.facebook.com/JCMRestaurant/
+  logo_link: https://drive.google.com/open?id=1FUaTbrGM3DZKqFeyxy_gjy-3vQ6ULpuS
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Veterinaria El Rejo
-  Categoría: Mascotas
-  Descripción: Somos un equipo comprometido con el bienestar y cuidado de tu mascota.
+  Email: elrejovet@gmail.com
+  id: recknXFdYC6Dfi79d
+  name: Veterinaria El Rejo
+  category: Mascotas
+  description: Somos un equipo comprometido con el bienestar y cuidado de tu mascota.
     Ellos se sentirán como en casa bajo el cuidado de profesionales. Contamos con
     servicios de Medicina preventiva (programa de vacunación), desparasitaciones,
     limpieza dental, cirugía, hospitalización, emergencias, farmacia, exámenes de
     laboratorio, grooming profesional (peluquería canina) y hospedaje. SERVICIO A
     DOMICILIO
-  Número de teléfono: '66373342'
-  Link de contacto directo (red social): https://www.facebook.com/veterinariaelrejo/
-  Email: elrejovet@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1LRpvsLgdVUFK6kAyWLntb7o1v9c0TGzw
-  id: recknXFdYC6Dfi79d
+  phone: '66373342'
+  social_media: https://www.facebook.com/veterinariaelrejo/
+  logo_link: https://drive.google.com/open?id=1LRpvsLgdVUFK6kAyWLntb7o1v9c0TGzw
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Aquíh
-  Categoría: Servicios online
-  Descripción: Software empresarial ERP con facturación electrónica o factura en linea
-    FEL. Módulos de Contabilidad, Compras, Ventas, etc.
-  Link de contacto directo (red social): https://www.facebook.com/aquihgt/
   Email: info@aquih.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1FjNu_FrStsnr3xS2b-Z9Uys6p-QvhCY2
   id: recktn6V1T1YKh5xu
+  name: Aquíh
+  category: Servicios online
+  description: Software empresarial ERP con facturación electrónica o factura en linea
+    FEL. Módulos de Contabilidad, Compras, Ventas, etc.
+  social_media: https://www.facebook.com/aquihgt/
+  logo_link: https://drive.google.com/open?id=1FjNu_FrStsnr3xS2b-Z9Uys6p-QvhCY2
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Multipan
-  Categoría: Pan y Panadería
-  Descripción: Somos el mejor socio comercial para las empresa de alimentos (restaurantes,
-    hoteles, supermercados, etc.) ya que desarrollamos producto personalizado.
-  Número de teléfono: '30306170'
-  Link de contacto directo (red social): https://www.facebook.com/multipanguatemala/
   Email: ventamultipan@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1_mz_mgVPEtSZtmgQzZXvScWzkaHKlUNN
   id: reclFMYiRMZHjymEP
+  name: Multipan
+  category: Pan y Panadería
+  description: Somos el mejor socio comercial para las empresa de alimentos (restaurantes,
+    hoteles, supermercados, etc.) ya que desarrollamos producto personalizado.
+  phone: '30306170'
+  social_media: https://www.facebook.com/multipanguatemala/
+  logo_link: https://drive.google.com/open?id=1_mz_mgVPEtSZtmgQzZXvScWzkaHKlUNN
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Lácteos Parma
-  Categoría: Alimentos
-  Descripción: empresa dedicada principalmente a la fabricación y comercialización
-    de productos elaborados y derivados de leche fresca
-  Número de teléfono: '23112311'
-  Link de contacto directo (red social): http://www.parma.gt/
   Email: coordinacion.mercadeo@parma.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1ppaNb6rWQw3Q2nYEaiWZCa2QFre5b4W7
   id: reclKyUlvgec9DGWi
+  name: Lácteos Parma
+  category: Alimentos
+  description: empresa dedicada principalmente a la fabricación y comercialización
+    de productos elaborados y derivados de leche fresca
+  phone: '23112311'
+  social_media: http://www.parma.gt/
+  logo_link: https://drive.google.com/open?id=1ppaNb6rWQw3Q2nYEaiWZCa2QFre5b4W7
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: El Siglo Sport
-  Categoría: Deportes y Ejercicio
-  Descripción: En El Siglo Sport les brindamos variedad de artículos deportivos, maquinas
-    de ejercicio, accesorios para gimnasio y artículos ortopédicos de las mejores
-    marcas con el mejor servicio!
-  Número de teléfono: '22516006'
-  Link de contacto directo (red social): https://www.facebook.com/elsiglosport/
   Email: elsiglojp@gmail.com
   Lugares que cubre tu delivery: Ciudad de Guatemala
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1aRgXUsi6WdqI9p59AYggK5jhkNGrlix1
   id: reclWy1ZsBJMvbuiT
+  name: El Siglo Sport
+  category: Deportes y Ejercicio
+  description: En El Siglo Sport les brindamos variedad de artículos deportivos, maquinas
+    de ejercicio, accesorios para gimnasio y artículos ortopédicos de las mejores
+    marcas con el mejor servicio!
+  phone: '22516006'
+  social_media: https://www.facebook.com/elsiglosport/
+  logo_link: https://drive.google.com/open?id=1aRgXUsi6WdqI9p59AYggK5jhkNGrlix1
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Minerva
-  Categoría: Coctelería
-  Descripción: La Casa de Cocteles que siempre estuvo allí.
-  Número de teléfono: '50586466'
-  Link de contacto directo (red social): https://www.instagram.com/minervaguatemala/
   Email: info@elminerva.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1g0yTZz76gQdWXQQuBXiJ-mRinfG6nTbe
   id: reclbc4yTUNET5Kib
+  name: Minerva
+  category: Coctelería
+  description: La Casa de Cocteles que siempre estuvo allí.
+  phone: '50586466'
+  social_media: https://www.instagram.com/minervaguatemala/
+  logo_link: https://drive.google.com/open?id=1g0yTZz76gQdWXQQuBXiJ-mRinfG6nTbe
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Paradigma Café
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Busca llevar a sus clientes por un viaje de aromas y sabores. Ofrecemos
-    la experiencia de degustar el mejor café de Guatemala.
-  Link de contacto directo (red social): http://www.paradigmacafe.com/
   Email: raulrodas@paradigmacoffee.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=15QqCENW1UuioQbRXYs-MwhY3Ye_wPZPj
   id: reclvWvCDhNDovO6N
+  name: Paradigma Café
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Busca llevar a sus clientes por un viaje de aromas y sabores. Ofrecemos
+    la experiencia de degustar el mejor café de Guatemala.
+  social_media: http://www.paradigmacafe.com/
+  logo_link: https://drive.google.com/open?id=15QqCENW1UuioQbRXYs-MwhY3Ye_wPZPj
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: CHAMBA COWORKING
-  Categoría: Coworking
-  Descripción: Espacio de Coworking en el corazón de cuatro grados norte. Emprende,
-    aprende y crece en comunidad.
-  Número de teléfono: '24584500'
-  Link de contacto directo (red social): https://www.facebook.com/chambaguate
   Email: admin@chamba.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1HEFVQ8R-v9mgBPOpL4HiHvMiiihiNsam
   id: recmb4mb2rsqAoNiF
+  name: CHAMBA COWORKING
+  category: Coworking
+  description: Espacio de Coworking en el corazón de cuatro grados norte. Emprende,
+    aprende y crece en comunidad.
+  phone: '24584500'
+  social_media: https://www.facebook.com/chambaguate
+  logo_link: https://drive.google.com/open?id=1HEFVQ8R-v9mgBPOpL4HiHvMiiihiNsam
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Regalati
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Cosmeticos naturales
-  Link de contacto directo (red social): https://www.facebook.com/regalati.detodoparatodos/
   Email: regalati.paratodos@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=12-DWjHs8ZtWnA7UDXACvJa2JeuUnKJrw
   id: recmnbU49ZdQJ2tZ3
+  name: Regalati
+  category: Salud, Hospitales y Limpieza
+  description: Cosmeticos naturales
+  social_media: https://www.facebook.com/regalati.detodoparatodos/
+  logo_link: https://drive.google.com/open?id=12-DWjHs8ZtWnA7UDXACvJa2JeuUnKJrw
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Santo Pescado
-  Categoría: Alimentos
-  Descripción: |-
+  id: recmxqG2vvPKZo8NS
+  name: Santo Pescado
+  category: Alimentos
+  description: |-
     Productos frescos del mar
     Ordena hoy, recibe mañana
-  Número de teléfono: '57270431'
-  Link de contacto directo (red social): https://www.instagram.com/santopescadogt/?hl=es-la
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1UIvNNSDOO5QRUpdXW4TzzVD3nk89nDHj
-  id: recmxqG2vvPKZo8NS
+  phone: '57270431'
+  social_media: https://www.instagram.com/santopescadogt/?hl=es-la
+  logo_link: https://drive.google.com/open?id=1UIvNNSDOO5QRUpdXW4TzzVD3nk89nDHj
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: INSTITUTO NATURISTA
-  Categoría: Clases online y Terapias
-  Descripción: |-
-    Naturopatía, Métodos de Diagnóstico
-    Homeopatía, Masaje Profesional, Quiropráctico
-    y Acupuntura.
-  Número de teléfono: '22162929'
-  Link de contacto directo (red social): https://www.instagram.com/instituto_naturista/
   Email: 'info@institutonaturista.com.gt
 
     '
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1bKO_X7o84VI25XQoqnmwi5d6eV-M6GU0
   id: recnA1rpWItZPNSXF
+  name: INSTITUTO NATURISTA
+  category: Clases online y Terapias
+  description: |-
+    Naturopatía, Métodos de Diagnóstico
+    Homeopatía, Masaje Profesional, Quiropráctico
+    y Acupuntura.
+  phone: '22162929'
+  social_media: https://www.instagram.com/instituto_naturista/
+  logo_link: https://drive.google.com/open?id=1bKO_X7o84VI25XQoqnmwi5d6eV-M6GU0
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: BASICO 3
-  Categoría: Cartelera Cultural
-  Descripción: Dj set en vivo todos los miércoles.
-  Link de contacto directo (red social): www.soundcloud.com/basico3
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1V1I9vWpu_uUnKcRZsIgGQFUiCzvG3qEG
   id: recnPdtYHH0bgy2oa
+  name: BASICO 3
+  category: Cartelera Cultural
+  description: Dj set en vivo todos los miércoles.
+  social_media: www.soundcloud.com/basico3
+  logo_link: https://drive.google.com/open?id=1V1I9vWpu_uUnKcRZsIgGQFUiCzvG3qEG
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Alessa Jewelry
-  Categoría: Ropa, Joyería y Regalos
-  Descripción: Joyas pintadas a mano. Desde Dubai hasta los trópicos y en todas partes
-    en el medio.
-  Número de teléfono: '54730586'
-  Link de contacto directo (red social): https://www.instagram.com/alessadesigns/
   Email: hello@alessa.jewelry
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1RNPj3rskt2N34sAmLRZfJsvkLVxZT_qP
   id: reco3sC7WgfQj5NiK
+  name: Alessa Jewelry
+  category: Ropa, Joyería y Regalos
+  description: Joyas pintadas a mano. Desde Dubai hasta los trópicos y en todas partes
+    en el medio.
+  phone: '54730586'
+  social_media: https://www.instagram.com/alessadesigns/
+  logo_link: https://drive.google.com/open?id=1RNPj3rskt2N34sAmLRZfJsvkLVxZT_qP
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: El Matatán
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: |-
+  Email: fgcandregonzalez@gmail.com
+  id: recoHaMgphxnRbAZu
+  name: El Matatán
+  category: Restaurantes, Cafeterías y Heladerías
+  description: |-
     ¡El mero mero taquero está en 4grados Norte!
     Tenemos tacos, gringas y postres que te van a encantar.
-  Número de teléfono: '54712180'
-  Link de contacto directo (red social): https://www.facebook.com/ElMatatanGT/
-  Email: fgcandregonzalez@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1ixR9YvoDe6SncR9DAIwvEXVSjKuvm_Z8
-  id: recoHaMgphxnRbAZu
+  phone: '54712180'
+  social_media: https://www.facebook.com/ElMatatanGT/
+  logo_link: https://drive.google.com/open?id=1ixR9YvoDe6SncR9DAIwvEXVSjKuvm_Z8
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Green House coliving
-  Categoría: Clases online y Terapias
-  Descripción: es una nueva forma de vida en la que no solo compartimos el espacio
+  Email: samol_1@hotmail.com
+  id: recoUIyFHHdby2ve6
+  name: Green House coliving
+  category: Clases online y Terapias
+  description: es una nueva forma de vida en la que no solo compartimos el espacio
     físico, sino que formamos una comunidad intencional que promueve un estilo de
     vida sostenible, siendo conscientes con uno mismo, los demás y la naturaleza.
-  Número de teléfono: '30577774'
-  Link de contacto directo (red social): https://www.facebook.com/GreenHouse-Co-Living-107897007222303
-  Email: samol_1@hotmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1crfyxYqsNImYzEYmmAPw91YMbfPM16tk
-  id: recoUIyFHHdby2ve6
+  phone: '30577774'
+  social_media: https://www.facebook.com/GreenHouse-Co-Living-107897007222303
+  logo_link: https://drive.google.com/open?id=1crfyxYqsNImYzEYmmAPw91YMbfPM16tk
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: CADEJO BREWING COMPANY
-  Categoría: Coctelería
-  Descripción: Somos la cervecería artesanal más grande de Centroamérica. Nuestro
-    enfoque es la calidad y la pasión por la buena cerveza 100% Natural y SIN adjuntos.
-  Número de teléfono: '22193311'
-  Link de contacto directo (red social): http://www.cervezacadejo.com/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1dmt1OK16XsWAN0h_WV3L-TNeotp4sd-i
   id: recoYipN3C5qM2T5S
+  name: CADEJO BREWING COMPANY
+  category: Coctelería
+  description: Somos la cervecería artesanal más grande de Centroamérica. Nuestro
+    enfoque es la calidad y la pasión por la buena cerveza 100% Natural y SIN adjuntos.
+  phone: '22193311'
+  social_media: http://www.cervezacadejo.com/
+  logo_link: https://drive.google.com/open?id=1dmt1OK16XsWAN0h_WV3L-TNeotp4sd-i
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Cosecha
-  Categoría: Alimentos
-  Descripción: Venta De Piñas Solamente Servicio a domicilio de 2 a 3 Días a la puerta
-    de su casa
-  Número de teléfono: '30012394'
-  Link de contacto directo (red social): https://www.facebook.com/Cosecha-106517651097592
   Email: no encontrado
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1vAvNHFlnD0kY0q-4IYJmbrjYPr1MbCkj
   id: recp5hkmMRSdksA9d
+  name: Cosecha
+  category: Alimentos
+  description: Venta De Piñas Solamente Servicio a domicilio de 2 a 3 Días a la puerta
+    de su casa
+  phone: '30012394'
+  social_media: https://www.facebook.com/Cosecha-106517651097592
+  logo_link: https://drive.google.com/open?id=1vAvNHFlnD0kY0q-4IYJmbrjYPr1MbCkj
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Fridas
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: deliciosa comida y servicio espectacular con el auténtico espíritu
-    mexicano
-  Número de teléfono: '78321296'
-  Link de contacto directo (red social): http://www.restaurantefridas.com/
   Email: tati.palomo@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1w_gv16OdmLpZEkE7JEgsoC8hCgyPmFvz
   id: recpAOsXbs0YX4JV6
+  name: Fridas
+  category: Restaurantes, Cafeterías y Heladerías
+  description: deliciosa comida y servicio espectacular con el auténtico espíritu
+    mexicano
+  phone: '78321296'
+  social_media: http://www.restaurantefridas.com/
+  logo_link: https://drive.google.com/open?id=1w_gv16OdmLpZEkE7JEgsoC8hCgyPmFvz
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Decatlón X
-  Categoría: Deportes y Ejercicio
-  Descripción: Somos una empresa Nacional dedicada a la distribución de Artículos
-    Deportivos, contamos con las mejores Marcas a Nivel Mundial, nuestro principal
-    enfoque es brindar el mejor servicio y asesoría a todos nuestros clientes.
   Persona encargada del negocio: "."
-  Número de teléfono: '23201717'
-  Link de contacto directo (red social): https://decatlonx.com/
   Email: scliente1@ardegua.com
   Lugares que cubre tu delivery: Ciudad de Guatemala
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=12op-fcZsWL08Hu0XYsZurHu4NBDcfCCb
   Comentarios: "."
   id: recq9o5tpxmsOzklz
+  name: Decatlón X
+  category: Deportes y Ejercicio
+  description: Somos una empresa Nacional dedicada a la distribución de Artículos
+    Deportivos, contamos con las mejores Marcas a Nivel Mundial, nuestro principal
+    enfoque es brindar el mejor servicio y asesoría a todos nuestros clientes.
+  phone: '23201717'
+  social_media: https://decatlonx.com/
+  logo_link: https://drive.google.com/open?id=12op-fcZsWL08Hu0XYsZurHu4NBDcfCCb
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Kémik
-  Categoría: Servicios online
-  Descripción: Llevamos una gran variedad de productos de calidad y buen precio a
+  Email: info@kemik.gt
+  id: recqCUNGMpZHeaZWZ
+  name: Kémik
+  category: Servicios online
+  description: Llevamos una gran variedad de productos de calidad y buen precio a
     la puerta de tu casa. Puedes pagar con tarjeta, en efectivo contra entrega o en
     visacuotas.
-  Número de teléfono: '23005678'
-  Link de contacto directo (red social): https://www.facebook.com/kemik.gt/
-  Email: info@kemik.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=12juF96gR6t-2PYCau8T0PP0khjANU3Em
-  id: recqCUNGMpZHeaZWZ
+  phone: '23005678'
+  social_media: https://www.facebook.com/kemik.gt/
+  logo_link: https://drive.google.com/open?id=12juF96gR6t-2PYCau8T0PP0khjANU3Em
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Tiendas MAX
-  Categoría: Electrodomésticos
-  Descripción: Cadena de tiendas que te ofrece lo último en tecnología, asesoría experta,
-    sólido respaldo y una excelente experiencia de compra.
-  Número de teléfono: '24230100'
-  Link de contacto directo (red social): https://www.facebook.com/Maxguate/
   Email: info@distelsa.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1-S7_PoH-_fmlGQsNwHRVw5eFvHOfBU7b
   id: recqMmXjk3fYXSGBO
+  name: Tiendas MAX
+  category: Electrodomésticos
+  description: Cadena de tiendas que te ofrece lo último en tecnología, asesoría experta,
+    sólido respaldo y una excelente experiencia de compra.
+  phone: '24230100'
+  social_media: https://www.facebook.com/Maxguate/
+  logo_link: https://drive.google.com/open?id=1-S7_PoH-_fmlGQsNwHRVw5eFvHOfBU7b
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: JUEVES DE TROVA
-  Categoría: Cartelera Cultural
-  Descripción: Trovajazz es una institución guatemalteca que se dedica al desarrollo,
-    proyección, organización y difusión de actividades artísticas y culturales
-  Número de teléfono: '23341241'
-  Link de contacto directo (red social): https://www.facebook.com/trovajazz.trovajazz
   Email: trovajazz@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1cihq1bYQCeyVUvIBAVYFeVSJXwqBuOZq
   id: recqXv6ZX8ieHEckN
+  name: JUEVES DE TROVA
+  category: Cartelera Cultural
+  description: Trovajazz es una institución guatemalteca que se dedica al desarrollo,
+    proyección, organización y difusión de actividades artísticas y culturales
+  phone: '23341241'
+  social_media: https://www.facebook.com/trovajazz.trovajazz
+  logo_link: https://drive.google.com/open?id=1cihq1bYQCeyVUvIBAVYFeVSJXwqBuOZq
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: CERVEZA PANTERA
-  Categoría: Coctelería
-  Descripción: Cerveza artesanal guatemalteca 100% natural
-  Número de teléfono: '66341260'
-  Link de contacto directo (red social): https://www.facebook.com/panteracerveza
   Email: info@cerveceriapantera.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1inpRHbTXrvqohuiovJ6G9PoZyjF0tG6n
   id: recqjsXfH97N9bjer
+  name: CERVEZA PANTERA
+  category: Coctelería
+  description: Cerveza artesanal guatemalteca 100% natural
+  phone: '66341260'
+  social_media: https://www.facebook.com/panteracerveza
+  logo_link: https://drive.google.com/open?id=1inpRHbTXrvqohuiovJ6G9PoZyjF0tG6n
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: D´Todito
-  Categoría: Alimentos
-  Descripción: Venta de Alimentos con servicio a domicilio
-  Número de teléfono: '50163880'
-  Link de contacto directo (red social): https://www.facebook.com/DTodito-102188184842052
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1idlG01y65ual9Xt5me_59I6xJeeyrdz5
   id: recr4HHEWDZy9dcxv
+  name: D´Todito
+  category: Alimentos
+  description: Venta de Alimentos con servicio a domicilio
+  phone: '50163880'
+  social_media: https://www.facebook.com/DTodito-102188184842052
+  logo_link: https://drive.google.com/open?id=1idlG01y65ual9Xt5me_59I6xJeeyrdz5
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Hospital Herrera Llerandi
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Institución de reconocido prestigio operada por Asociación de Médicos
-    Especialistas de Guatemala, Mejor Hospital de Guatemala y con la Mejor Tecnología
-  Número de teléfono: '23845959'
-  Link de contacto directo (red social): https://www.facebook.com/herrerallerandi/
   Email: healthinfo@herrerallerandi.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1JXgjw1bOXhy7qGZk79SqqI9SKf5fWlol
   id: recs9y7kBleZLz4qD
+  name: Hospital Herrera Llerandi
+  category: Salud, Hospitales y Limpieza
+  description: Institución de reconocido prestigio operada por Asociación de Médicos
+    Especialistas de Guatemala, Mejor Hospital de Guatemala y con la Mejor Tecnología
+  phone: '23845959'
+  social_media: https://www.facebook.com/herrerallerandi/
+  logo_link: https://drive.google.com/open?id=1JXgjw1bOXhy7qGZk79SqqI9SKf5fWlol
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Go Pesto
-  Categoría: Alimentos
-  Descripción: Pesto para todos! Pestos caseros a base de ingredientes orgánicos y
-    de primera calidad! Ideal para acompañar tus platos favoritos
-  Link de contacto directo (red social): https://www.instagram.com/gopesto.gt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1qApl_U-mIRJBc6hMSgv-hIX59RxunJj1
   id: recsD4HbYJm0GXETj
+  name: Go Pesto
+  category: Alimentos
+  description: Pesto para todos! Pestos caseros a base de ingredientes orgánicos y
+    de primera calidad! Ideal para acompañar tus platos favoritos
+  social_media: https://www.instagram.com/gopesto.gt/
+  logo_link: https://drive.google.com/open?id=1qApl_U-mIRJBc6hMSgv-hIX59RxunJj1
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Distribuidora Ola Azul
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Distribución de pescados y mariscos frescos.
-  Número de teléfono: '53159410'
-  Link de contacto directo (red social): https://www.instagram.com/olazulgt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1V8Z7JN0yBGIzJqARr8NOWez-PIOPcAiH
   id: recsJ2sVhiaERODki
+  name: Distribuidora Ola Azul
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Distribución de pescados y mariscos frescos.
+  phone: '53159410'
+  social_media: https://www.instagram.com/olazulgt/
+  logo_link: https://drive.google.com/open?id=1V8Z7JN0yBGIzJqARr8NOWez-PIOPcAiH
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Simán
-  Categoría: Electrodomésticos
-  Descripción: Especialistas en moda, tendencias y estilo de vida. Dedicados a brindarte
-    la mejor experiencia de compra, con las mejores marcas de prestigio internacional.
-  Número de teléfono: '24447777'
-  Link de contacto directo (red social): https://www.facebook.com/simanguatemala/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1kR35vrZh5EfyrEI70xy36d4546IvKNLq
   id: recsTM4LzLyvI1Agu
+  name: Simán
+  category: Electrodomésticos
+  description: Especialistas en moda, tendencias y estilo de vida. Dedicados a brindarte
+    la mejor experiencia de compra, con las mejores marcas de prestigio internacional.
+  phone: '24447777'
+  social_media: https://www.facebook.com/simanguatemala/
+  logo_link: https://drive.google.com/open?id=1kR35vrZh5EfyrEI70xy36d4546IvKNLq
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Banco GyT Continental
-  Categoría: Bancos
-  Número de teléfono: '23386801'
-  Link de contacto directo (red social): https://www.gtc.com.gt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1vbkGErX8aan3E4A14ZdhTcK-pee8ej4p
   id: recsWuSzh71AS08af
+  name: Banco GyT Continental
+  category: Bancos
+  phone: '23386801'
+  social_media: https://www.gtc.com.gt/
+  logo_link: https://drive.google.com/open?id=1vbkGErX8aan3E4A14ZdhTcK-pee8ej4p
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: SUR DESARROLLOS
-  Categoría: Inmobiliaria
-  Descripción: "[Sustainable Urban Real estate] Queremos mejorar la ciudad haciendo
-    proyectos #Sostenibles construyendo apartamentos, oficinas y comercios inspirados
-    en la innovación, diseño y mejoramiento del #EspacioUrbano."
-  Número de teléfono: '22138400'
-  Link de contacto directo (red social): 'http://www.sur.gt/
-
-    '
   Email: 'info@sur.gt
 
     '
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=18puzjg8hwjy_FlBABgtcykb4ftCOm9rr
   id: recsXgLZptUGK35iO
+  name: SUR DESARROLLOS
+  category: Inmobiliaria
+  description: "[Sustainable Urban Real estate] Queremos mejorar la ciudad haciendo
+    proyectos #Sostenibles construyendo apartamentos, oficinas y comercios inspirados
+    en la innovación, diseño y mejoramiento del #EspacioUrbano."
+  phone: '22138400'
+  social_media: 'http://www.sur.gt/
+
+    '
+  logo_link: https://drive.google.com/open?id=18puzjg8hwjy_FlBABgtcykb4ftCOm9rr
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: FUNBA
-  Categoría: Cartelera Cultural
-  Descripción: FUNBA es una institución privada, no lucrativa, dedicada al rescate
-    del patrimonio artístico de Guatemala.
-  Número de teléfono: '78328773'
-  Link de contacto directo (red social): https://www.facebook.com/FUNBAGUATEMALA
   Email: info@funbaguatemala.org
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1o-M1eocj-S6kKkeFZc0vD-7QaTHLM9nj
   id: rectNitbUwjTaGWWU
+  name: FUNBA
+  category: Cartelera Cultural
+  description: FUNBA es una institución privada, no lucrativa, dedicada al rescate
+    del patrimonio artístico de Guatemala.
+  phone: '78328773'
+  social_media: https://www.facebook.com/FUNBAGUATEMALA
+  logo_link: https://drive.google.com/open?id=1o-M1eocj-S6kKkeFZc0vD-7QaTHLM9nj
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: OS GALLERY
-  Categoría: Cartelera Cultural
-  Descripción: Galería de arte
-  Número de teléfono: '3109934019'
-  Link de contacto directo (red social): https://www.facebook.com/OSgalleryLA
   Email: info@osgalleryla.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1o7O8ls7IYEieXzpUI2niHZGXcxQc0-pF
   id: rectPYQ7MRX3QDx3r
+  name: OS GALLERY
+  category: Cartelera Cultural
+  description: Galería de arte
+  phone: '3109934019'
+  social_media: https://www.facebook.com/OSgalleryLA
+  logo_link: https://drive.google.com/open?id=1o7O8ls7IYEieXzpUI2niHZGXcxQc0-pF
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: TEC COWORKING
-  Categoría: Coworking
-  Descripción: Es un espacio  de 465 mts. Unificado estratégicamente, donde se  genera
-    una comunidad emprendedores y un estilo family office.
-  Número de teléfono: '22183100'
-  Link de contacto directo (red social): https://tec.gt/coworking/
   Email: info@tec.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=17neJNEHIUXGFCRoqzHC0dZ-oFSn4yaVd
   id: rectpsWRuMRfVNGqm
+  name: TEC COWORKING
+  category: Coworking
+  description: Es un espacio  de 465 mts. Unificado estratégicamente, donde se  genera
+    una comunidad emprendedores y un estilo family office.
+  phone: '22183100'
+  social_media: https://tec.gt/coworking/
+  logo_link: https://drive.google.com/open?id=17neJNEHIUXGFCRoqzHC0dZ-oFSn4yaVd
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Sublime Restaurante
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Re-vive es un viaje en el tiempo a través de nuestra historia. Desde
+  Email: sublimegastronomico@gmail.com
+  id: recuHbIv6bs00cQNG
+  name: Sublime Restaurante
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Re-vive es un viaje en el tiempo a través de nuestra historia. Desde
     la época prehispánica, pasando por las fusiones de culturas y sabores que nos
     moldearon hasta nuestra actualidad.
-  Número de teléfono: '55992086'
-  Link de contacto directo (red social): https://www.facebook.com/sublimerestaurantegt/
-  Email: sublimegastronomico@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1O5AksnJHD3Kj7-k5EzZgAZGiAZDn52kn
-  id: recuHbIv6bs00cQNG
+  phone: '55992086'
+  social_media: https://www.facebook.com/sublimerestaurantegt/
+  logo_link: https://drive.google.com/open?id=1O5AksnJHD3Kj7-k5EzZgAZGiAZDn52kn
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Makia Cosmetics
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: Hacemos que el cuidado personal sea divertido, sostenible y nos inspiramos
-    en ti!
-  Número de teléfono: '58569593'
-  Link de contacto directo (red social): https://www.facebook.com/makiacosmetics/
   Email: info@makiacosmetics.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1GkN_JpmaotntnIaNxZ1RI2v2yxfeZ4sx
   id: recuZd9J0qY5LrFkC
+  name: Makia Cosmetics
+  category: Salud, Hospitales y Limpieza
+  description: Hacemos que el cuidado personal sea divertido, sostenible y nos inspiramos
+    en ti!
+  phone: '58569593'
+  social_media: https://www.facebook.com/makiacosmetics/
+  logo_link: https://drive.google.com/open?id=1GkN_JpmaotntnIaNxZ1RI2v2yxfeZ4sx
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Librería Fátima
-  Categoría: Librería e impresiones
-  Descripción: En Librería Fátima te ofrecemos la mejor variedad de artículos escolares,
-    de oficina y manualidades, de marcas reconocidas en el mundo.
-  Número de teléfono: '23838100'
-  Link de contacto directo (red social): https://www.facebook.com/LibreriaFatimagt/
   Email: agencia09@fatima.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=11UyTCYu0CC8zEsNHtEJ6qbteDe_YaMtQ
   id: recuc6ExiC4jfXtpV
+  name: Librería Fátima
+  category: Librería e impresiones
+  description: En Librería Fátima te ofrecemos la mejor variedad de artículos escolares,
+    de oficina y manualidades, de marcas reconocidas en el mundo.
+  phone: '23838100'
+  social_media: https://www.facebook.com/LibreriaFatimagt/
+  logo_link: https://drive.google.com/open?id=11UyTCYu0CC8zEsNHtEJ6qbteDe_YaMtQ
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Be Habits
-  Categoría: Salud, Hospitales y Limpieza
-  Descripción: BAZAR en línea de Vitaminas y Suplementos de alta calidad.
-  Número de teléfono: '22614025'
-  Link de contacto directo (red social): https://www.facebook.com/Be-Habits-Gt-112615933549575/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1VBNNUhyTCj1JWgVn5jourAYiVaGD_5aF
   id: recuvmzDThWXWuaAw
+  name: Be Habits
+  category: Salud, Hospitales y Limpieza
+  description: BAZAR en línea de Vitaminas y Suplementos de alta calidad.
+  phone: '22614025'
+  social_media: https://www.facebook.com/Be-Habits-Gt-112615933549575/
+  logo_link: https://drive.google.com/open?id=1VBNNUhyTCj1JWgVn5jourAYiVaGD_5aF
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Banco Promerica
-  Categoría: Bancos
-  Número de teléfono: '24139400'
-  Link de contacto directo (red social): https://www.bancopromerica.com.gt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1bkyq0X1d6PkmQc7uGQFAHT-QUDmpZkFM
   id: recvDA5WFgU0jgkhK
+  name: Banco Promerica
+  category: Bancos
+  phone: '24139400'
+  social_media: https://www.bancopromerica.com.gt/
+  logo_link: https://drive.google.com/open?id=1bkyq0X1d6PkmQc7uGQFAHT-QUDmpZkFM
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Rojo Cerezo
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Amantes del mejor café de especialidad de Guatemala.
-  Número de teléfono: '22347133'
-  Link de contacto directo (red social): https://www.facebook.com/rojocerezocoffee/
   Email: rojocerezocoffee@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1let9Gy7Vredr_un07EHc-GOCFqP1SLB0
   id: recvR7MldcqaIXQE0
+  name: Rojo Cerezo
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Amantes del mejor café de especialidad de Guatemala.
+  phone: '22347133'
+  social_media: https://www.facebook.com/rojocerezocoffee/
+  logo_link: https://drive.google.com/open?id=1let9Gy7Vredr_un07EHc-GOCFqP1SLB0
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: BAM
-  Categoría: Bancos
-  Número de teléfono: '23386565'
-  Link de contacto directo (red social): https://www.bam.com.gt/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1ycblIt21Bft7bHYyvEu14xM8aTWujg9l
   id: recvWwyEHroOAZN0Y
+  name: BAM
+  category: Bancos
+  phone: '23386565'
+  social_media: https://www.bam.com.gt/
+  logo_link: https://drive.google.com/open?id=1ycblIt21Bft7bHYyvEu14xM8aTWujg9l
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Sobre Ruedas
-  Categoría: Alimentos
-  Descripción: HEMOS QUERIDO CON ESTA IDEA FUSIONAR DOS GRANDES PASIONES QUE NOS HAN
-    ACOMPAÑADO DURANTE NUESTRA VIDA; EL BUEN COMER Y LA LIBERTAD QUE NOS HA BRINDADO
-    LA BICICLETA. EL SABOR DE PONERLE RUEDAS A LA VIDA ES LO QUE NOS MUEVE.
-  Número de teléfono: '52326689'
-  Link de contacto directo (red social): https://www.facebook.com/Sobre-Ruedas-2299970936942262
   Email: 'sobreruedas@gmx.com
 
     '
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1WvHHRez_zDYZOEaIvoxGscBFO4vC7MPE
   id: recvd4C82UKy48wTm
+  name: Sobre Ruedas
+  category: Alimentos
+  description: HEMOS QUERIDO CON ESTA IDEA FUSIONAR DOS GRANDES PASIONES QUE NOS HAN
+    ACOMPAÑADO DURANTE NUESTRA VIDA; EL BUEN COMER Y LA LIBERTAD QUE NOS HA BRINDADO
+    LA BICICLETA. EL SABOR DE PONERLE RUEDAS A LA VIDA ES LO QUE NOS MUEVE.
+  phone: '52326689'
+  social_media: https://www.facebook.com/Sobre-Ruedas-2299970936942262
+  logo_link: https://drive.google.com/open?id=1WvHHRez_zDYZOEaIvoxGscBFO4vC7MPE
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: For You To Go
-  Categoría: Deportes y Ejercicio
-  Descripción: Nos dedicamos a la venta por mayor y menor de equipo de ejercicio,
-    bolsones escolares y de senderismo , accesorios para tel. y mucho más.
-  Número de teléfono: '55107763'
-  Link de contacto directo (red social): https://comerzy.com/foryoutogo
   Email: "."
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1pZSC7JB9u-WVPkaEsws3kvkLijkPBSfk
   id: recw8jsulC5ska3nf
+  name: For You To Go
+  category: Deportes y Ejercicio
+  description: Nos dedicamos a la venta por mayor y menor de equipo de ejercicio,
+    bolsones escolares y de senderismo , accesorios para tel. y mucho más.
+  phone: '55107763'
+  social_media: https://comerzy.com/foryoutogo
+  logo_link: https://drive.google.com/open?id=1pZSC7JB9u-WVPkaEsws3kvkLijkPBSfk
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Moonrise
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: Comida vegana, abierto pick-up / delivery
-  Número de teléfono: '48309640'
-  Link de contacto directo (red social): https://www.instagram.com/moonrise.gt/?hl=es
   Email: hola@moonrisegt.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=18dEzpdxi2vARXDn56TCZSbBjcn33CHWB
   id: recwI1ql3tHgDTzXR
+  name: Moonrise
+  category: Restaurantes, Cafeterías y Heladerías
+  description: Comida vegana, abierto pick-up / delivery
+  phone: '48309640'
+  social_media: https://www.instagram.com/moonrise.gt/?hl=es
+  logo_link: https://drive.google.com/open?id=18dEzpdxi2vARXDn56TCZSbBjcn33CHWB
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Escenarte
-  Categoría: Clases online y Terapias
-  Descripción: "En Escenarte tenemos como objetivo principal formar actores profesionales
+  Lugares que cubre tu delivery: info@escenarte.com.gt
+  id: recwT80PBBZGMOiXg
+  name: Escenarte
+  category: Clases online y Terapias
+  description: "En Escenarte tenemos como objetivo principal formar actores profesionales
     con preparacion en Teatro\U0001F3AD, Cine \U0001F3AC y TV. \U0001F4FAY somos una
     productora"
-  Número de teléfono: '22586781'
-  Link de contacto directo (red social): https://www.instagram.com/escenartegt/?hl=es-la
-  Lugares que cubre tu delivery: info@escenarte.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1fepAIADmZz6ibnIlqtnxuAgGs7ecrEcM
-  id: recwT80PBBZGMOiXg
+  phone: '22586781'
+  social_media: https://www.instagram.com/escenartegt/?hl=es-la
+  logo_link: https://drive.google.com/open?id=1fepAIADmZz6ibnIlqtnxuAgGs7ecrEcM
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: REV STUDIO
-  Categoría: Cartelera Cultural
-  Descripción: REV STUDIO es un concepto inclinado a la decoración de interiores personal
-    y con la mejor atención en diseño, estilo y buen gusto.
-  Número de teléfono: '22966876'
-  Link de contacto directo (red social): http://www.revstudioguatemala.com/
   Email: creativeminds@revinterior.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1ZIWOPPf-wN4_kP0ICes46I1c6dE4kznC
   id: recwgfdhwRUWuv4Nb
+  name: REV STUDIO
+  category: Cartelera Cultural
+  description: REV STUDIO es un concepto inclinado a la decoración de interiores personal
+    y con la mejor atención en diseño, estilo y buen gusto.
+  phone: '22966876'
+  social_media: http://www.revstudioguatemala.com/
+  logo_link: https://drive.google.com/open?id=1ZIWOPPf-wN4_kP0ICes46I1c6dE4kznC
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Favri
-  Categoría: Servicios online
-  Descripción: Una tienda dedicada al comercio de productos locales.
-  Número de teléfono: '57916587'
-  Link de contacto directo (red social): https://www.facebook.com/favri.cogt/
   Email: info@favri.co
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1RZfaF6GfaqPO4HkLnj1lX9MjcsoK08KG
   id: recxr05m10Vw36zih
+  name: Favri
+  category: Servicios online
+  description: Una tienda dedicada al comercio de productos locales.
+  phone: '57916587'
+  social_media: https://www.facebook.com/favri.cogt/
+  logo_link: https://drive.google.com/open?id=1RZfaF6GfaqPO4HkLnj1lX9MjcsoK08KG
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Librería Arriola
-  Categoría: Librería e impresiones
-  Descripción: Oficina, pintura y arte, artículos escolares, muebles para oficina.
-  Número de teléfono: '50107257'
-  Link de contacto directo (red social): https://www.facebook.com/papeleriaarriola0/
   Email: montufar.arriola@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1fO72qiyY2NWxznW6ORo6yK3haXsHI5-c
   id: recxz7pok779ljd3E
+  name: Librería Arriola
+  category: Librería e impresiones
+  description: Oficina, pintura y arte, artículos escolares, muebles para oficina.
+  phone: '50107257'
+  social_media: https://www.facebook.com/papeleriaarriola0/
+  logo_link: https://drive.google.com/open?id=1fO72qiyY2NWxznW6ORo6yK3haXsHI5-c
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: 'GRUPO   GAYA  '
-  Categoría: Alimentos
-  Descripción: Soluciones prácticas gastronómicas y ambientales
   Persona encargada del negocio: Pablo Chinchilla
-  Número de teléfono: '41996511'
-  Link de contacto directo (red social): https://www.instagram.com/grupogaya/?hl=es-la
   Email: pablojcm@gmail.com
   Lugares que cubre tu delivery: 10, 14, 15, 16 y carretera al Salvador
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1tpG5UFNJPp4vYnjpGxmBU2hegTs5gmuj
   Comentarios: "..."
   Field 11:
   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -2055,85 +2049,91 @@
         width: 3000
         height: 3000
   id: recyGOnRjBi7PKKhO
+  name: 'GRUPO   GAYA  '
+  category: Alimentos
+  description: Soluciones prácticas gastronómicas y ambientales
+  phone: '41996511'
+  social_media: https://www.instagram.com/grupogaya/?hl=es-la
+  logo_link: https://drive.google.com/open?id=1tpG5UFNJPp4vYnjpGxmBU2hegTs5gmuj
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: DISTRIBUIDORA MARTE
-  Categoría: Coctelería
-  Descripción: Siempre que hay algo que celebrar. DISTRIBUIDORA MARTE, S. A. se creó
+  id: recyYihXvYVTGng3S
+  name: DISTRIBUIDORA MARTE
+  category: Coctelería
+  description: Siempre que hay algo que celebrar. DISTRIBUIDORA MARTE, S. A. se creó
     en 1976, empresa dedica a la distribución de licores para el mercado guatemalteco.
     La empresa tiene una participación del 35% del mercado de licores.
-  Número de teléfono: '47391100'
-  Link de contacto directo (red social): http://www.dmarte.com/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1ppwtjwjyk0yMr_s1E_BHt0pZmjd73dgR
-  id: recyYihXvYVTGng3S
+  phone: '47391100'
+  social_media: http://www.dmarte.com/
+  logo_link: https://drive.google.com/open?id=1ppwtjwjyk0yMr_s1E_BHt0pZmjd73dgR
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Fado Bakery
-  Categoría: Pan y Panadería
-  Descripción: Somos la panadería de la familia
-  Número de teléfono: '47913078'
-  Link de contacto directo (red social): https://www.facebook.com/FadoBakery
   Email: rubenmaio351@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1y6p9iJlVapHRObvazlez_XvZePn7CR_D
   id: recyoiUHu71Gw4Jh1
+  name: Fado Bakery
+  category: Pan y Panadería
+  description: Somos la panadería de la familia
+  phone: '47913078'
+  social_media: https://www.facebook.com/FadoBakery
+  logo_link: https://drive.google.com/open?id=1y6p9iJlVapHRObvazlez_XvZePn7CR_D
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Vepak
-  Categoría: Mensajería
-  Descripción: Envíos para la ciudad de Guate y un cachito más allá. Mara chispuda
-    que cuida lo que es importante para ti.
-  Número de teléfono: '48018160'
-  Link de contacto directo (red social): https://www.facebook.com/vepakguate/
   Email: vepakguate@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1A1_nF3ROh_NeQoTVWr3rEFZQXuiFCDiE
   id: recyqSdscmRQCMRrY
+  name: Vepak
+  category: Mensajería
+  description: Envíos para la ciudad de Guate y un cachito más allá. Mara chispuda
+    que cuida lo que es importante para ti.
+  phone: '48018160'
+  social_media: https://www.facebook.com/vepakguate/
+  logo_link: https://drive.google.com/open?id=1A1_nF3ROh_NeQoTVWr3rEFZQXuiFCDiE
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Ferretería Novex
-  Categoría: Ferreterías
-  Descripción: |-
+  Email: mercadeo@novex.com.gt
+  id: recz1d1OlHeDEIJOC
+  name: Ferretería Novex
+  category: Ferreterías
+  description: |-
     Ferretería y Home Decor.
     Aquí encontraras lo que necesitas para la mejora, remodelación o construcción de tu hogar y oficina.
-  Número de teléfono: '23795200'
-  Link de contacto directo (red social): https://www.facebook.com/FerreteriaNovex/
-  Email: mercadeo@novex.com.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=197cQYdVd9ETcjeNSY4YxFNyEQ2mvjgPY
-  id: recz1d1OlHeDEIJOC
+  phone: '23795200'
+  social_media: https://www.facebook.com/FerreteriaNovex/
+  logo_link: https://drive.google.com/open?id=197cQYdVd9ETcjeNSY4YxFNyEQ2mvjgPY
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: SEED COMMUNITY
-  Categoría: Coworking
-  Descripción: Centro de negocios colaborativos donde se ofrecen servicios de oficina
-    privada, espacio de coworking y eventos de networking.
-  Link de contacto directo (red social): https://seedsv.com/instalaciones/xpo1-guatemala/
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=1Tx0XBng4PJ95wPz93MlW9bD4qI0PQmc1
   id: reczMAFPJPHvuzles
+  name: SEED COMMUNITY
+  category: Coworking
+  description: Centro de negocios colaborativos donde se ofrecen servicios de oficina
+    privada, espacio de coworking y eventos de networking.
+  social_media: https://seedsv.com/instalaciones/xpo1-guatemala/
+  logo_link: https://drive.google.com/open?id=1Tx0XBng4PJ95wPz93MlW9bD4qI0PQmc1
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: Restaurante Colibrí
-  Categoría: Restaurantes, Cafeterías y Heladerías
-  Descripción: La combinación perfecta entre naturaleza, cocina auténtica y tiempo
-    en familia. ¡Muy cerca de ti!
-  Número de teléfono: '66324842'
-  Link de contacto directo (red social): http://www.instagram.com/colibricocinagt
   Email: colibrirestaurante18@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=19bDmn1Xgo5z_ChwVLd63T8FTlrr5sKRZ
   id: reczYn5GfrdaIMfMx
+  name: Restaurante Colibrí
+  category: Restaurantes, Cafeterías y Heladerías
+  description: La combinación perfecta entre naturaleza, cocina auténtica y tiempo
+    en familia. ¡Muy cerca de ti!
+  phone: '66324842'
+  social_media: http://www.instagram.com/colibricocinagt
+  logo_link: https://drive.google.com/open?id=19bDmn1Xgo5z_ChwVLd63T8FTlrr5sKRZ
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: MIND YOGA
-  Categoría: Clases online y Terapias
-  Descripción: "Clases de yoga en línea \U0001F64F\U0001F3FB\U0001F499 \U0001F9D8\U0001F3FC‍♀️\U0001F9D8\U0001F3FC\U0001F9D8\U0001F3FB‍♂️
-    para todos los niveles"
-  Link de contacto directo (red social): www.lifeasayogi.com/mind-yoga
   Email: mindyoga.gt@gmail.com
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=12kkZdVqxeCC1Bx0riQIRybVQ7ubA8lAb
   id: reczYo0C4hTnaBpHb
+  name: MIND YOGA
+  category: Clases online y Terapias
+  description: "Clases de yoga en línea \U0001F64F\U0001F3FB\U0001F499 \U0001F9D8\U0001F3FC‍♀️\U0001F9D8\U0001F3FC\U0001F9D8\U0001F3FB‍♂️
+    para todos los niveles"
+  social_media: www.lifeasayogi.com/mind-yoga
+  logo_link: https://drive.google.com/open?id=12kkZdVqxeCC1Bx0riQIRybVQ7ubA8lAb
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  Nombre: OFICINAS XPO 1
-  Categoría: Coworking
-  Descripción: XPO1 es un proyecto de uso mixto de oficinas y locales comerciales.
-    Es un edificio de 12 niveles con fácil acceso, movilidad y espacios abiertos para
-    que las personas se sientan bienvenidas a entrar caminando a través de sus plazas.
-  Número de teléfono: '46415717'
-  Link de contacto directo (red social): 'http://xpo1.gt/
-
-    '
   Email: |2-
 
     xpo1@urbop.gt
-  Logo de tu negocio en formato .PNG o .JPG: https://drive.google.com/open?id=125iaNDOEL-Km0rcB4GxcD099IHpjCrWD
   id: reczbAdHR09aFFdNn
+  name: OFICINAS XPO 1
+  category: Coworking
+  description: XPO1 es un proyecto de uso mixto de oficinas y locales comerciales.
+    Es un edificio de 12 niveles con fácil acceso, movilidad y espacios abiertos para
+    que las personas se sientan bienvenidas a entrar caminando a través de sus plazas.
+  phone: '46415717'
+  social_media: 'http://xpo1.gt/
+
+    '
+  logo_link: https://drive.google.com/open?id=125iaNDOEL-Km0rcB4GxcD099IHpjCrWD
