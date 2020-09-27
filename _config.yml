@@ -1,7 +1,7 @@
 title: "TRIBUS-Directorio de Comercios Locales"
 description: "Imaginatorio Cooperative y TRIBUS Actuales GT celebran, a
 través de la exposición y divulgación, las grandes ideas que escriben el futuro de Guatemala"
-url: ""
+url: "https://directorio-tribus.netlify.app/"
 locale: "es_US"
 include: ["_redirects"]
 image_url: "{{ site.url }}/assets/img/og-image.jpg"
