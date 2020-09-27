@@ -24,8 +24,13 @@
 
     <meta property="og:locale" content="{{ locale | replace:'-','_' }}" />
 
+    <link rel="stylesheet" href="{{ 'vendor/css/bootstrap.min.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ 'vendor/css/font-awesome.min.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ 'vendor/css/lity.min.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/css/app.css' | relative_url }}" type="text/css">
     <link rel="shortcut icon" href="{{ '/assets/img/favicon.png' | relative_url }}">
+
+    {% include import_js.html %}
   </head>
 
 

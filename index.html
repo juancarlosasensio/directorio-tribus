@@ -3,25 +3,67 @@ layout: default
 page_name: home
 ---
 
-<section>
-  <div class="container">
-    <h1>{{ site.title }}</h1>
-    <img src="/assets/img/og-image.jpg" alt="TRIBUS-Directorio Logo">
+<section> 
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>{{ site.title }}</h1>
+      <img src="/assets/img/og-image.jpg" alt="TRIBUS-Directorio Logo">
+    </div>
+  </div>
+</section>    
 
-    {% assign all_categories = site.data.airtable | map: "category" | uniq %}
-    
-    {% for category_name in all_categories %}
-    <div>
-      <h3>{{ category_name }}</h3>
-      {% for item in site.data.airtable%}
-      <div>
-        {% if item.category == category_name %}
-        <p><strong>{{item.name | strip }}</strong> - <span>{{item.description | strip }}</span></p>
-        <p>{{ item.description | strip }} / <span> <strong>{{ item.phone }}</strong></span></p>
+{% assign all_categories = site.data.airtable | map: "category" | uniq %}
+
+{% for category_name in all_categories %}
+<h3>{{ category_name }} </h3>
+{% for item in site.data.airtable%}
+  {% if item.category == category_name %}
+    <div class="resource-card">
+      {% if item.social_media %}
+      <a href="{{ item.social_media }}" class="absolute-link"></a>
+      {% endif %}s
+
+      <div class="img-wrapper {% unless item.logo_link %} no-img {% endunless %}">
+        {% if item.logo_link %}
+        <img src="assets/img/og-image.jpg"> <!-- change to {{ img.logo_link }}  -->
+        {% else %}
+        <div class="resource-card-banner--content">
+          <h3 class="resource-card-banner--title">{{ item.name }}</h3>
+          <div class="resource-card-banner--date">{{ item.start_at | date: "%b %e" }}</div>
+        </div>
         {% endif %}
       </div>
-      {% endfor %}  
+
+      <div>
+        <h3 class="resource-card--title"> {{ item.name }} </h3>
+
+        <div class="resource-card--meta">
+          <div class="resource-card--phone">
+            {{ item.phone }}
+          </div>
+        </div>
+
+        <div class="resource-card--content">
+          {{ item.description }}
+        </div>
+      </div>
     </div>
-    {% endfor %}
+  {% endif %}  
+{% endfor %}
+
+<!-- <section>
+  <div class="container mb-4">
+    <h3 class="bold">{{ category_name }}</h3>
+    {% for item in site.data.airtable%}
+      {% if item.category == category_name %}
+      <div class="card-product">
+        <div class="card-product-infos">
+          <h2>{{item.name | strip }}</h2>
+          <p>{{item.description | strip }}</p>
+        </div>
+      </div>
+      {% endif %}
+    {% endfor %}  
   </div>
-</section>
+</section> -->
+{% endfor %}
