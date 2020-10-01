@@ -1,0 +1,26 @@
+<div class="resources-index">
+  {% for category_name in all_categories %}
+  <h3>{{ category_name }} </h3>
+  {% for item in site.data.airtable %}
+    {% if item.category == category_name %}
+      <div class="resource-card">
+        <div class="img-wrapper">
+          <img src="assets/img/og-image.jpg">
+        </div>  
+  
+        <div class="d-flex flex-column justify-content-start">
+          <h3 class="resource-card--title"> {{ item.name }} </h3>
+  
+          <div class="resource-card--meta">
+              {{ item.phone }}
+            </div>
+          </div>
+  
+          <div class="resource-card--content">
+            {{ item.description }}
+          </div>
+        </div>
+        {% endif %}
+      {% endfor %}  
+    {% endfor %}
+  </div>
