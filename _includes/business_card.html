@@ -1,0 +1,33 @@
+<div class="business-card">
+  <div class="img-wrapper {% unless item.logo_attachment %} no-img {% endunless %}">
+    {% if item.logo_attachment %}
+    <img src="assets/img/og-image.jpg">
+    {% else %}
+    <div class="business-card-banner--content">
+      <h3 class="business-card-banner--title">{{ item.name }}</h3>
+      <div class="business-card-banner--date">{{ item.phone }}</div>
+    </div>
+    {% endif %}
+  </div>
+
+  <div class="mt-2">
+    <h3 class="business-card--title">
+      {{ item.name }}
+    </h3>
+
+    <div class="business-card--meta">
+      <div class="business-card--date">
+        {{ item.phone }}
+      </div>
+      <div class="business-card--address">
+        {% if item.social_media %}
+        <a href="{{ item.social_media }}">Ver Página web</a>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="business-card--content">
+      {{ item.description }}
+    </div>
+  </div>
+</div>

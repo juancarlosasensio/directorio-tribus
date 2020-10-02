@@ -27,32 +27,8 @@ page_name: home
     </div>
     {% for item in site.data.airtable %}
       {% if item.category == category_name %}
-        <div class="business-card">
-          <div class="img-wrapper">
-            <img src="assets/img/og-image.jpg">
-          </div>
-        
-          <div class="mt-2">
-            <h3 class="business-card--title">
-              {{ item.name }}
-            </h3>
-          
-            <div class="business-card--meta">
-              <div class="business-card--date">
-                {{ item.phone }}
-              </div>
-              <div class="business-card--address">
-                {% if item.social_media %}
-                  <a href="{{ item.social_media }}">Ver Página web</a>
-                {% endif %}
-              </div>
-            </div>
-          
-            <div class="business-card--content">
-              {{ item.description }}
-            </div>
-          </div>
-        </div>
+        {% assign item = item['resource'] %}
+        {% include business_card.html %}
       {% endif %}
     {% endfor %}  
   {% endfor %}
