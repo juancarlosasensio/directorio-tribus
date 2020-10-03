@@ -36,3 +36,13 @@ h1 {
     max-height: 120px;
   }
 }
+
+.sticky-top {
+  position: sticky;
+  top: 4rem;
+  min-height: calc(100vh - 4rem);
+  height: calc(100vh - 4rem);
+  overflow: auto;
+  overflow-x: hidden;
+  z-index: 1;
+}
