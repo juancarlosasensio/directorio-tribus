@@ -16,3 +16,23 @@ h1 {
   cursor: pointer;
   z-index: 5;
 }
+
+.bg-black {
+  background-color: black !important;
+}
+
+.white-letters {
+  color: white !important;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.logo {
+  max-height: 80px;
+
+  &.big {
+    max-height: 120px;
+  }
+}

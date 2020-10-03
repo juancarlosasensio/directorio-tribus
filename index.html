@@ -20,16 +20,41 @@ page_name: home
 </section>    
 
 {% assign all_categories = site.data.airtable | map: "category" | uniq %}
-<div class="businesses-index">
-  {% for category_name in all_categories %}
-    <div class="mt-4" id="{{ category_name }}">
-      <h3>{{ category_name }} </h3>
-    </div>
-    {% for item in site.data.airtable %}
-      {% if item.category == category_name %}
+<!-- <section>
+  <div class="container">
+    {% for category_name in all_categories %}
+      <div class="mt-4" id="{{ category_name }}">
+        <h3>{{ category_name }} </h3>
+      </div>
+      {% for item in site.data.airtable %}
+        {% if item.category == category_name %}
+          {% assign item = item['resource'] %}
+          {% include business_card.html %}
+        {% endif %}
+      {% endfor %}  
+    {% endfor %}
+  </div>
+</section> -->
+
+<section>
+  <div class="mb-5">
+    <ul>
+      <li data-filter-category="all" class="bold">Everything</li>
+      {% for category in all_categories %}
+      <li data-filter-category="{{ category }}" class="">{{ category }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="container">
+    <div class="row justify-content-center">
+
+      {% for item in site.data.airtable %}
         {% assign item = item['resource'] %}
         {% include business_card.html %}
-      {% endif %}
-    {% endfor %}  
-  {% endfor %}
-</div>
+      {% endfor %}
+      
+    </div>
+  </div>
+</section>
+
