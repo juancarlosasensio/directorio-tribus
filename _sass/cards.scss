@@ -9,6 +9,11 @@
   align-items: flex-start;
   margin: 60px 20px;
   width: 100%;
+  padding-bottom: 2rem;
+  
+  &.with-border-bottom { border-bottom: 1px solid var(--bg-white); }
+  &:first-of-type { margin-top: 0px; } 
+  &:last-of-type { border-bottom: none; }
 
   &.hidden {
       display: none;
@@ -23,13 +28,7 @@
     max-width: 360px;
 
     &.no-img {
-      background: black;
-    }
-
-    .pb-date-tag {
-      position: absolute;
-      top: 10px;
-      right: 10px;
+      background-color: var(--light-grey);
     }
   }
 
@@ -39,8 +38,8 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: #fff;
-    box-shadow: 0 2px 4px 0 rgba(50, 50, 93, 0.1);
+    background: var(--black);
+    box-shadow: 0 2px 4px 0 rgba(8, 8, 24, 0.1);
     border-radius: 4px;
     width: 100%;
     max-width: 75%;
@@ -53,9 +52,9 @@
     margin: 0 0 4px;
   }
 
-  .business-card-banner--date {
+  .business-card-banner--subtitle {
     font-size: 0.9rem;
-    color: var(--pb-light-grey)
+    color: var(--light-grey)
   }
 
   .business-card--title {
@@ -71,7 +70,7 @@
   }
 
   .business-card--content {
-    color: rgba(0, 0, 0, 0.541176);
+    color: var(--bg-white);
     font-size: 1rem;
     margin-top: 0.67rem;
   }

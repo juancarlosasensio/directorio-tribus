@@ -5,56 +5,67 @@ page_name: home
 
 {% include navbar.html %}
 <section class="pt-5"> 
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h1>Directorio de Comercios Locales</h1>
-        <ul>
-          {% for category_name in all_categories %}
-          <li><a href="#{{ category_name }}">{{ category_name }}</a></li>
-          {% endfor %}
-        </ul>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10">
+          <h1>Directorio de Comercios Locales</h1>
+          <ul>
+            {% for category_name in all_categories %}
+            <li><a href="#{{ category_name }}">{{ category_name }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
     </div>
   </div>
 </section>    
 
-{% assign all_categories = site.data.airtable | map: "category" | uniq %}
-<!-- <section>
-  <div class="container">
-    {% for category_name in all_categories %}
-      <div class="mt-4" id="{{ category_name }}">
-        <h3>{{ category_name }} </h3>
-      </div>
-      {% for item in site.data.airtable %}
-        {% if item.category == category_name %}
-          {% assign item = item['resource'] %}
-          {% include business_card.html %}
-        {% endif %}
-      {% endfor %}  
-    {% endfor %}
-  </div>
-</section> -->
-
+{% assign all_categories = site.data.airtable | map: "category" | uniq | sort %}
 <section>
-  <div class="row">
-    <div class="col-lg-3 pl-3">
-      <div class="sticky-top">
-        <p class="lead pl-4">Categorías</p>
-        <ul>
-          <li data-filter-category="all" class="bold">Ver todas</li>
-          {% for category in all_categories %}
-          <li data-filter-category="{{ category }}" class="">{{ category }}</li>
-          {% endfor %}
-        </ul>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 bg-green py-4" style="background-color: #05050F; opacity: 80%;">
+        <div class="sticky-top">
+          <p class="lead mb-0 pb-0">Categorías</p>
+          <hr class="bg-white mt-2 mr-4">
+          
+          <ul class="unstyled-list mt-4">
+            <li class="bold cursor-pointer pl-1" data-filter-category="all">Ver todas</li>
+            {% for category in all_categories %}
+            <li class="cursor-pointer pl-1" data-filter-category="{{ category }}">{{ category }}</li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
-    </div>
-    <div class="col-lg-7 offset-lg-1">
-      {% for item in site.data.airtable %}
-        {% assign item = item['resource'] %}
-        {% include business_card.html %}
-      {% endfor %}
+      <div class="col-lg-8 py-2">
+        {% for business in site.data.airtable %}
+          {% assign business = business['resource'] %}
+          {% include business_card.html %}
+        {% endfor %}
+      </div>
     </div>
   </div>
 </section>
 
+<!-- DELETE WHAT FOLLOWS -->
+<!-- 
+<p class="lead mb-0 pb-0">Categorías</p>
+<hr class="bg-white mt-2 mr-4">
+
+<ul class="unstyled-list mt-4">
+  <li class="bold cursor-pointer" data-filter-category="all">Ver todas</li>
+  {% for category in all_categories %}
+  <li class="cursor-pointer" data-filter-category="{{ category }}">{{ category }}</li>
+  {% endfor %}
+</ul>
+
+{% assign businesses = site.data.airtable %}
+{% for business in businesses  %}
+  <div>
+    <h3>
+      {{ business.name }}
+    </h3>
+    <p class="white">
+    </p>
+  </div>
+{% endfor %} -->

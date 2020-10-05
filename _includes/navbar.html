@@ -15,12 +15,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link"
-            href="{{ '/studios' | relative_url }}">Our Studios</a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/company/acton-academy-st-george/" class="social-icon" target="_blank">
-            <i class="fa fa-linkedin" aria-hidden="true"></i>
-          </a>
+            href="#contact">Contacto 🇬🇹</a>
         </li>
       </ul>
     </div>
@@ -33,30 +28,12 @@
   </div>
   <ul class="navbar-nav">
     <li class="nav-item">
-      <a class="nav-link {% if page.page_name == 'about' %} active {% endif %}" href="{{ 'about' | relative_url }}">Who
-        We Are</a>
-    </li>
-    <li class="nav-item mt-2">
-      <a class="nav-link {% if page.page_name == 'studios' %} active {% endif %}"
-        href="{{ 'studios' | relative_url }}">Our Studios</a>
-    </li>
-    {% if site.data.bird.blog and site.data.bird.blog.active %}
-    <li class="nav-item mt-2">
-      <a class="nav-link {% if page.page_name == 'blog' %} active {% endif %}"
-        href="{{ 'blog' | relative_url }}">Blog</a>
-    </li>
-    {% endif %}
-
-    <li class="nav-item mt-2">
-      <a class="nav-link {% if page.page_name == 'admissions' %} active {% endif %}"
-        href="{{ 'admissions' | relative_url }}">Admissions</a>
-    </li>
-    <li class="nav-item mt-4">
-      <a class="nav-link button primary" href="{{ 'schedule-a-meeting' | relative_url }}">Schedule a Call</a>
+      <a class="nav-link" href="https://docs.google.com/forms/d/1B_57GfDoIoAqf3CObpR_yO1RlyfbnBK07s1cGCG6IVM/edit"
+        target="_blank">Registra tu negocio</a>
     </li>
 
     <div class="bottom">
-      <img src="{{ 'img/logo.png' | relative_url }}" class="logo">
+      <img src="{{ '/assets/img/logos/tribus-white.png' | relative_url }}" class="logo small">
     </div>
   </ul>
 </div>

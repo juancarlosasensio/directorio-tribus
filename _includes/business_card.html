@@ -1,33 +1,38 @@
-<div class="business-card" data-category="{{ item.category }}">
-  <div class="img-wrapper {% unless item.logo_attachment %} no-img {% endunless %}">
-    {% if item.logo_attachment %}
-    <img src="assets/img/og-image.jpg">
+<div class="business-card with-border-bottom" data-category="{{ business.category }}">
+  <div class="img-wrapper {% unless business.logo_attachment %} no-img {% endunless %}">
+    {% if business.logo_attachment %}
+      {% for entry in business.logo_attachment %}
+      <img src="{{ entry.url | url_escape }}">
+      {% endfor %}
+    <img src="{{ business.logo_attachment.thumbnails.full.url }}">
     {% else %}
     <div class="business-card-banner--content">
-      <h3 class="business-card-banner--title">{{ item.name }}</h3>
-      <div class="business-card-banner--date">{{ item.phone }}</div>
+      <h3 class="business-card-banner--title">{{ business.name }}</h3>
+      <div class="business-card-banner--subtitle"><i class="fas fa-phone-square-alt"></i> {{ business.phone }}</div>
     </div>
     {% endif %}
   </div>
 
   <div class="mt-2">
     <h3 class="business-card--title">
-      {{ item.name }}
+      {{ business.name }}
     </h3>
 
     <div class="business-card--meta">
-      <div class="business-card--date">
-        {{ item.phone }}
+      <div class="business-card--date light-grey">
+        {{ business.description }}
       </div>
-      <div class="business-card--address">
-        {% if item.social_media %}
-        <a href="{{ item.social_media }}">Ver Página web</a>
-        {% endif %}
+      {% if business.description %}
+      <div class="business-card--address white">
+        {{ business.phone }}
       </div>
+      {% endif %}
     </div>
 
     <div class="business-card--content">
-      {{ item.description }}
+      {% if business.social_media %}
+      <a href="{{ business.social_media }}" class="styled-link">Ver negocio</a>
+      {% endif %}
     </div>
   </div>
 </div>
