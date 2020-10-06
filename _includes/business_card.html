@@ -2,9 +2,8 @@
   <div class="img-wrapper {% unless business.logo_attachment %} no-img {% endunless %}">
     {% if business.logo_attachment %}
       {% for entry in business.logo_attachment %}
-      <img src="{{ entry.url | url_escape }}">
+      <img src="{{ entry.url }}">
       {% endfor %}
-    <img src="{{ business.logo_attachment.thumbnails.full.url }}">
     {% else %}
     <div class="business-card-banner--content">
       <h3 class="business-card-banner--title">{{ business.name }}</h3>
