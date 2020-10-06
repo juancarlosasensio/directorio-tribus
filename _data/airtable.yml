@@ -543,7 +543,27 @@
     verduras y otros alimentos que cumplen altos estándares de calidad
   phone: '58675287'
   social_media: https://www.facebook.com/DelDiaMarket
-  logo_link: https://drive.google.com/open?id=1G6kZrezvNFJT4AER19HVAXwITOSfM5Dw
+  logo_link: https://drive.google.com/file/d/1xzHU6n0te0_mFDjfuWEEOlgHfZc4zy1F/view?usp=sharing
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: atturUauEP4wprPFu
+    url: https://dl.airtable.com/.attachments/4e6fa4db1518851310b64c5d7163d613/3680bd8a/ddm-NohemiMarroquinHernandez.jpg
+    filename: ddm - Nohemí Marroquín Hernández.jpg
+    size: 29081
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/6fc6d0ab0a5a4ef424672a8b99150ed1/5bab81f4
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/3a44031cd8398daca39a4cd95e9757fe/f6a0725e
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/1670776e91d2d525b52df704650720c2/f896d896
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: ventas@aquasistemas.com.gt
   id: recFHuz2Q0sNYHbcU
@@ -2028,7 +2048,14 @@
   Email: pablojcm@gmail.com
   Lugares que cubre tu delivery: 10, 14, 15, 16 y carretera al Salvador
   Comentarios: "..."
-  Field 11:
+  id: recyGOnRjBi7PKKhO
+  name: 'GRUPO   GAYA  '
+  category: Alimentos
+  description: Soluciones prácticas gastronómicas y ambientales
+  phone: '41996511'
+  social_media: https://www.instagram.com/grupogaya/?hl=es-la
+  logo_link: https://drive.google.com/open?id=1tpG5UFNJPp4vYnjpGxmBU2hegTs5gmuj
+  logo_attachment:
   - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     id: attrYnGXIvrQYKg70
     url: https://dl.airtable.com/.attachments/0e4e729c26716d1188db5c7faef1bf3d/003ee13d/gp-NohemiMarroquinHernandez.jpg
@@ -2048,13 +2075,6 @@
         url: https://dl.airtable.com/.attachmentThumbnails/cea88ae2ea49649792e5d47ce1a69da5/95eb5f5e
         width: 3000
         height: 3000
-  id: recyGOnRjBi7PKKhO
-  name: 'GRUPO   GAYA  '
-  category: Alimentos
-  description: Soluciones prácticas gastronómicas y ambientales
-  phone: '41996511'
-  social_media: https://www.instagram.com/grupogaya/?hl=es-la
-  logo_link: https://drive.google.com/open?id=1tpG5UFNJPp4vYnjpGxmBU2hegTs5gmuj
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: recyYihXvYVTGng3S
   name: DISTRIBUIDORA MARTE

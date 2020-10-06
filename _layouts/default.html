@@ -18,14 +18,15 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     {% endif %}
     
-    <!-- {% if site.data.bird.name %}
-    <meta property="og:site_name" content="{{ site.data.bird.name }}" />
-    {% endif %} -->
-
     <meta property="og:locale" content="{{ locale | replace:'-','_' }}" />
 
+    <link rel="stylesheet" href="{{ 'vendor/css/bootstrap.min.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ 'vendor/css/font-awesome.min.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ 'vendor/css/lity.min.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/css/app.css' | relative_url }}" type="text/css">
     <link rel="shortcut icon" href="{{ '/assets/img/favicon.png' | relative_url }}">
+
+    {% include import_js.html %}
   </head>
 
 
@@ -33,6 +34,7 @@
     <div class="page-content">
       {{ content }}
     </div>
+    {% include footer.html %}
   </body>
 
 </html>

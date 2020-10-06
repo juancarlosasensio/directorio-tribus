@@ -2,17 +2,101 @@ html, body {
   font-size: 16px;
 }
 
-h1 {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 4rem;
+body {
+  background-color: var(--black);
+  color: var(--bg-white);
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1280px;
   padding: 0;
-  
   
   @media (max-width: 991px) {
     padding: 0 14px;
   }
 }
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 4rem;
+}
+
+a { 
+  color: var(--bg-white); 
+
+  &.styled-link {
+    color: var(--aqua);  
+    
+    &::after {
+      content: "\2192";
+      margin-left: 0.2rem;
+    }
+
+    &:hover, &:active, &:focus {
+      color: var(--aqua);
+      text-decoration: underline;
+    }
+  }
+
+  &:hover, &:active, &:focus {
+    color: var(--bg-white); 
+    text-decoration: underline; 
+    &:after { text-decoration: none; }
+  }
+}
+
+.absolute-link {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+  z-index: 5;
+}
+
+.bg-black {
+  background-color: var(--black) !important;
+}
+
+.white-letters {
+  color: white !important;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.logo {
+  max-height: 80px;
+
+  &.small { max-height: 60px; }
+
+  &.big { max-height: 120px; }
+}
+
+.sticky-top {
+  position: sticky;
+  top: 4rem;
+  min-height: calc(100vh - 4rem);
+  height: calc(100vh - 4rem);
+  overflow: auto;
+  overflow-x: hidden;
+  z-index: 1;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+ul.unstyled-list {
+  padding-inline-start: 0px;
+
+  li {
+    list-style-type: none;
+    margin-top: 0.8rem;
+  }
+}
+
+.w-100 { width: 100%; }
+.w-80 { width: 80%; }

@@ -9,7 +9,8 @@ require 'airtable'
                          "Descripción" => "description",
                          "Número de teléfono" => "phone", 
                          "Link de contacto directo (red social)" => "social_media", 
-                         "Logo de tu negocio en formato .PNG o .JPG" => "logo_link"}   
+                         "Logo de tu negocio en formato .PNG o .JPG" => "logo_link", 
+                        "Logo Attachment" => "logo_attachment"}   
 
 puts "#{@records.count} records pulled from Airtable."
 
