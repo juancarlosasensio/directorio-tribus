@@ -45,7 +45,7 @@ page_name: home
 </section>
 
 <!-- DELETE WHAT FOLLOWS -->
-<!-- 
+
 <p class="lead mb-0 pb-0">Categorías</p>
 <hr class="bg-white mt-2 mr-4">
 
@@ -62,7 +62,10 @@ page_name: home
     <h3>
       {{ business.name }}
     </h3>
-    <p class="white">
-    </p>
+    {% for entry in business.logo_attachment %}
+      <p class="white-letters">
+        <img src="{{ entry.url }}" alt="">
+      </p>
+    {% endfor %}
   </div>
-{% endfor %} -->
+{% endfor %}

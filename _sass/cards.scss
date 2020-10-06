@@ -14,10 +14,7 @@
   &.with-border-bottom { border-bottom: 1px solid var(--bg-white); }
   &:first-of-type { margin-top: 0px; } 
   &:last-of-type { border-bottom: none; }
-
-  &.hidden {
-      display: none;
-    }
+  &.hidden { display: none; }
 
   .img-wrapper {
     display: flex;
@@ -25,7 +22,7 @@
     justify-content: center;
     align-items: center;
     margin-right: 2rem;
-    max-width: 360px;
+    max-width: 340px;
 
     &.no-img {
       background-color: var(--light-grey);
@@ -78,7 +75,7 @@
   @media (max-width: 991px) {
     flex-direction: column;
 
-    .pb-img-wrapper {
+    .img-wrapper {
       margin: 0 0 1rem;
       max-width: 100%;
     }
