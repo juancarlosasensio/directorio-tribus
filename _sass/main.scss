@@ -1,9 +1,9 @@
 html, body {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body {
-  background-color: var(--black);
+  background-color: black;
   color: var(--bg-white);
 }
 
@@ -68,7 +68,7 @@ a {
 }
 
 .logo {
-  max-height: 80px;
+  max-height: 40px;
 
   &.small { max-height: 60px; }
 
@@ -95,6 +95,10 @@ ul.unstyled-list {
   li {
     list-style-type: none;
     margin-top: 0.8rem;
+
+    &.with-bottom-border {
+      border-bottom: 1px solid rgba(100, 100, 100, 0.4);
+    }
   }
 }
 

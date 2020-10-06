@@ -4,7 +4,7 @@ page_name: home
 ---
 
 {% include navbar.html %}
-<section class="pt-5"> 
+<!-- <section class="pt-5"> 
     <div class="container">
       <div class="row">
         <div class="col-lg-10">
@@ -18,33 +18,30 @@ page_name: home
       </div>
     </div>
   </div>
-</section>    
+</section>     -->
 
 {% assign all_categories = site.data.airtable | map: "category" | uniq | sort %}
-<section>
-  <div class="container">
+<section> 
     <div class="row">
-      <div class="col-lg-3 bg-green py-4" style="background-color: #05050F; opacity: 80%;">
+      <div class="col-lg-4 bg-green py-4 pl-5" style="background-color: #0B1A1F;">
         <div class="sticky-top">
-          <p class="lead mb-0 pb-0">Categorías</p>
-          <hr class="bg-white mt-2 mr-4">
+          <h2 class="mb-0 pb-0 pl-4">Directorio de Comercios Locales 🇬🇹</h2>
           
-          <ul class="unstyled-list mt-4">
-            <li class="bold cursor-pointer pl-1" data-filter-category="all">Ver todas</li>
+          <ul class="unstyled-list mt-4 pl-4">
+            <li class="bold cursor-pointer with-bottom-border pl-1 pb-2 pt-1" data-filter-category="all">Ver todos</li>
             {% for category in all_categories %}
-            <li class="cursor-pointer pl-1" data-filter-category="{{ category }}">{{ category }}</li>
+            <li class="cursor-pointer with-bottom-border pl-1 pb-2 pt-1" data-filter-category="{{ category }}">{{ category }}</li>
             {% endfor %}
           </ul>
         </div>
       </div>
-      <div class="col-lg-8 py-2">
+      <div class="col-lg-8">
         {% for business in site.data.airtable %}
           {% assign business = business['resource'] %}
           {% include business_card.html %}
         {% endfor %}
       </div>
-    </div>
-  </div>
+    </div> 
 </section>
 
 <!-- DELETE WHAT FOLLOWS -->
