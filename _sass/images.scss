@@ -1,5 +1,6 @@
 .img-wrapper {
   position: relative;
+  overflow: hidden;
   width: 100%;
 
   &::before {
@@ -18,6 +19,6 @@
     border: 0;
     object-fit: cover;
     object-position: center;
-    background: #f6f7f8;
+    background-repeat: no-repeat;
   }
 }

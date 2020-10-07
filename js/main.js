@@ -26,6 +26,5 @@ $(document).on("click", "[data-filter-category]", function () {
   } else {
     $(".business-card").addClass("hidden");
     $(`[data-category='${category}']`).removeClass("hidden");
-    $(`[data-category='${category}']`).first().addClass("mt-0");
   }
 })
