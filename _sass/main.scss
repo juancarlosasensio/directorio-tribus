@@ -12,13 +12,18 @@ body {
   padding: 0;
   
   @media (max-width: 991px) {
-    padding: 0 14px;
+    padding: 0 20px;
   }
 }
 
 h1 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 4rem;
+}
+
+.section-title {
+ font-size: 2.5rem;
+ font-weight: 500;
 }
 
 a { 
@@ -55,12 +60,8 @@ a {
   z-index: 5;
 }
 
-.bg-black {
-  background-color: var(--black) !important;
-}
-
 .white-letters {
-  color: white !important;
+  color: var(--bg-white) !important;
 }
 
 .bold {
@@ -76,13 +77,16 @@ a {
 }
 
 .sticky-top {
-  position: sticky;
-  top: 4rem;
-  min-height: calc(100vh - 4rem);
-  height: calc(100vh - 4rem);
-  overflow: auto;
-  overflow-x: hidden;
-  z-index: 1;
+
+  @media (min-width: 992px ) {
+    position: sticky;
+    top: 3rem;
+    min-height: calc(100vh - 3rem);
+    height: calc(100vh - 3rem);
+    overflow: auto;
+    overflow-x: hidden;
+    z-index: 1;
+  }
 }
 
 .cursor-pointer {
@@ -100,3 +104,10 @@ ul.unstyled-list {
 
 .w-100 { width: 100%; }
 .w-80 { width: 80%; }
+.h-100 { height: 100%; }
+
+.hide-on-mobile {
+  @media(max-width: 991px) {
+    display: none;
+  }
+}

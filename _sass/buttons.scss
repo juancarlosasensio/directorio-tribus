@@ -1,0 +1,32 @@
+.filter-button {
+  border-radius: 1px;
+  border: none;
+  font-size: 14px;
+  font-weight: 700;
+  background: var(--bg-white);
+  color: var(--black);
+  padding: 10px 12px;
+
+  &[data-filter-category*="Alimentos"] { background-color: var(--pink); }
+  &[data-filter-category*="Bancos"] { background-color: var(--aqua); color: var(--black); }
+  &[data-filter-category*="Cartelera Cultural"] { background-color: var(--yellow); color: var(--black); }
+  &[data-filter-category*="Clases online y Terapias"] { background-color: var(--dark-green); color: var(--white); }
+  &[data-filter-category*="Coctelería"] { background-color: var(--neon-green); color: var(--black); }
+  &[data-filter-category*="Coworking"] { background-color: var(--bright-pink); color: var(--black); }
+  &[data-filter-category*="Deportes y Ejercicio"] { background-color: var(--light-grey); color: var(--black); }
+  &[data-filter-category*="Electrodomésticos"] { background-color: var(--bg-white); color: var(--black); }
+  &[data-filter-category*="Estudios de Diseño y Creatividad"] { background-color: tomato; color: var(--black); }
+  &[data-filter-category*="Ferreterías"] { background-color: cornflowerblue; color: white; }
+  &[data-filter-category*="Inmobiliaria"] { background-color: purple; color: var(--bright-pink); }
+  &[data-filter-category*="Jardinería, Plantas y Semillas"] { background-color: var(--dark-green); color: var(--lemon-yellow); }
+  &[data-filter-category*="Librería e impresiones"] { background-color: var(--bg-white); color: var(--dark-pink); }
+  &[data-filter-category*="Lácteos y Derivados"] { background-color: tomato; color: var(--black); }
+  &[data-filter-category*="Mascotas"] { background-color: tomato; color: var(--black); }
+  &[data-filter-category*="Mensajería"] { background-color: var(--darker-green); color: var(--yellow); }
+  &[data-filter-category*="Movilidad (bicicletas, skate, patines electricos,etc.)"] { background-color: var(--aqua); color: var(--dark-green); }
+  &[data-filter-category*="Pan y Panadería"] { background-color: var(--neon-green); color: var(--black); }
+  &[data-filter-category*="Restaurantes, Cafeterías y Heladerías"] { background-color: tomato; color: var(--darker-green); }
+  &[data-filter-category*="Ropa, Joyería y Regalos"] { background-color: crimson; color: var(--yellow); }
+  &[data-filter-category*="Salud, Hospitales y Limpieza"] { background-color: var(--lemon-yellow); color: var(--black); }
+  &[data-filter-category*="Servicios online"] { background-color: var(--dark-green); color: var(--white); }
+}
