@@ -1,4 +1,4 @@
-<div class="business-card with-border-bottom" data-category="{{ business.category }}">
+<div class="business-card py-5 pr-3 with-border-bottom" data-category="{{ business.category }}">
   <div class="img-wrapper {% unless business.logo_attachment %} no-img {% endunless %}">
     {% if business.logo_attachment %}
       {% for entry in business.logo_attachment %}
@@ -21,16 +21,14 @@
       <div class="business-card--date light-grey">
         {{ business.description }}
       </div>
-      {% if business.description %}
       <div class="business-card--address white">
         {{ business.phone }}
       </div>
-      {% endif %}
     </div>
 
     <div class="business-card--content">
       {% if business.social_media %}
-      <a href="{{ business.social_media }}" class="styled-link">Ver negocio</a>
+      <a class="styled-link" href="{{ business.social_media }}" target="_blank">Ver negocio</a>
       {% endif %}
     </div>
   </div>

@@ -133,6 +133,26 @@
   phone: '45080365'
   social_media: https://www.facebook.com/alamesagt
   logo_link: https://drive.google.com/open?id=1wwSyZsSQNyADqLsHVa88xbDlG9B3X940
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attZ08AFKZNCVzPWD
+    url: https://dl.airtable.com/.attachments/3cd685760f81a2d5fa1f7b53dbae8cdd/37dd0a99/am-NohemiMarroquinHernandez.jpg
+    filename: am - Nohemí Marroquín Hernández.jpg
+    size: 70984
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/e79ab98f0cf275b2e27ca840e272e552/04b6d4d7
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/a130209a1b18b8c5b927978c4e2fb92c/3afcaa19
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/f25d5492bc2f060ac686389c5be1b9b4/0e39f5f9
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: guatepass@gmail.com
   id: rec4E0wWbzLvXT6GF
@@ -153,6 +173,26 @@
   phone: '35409188'
   social_media: https://www.instagram.com/distribuidoraposeidon/?hl=es-la
   logo_link: https://drive.google.com/open?id=16TUyh1K7fCBEGyyxUPut8Nb-YbIZlIlI
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attVgIv0rXYam5Gbq
+    url: https://dl.airtable.com/.attachments/14eff297cf76b21cbc4377c8a1d4fde2/91211ec9/dp-NohemiMarroquinHernandez.jpg
+    filename: dp - Nohemí Marroquín Hernández.jpg
+    size: 111579
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/74dbd1e7e8eb05592210444db88a52c3/e35a9f0d
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/0b8d48fa776c59827dbe5845ac5c876d/b34ef687
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/97334d77e850c153c73ddfbec7e32b8b/bd8f7979
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: inmobiliariaav7@gmail.com
   id: rec4ptfZFlVITsDS0
@@ -180,6 +220,26 @@
   phone: '22773666'
   social_media: https://www.interbanco.com.gt/
   logo_link: https://drive.google.com/open?id=1vs_QgiMpCGmyM8PoofWrrxT6xQ_2EfB0
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attSLQdlnseFobSdh
+    url: https://dl.airtable.com/.attachments/6cc0888889d1747bc0e7907bd8e3dd0b/5ef47aa2/interbanco-ReneGonzalez.png
+    filename: inter banco - René González.png
+    size: 6892
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/df6c2b7c1a9d52c6a668cdb5e1f8d5a3/9f8e0479
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/66d248c4212d253d36409e4a8fc809ef/d5b1e555
+        width: 291
+        height: 291
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/957305fee1d60f8e565f0e32b2abf1ea/17c8d253
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: sanromangt@gmail.com
   id: rec6RXCtDYMXucHYT
@@ -269,6 +329,26 @@
   phone: '5647389'
   social_media: http://www.alianzafrancesa.org.gt/
   logo_link: https://drive.google.com/open?id=1Zk6TUAIg_WslI-6DqM5quW_aJ__f97dk
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attKhCjksnwdTnUVf
+    url: https://dl.airtable.com/.attachments/824b810f7dd1a12b2ed84aa49f2341ab/a5fea46a/AF-NohemiMarroquinHernandez.png
+    filename: AF - Nohemí Marroquín Hernández.png
+    size: 21680
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/3f3b97d4a4e4bf20d7e2b55d8562f6ed/f16a222d
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/3f5c993137f95a6a8299e77f9330fb13/c74bb7b3
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/95cb26f6193fe07a2a566b3257f5b538/a7cc1531
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Persona encargada del negocio: Alejandro Reyes
   id: rec8SV7Pga2nBSQAt
@@ -306,6 +386,26 @@
   phone: '58902027'
   social_media: https://www.instagram.com/verdurasgt/?hl=es-la
   logo_link: https://drive.google.com/open?id=1T2PFQjiE20t76LDO95pwzFC_HQlBsdgG
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attUZUxI54LeulvhB
+    url: https://dl.airtable.com/.attachments/5238e715ea9ab11d8b20ef81633d3fcb/95d249c0/vg-NohemiMarroquinHernandez.png
+    filename: vg - Nohemí Marroquín Hernández.png
+    size: 34419
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/03bc986e93637b881f8b064315f1967f/3abd8d32
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/702e42984f2b6b4d37df688dbe637d6a/61a52256
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/6987225a5b069eceac18cd639bfeab0a/f711e49e
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: gerencia@grupocoralgt.com
   id: rec9Xzc8UtFFyxnvz
@@ -354,6 +454,26 @@
   phone: '30238044'
   social_media: https://www.facebook.com/SaravandahProducciones
   logo_link: https://drive.google.com/open?id=16OFfYydxm50s3_wZIt0oXjH7rblZVUWq
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attCfBOwg8KCnt2mb
+    url: https://dl.airtable.com/.attachments/8661889eda4c4aabd7558197c00cac1d/e43f7b79/saravandah-NohemiMarroquinHernandez.jpg
+    filename: saravandah - Nohemí Marroquín Hernández.jpg
+    size: 42244
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/9509cd89634957954946bdba2e56184c/9a67c27f
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/acd126816862918ffa8c14c7f185af1e/88e3a1ea
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/9d7b02b1cf8b7c265b291719c92a2a3a/3155a93a
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: ar.arrainmobiliaria@gmail.com
   id: recAyEebveSjFRPGH
@@ -437,9 +557,31 @@
   id: recD9BGrypCcvuQti
   name: Banco Azteca
   category: Bancos
+  description: Banco Azteca te ayuda a cumplir tus metas, ofreciéndote las mejores
+    opciones en créditos personales de forma rápida y confiable.
   phone: '22292222'
   social_media: https://www.bancoazteca.com.gt/
   logo_link: https://drive.google.com/open?id=1OxZHrGsYwFKM3qfNngX7RW9lg4WH9rxQ
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attCfUHdlxfuzIEoH
+    url: https://dl.airtable.com/.attachments/1925ac44324ffdbf1a5878b8613163b4/74d45491/AZTECAjpg-ReneGonzalez.png
+    filename: AZTECA,jpg - René González.png
+    size: 96791
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/1d4ab4dc130448999098ae0c279d79bc/7c567ede
+        width: 42
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/1575e78fbbf3e39ecef6874c3c7924fc/b8e56bf6
+        width: 591
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/cec96a103dc651ab4e5b002479216070/d08461e1
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: info@mandados.com.gt
   id: recDBVJUdIDPUdvrT
@@ -469,6 +611,26 @@
     somos un colectivo triste que contagia risas
   social_media: https://www.instagram.com/trestristestigresenjaulados/tagged/?hl=es
   logo_link: https://drive.google.com/open?id=1vpm4omolU_k0xuzwHYspbMRHftQ9dGg7
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: att3opaQfnOd33n0B
+    url: https://dl.airtable.com/.attachments/6fb0faea9f45d84cd89f0a050f4dff7d/0b16ab5f/TRESTRISTES-NohemiMarroquinHernandez.png
+    filename: TRES TRISTES - Nohemí Marroquín Hernández.png
+    size: 186124
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/920c5ac7b9bc3c3e1ae2792cfdf3c204/796cf6b2
+        width: 39
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/56b9a09bc5308f660fd34be65c430ae7/78eba410
+        width: 508
+        height: 464
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/34f6ea07780e03b9949064466a8ecc6c/bcce9771
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: 502pizzagt@gmail.com
   id: recDgrJSChpwmqNLU
@@ -516,6 +678,26 @@
   phone: '23667123'
   social_media: http://www.fundacionrozasbotran.org/
   logo_link: https://drive.google.com/open?id=1yF-wnK4jkAQ30o5godtg05HDZrQ9R2IR
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attB6e3WQu3ZSIsfS
+    url: https://dl.airtable.com/.attachments/1e1569c827fe22d1f03aff358acc8478/08492b50/ROZAS-NohemiMarroquinHernandez.jpg
+    filename: ROZAS - Nohemí Marroquín Hernández.jpg
+    size: 56930
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/a0d58280541807e331172cc01ce68b94/6dee06b2
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/0bf5432d882b9ac69d2cb183b71d24a0/041fbcfa
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/0ac172d0cc055b097f156370eec2cdd8/b7b664b2
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: ventas@goboxdelivery.com
   id: recEXcqciYkUBXJ0P
@@ -605,6 +787,26 @@
   phone: '54940266'
   social_media: https://www.facebook.com/virtudmilhongo/?ref=page_internal
   logo_link: https://drive.google.com/open?id=1ro9kfrGZCT-urrauTUXu4CmWdRzkfHaj
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attXJGiT3z39WlPl1
+    url: https://dl.airtable.com/.attachments/610d8bf23e6608c6da0d1a7edb090609/67cfa6d8/virtudm-NohemiMarroquinHernandez.jpg
+    filename: virtud m - Nohemí Marroquín Hernández.jpg
+    size: 67701
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/3681d7c10b8ebb9e6add60dc8fbdb5f5/b969b03d
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/911953b13dee793cb301e4a20a4e3aca/f6c04675
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/a459b111f84bbd582ba51b322c82b0a6/91b38df7
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: mauricio.fundacionpuedes@gmail.com
   id: recGrHzoCLBOV1BDu
@@ -632,6 +834,26 @@
   phone: '32906060'
   social_media: https://www.facebook.com/OneWizaMusic/
   logo_link: https://drive.google.com/open?id=1W7xYfQH9_r91yc9c4yHNRwsOsV9-8y5T
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attaNseUqwVXApvKZ
+    url: https://dl.airtable.com/.attachments/6d9c6dfb0a062a7a2cf18d9a590cfc50/c1986e86/the-NohemiMarroquinHernandez.jpg
+    filename: the - Nohemí Marroquín Hernández.jpg
+    size: 103197
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/fd02c471ac64a79932f98ba9c3091a7e/1b7bf024
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/d2f4a3730cbbbe103c4aae4222eaa4ab/739c2413
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/6b82f9e069c9b456838ab652578f6c0d/90d498bc
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: hola@heladosadela.com
   id: recHmKko6U6fFmK0G
@@ -703,6 +925,26 @@
   phone: '47694492'
   social_media: https://www.facebook.com/galeria77
   logo_link: https://drive.google.com/open?id=1iFbVFMCZ0PmNlnYKI_B1IsvZ4cNSkr7t
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attaIYlImfguHRuvK
+    url: https://dl.airtable.com/.attachments/85f205d5935f5f2d252ea580b92f54a0/a1bfb0c5/77-NohemiMarroquinHernandez.jpg
+    filename: 77 - Nohemí Marroquín Hernández.jpg
+    size: 75273
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/4c7013c4b75fc9b90dbcefe984938286/a0a46dc6
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/d3ca134b532a017b990489477d8424f2/a8188ace
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/5936083e23d096abf0c2f9afa0977676/755c461b
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: info@lamarketina.com
   id: recKp2009XkIZ4iF0
@@ -715,6 +957,26 @@
   phone: '57698558'
   social_media: https://www.facebook.com/LaMarketina
   logo_link: https://drive.google.com/open?id=18OqU4pTCGfdp_BYXaszBbMMfSi3Fy01a
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attwxae500CEe6vUA
+    url: https://dl.airtable.com/.attachments/e1b6e03232a35939a757f86d6a948c66/fe0c7dd4/lamarketina-NohemiMarroquinHernandez.jpg
+    filename: la marketina - Nohemí Marroquín Hernández.jpg
+    size: 60089
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/ecb39d5b8951704847dac6b2a766022b/a038e334
+        width: 37
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/7bd53981a48e7ae0eb67d3b46c8c2068/70e98871
+        width: 528
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/21741d527db5f7c230edd7b7e18a6d35/7d21f32c
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Persona encargada del negocio: Francisco Toralla
   id: recLWVDw4C2BuN1qp
@@ -726,6 +988,26 @@
   phone: '52523122'
   social_media: https://www.instagram.com/panchorizoguate/?hl=es
   logo_link: https://drive.google.com/open?id=1hVeqTOLA_yY_f1N9iagEVRvYLGPLx67A
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attPiKJgJuvWZQ5z3
+    url: https://dl.airtable.com/.attachments/ca4ccc5f2a11df488398453ed4bd4f64/6bac7411/panchorizo-NohemiMarroquinHernandez.jpg
+    filename: panchorizo - Nohemí Marroquín Hernández.jpg
+    size: 29119
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/5d7163c61f6c1b6ed09347e94ecb1135/32174ab7
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/27efaf97114f2cb3de331c63f99d56a7/5fb18260
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/7db6d566caeab533af1ab1f4ab1187f0/a65dd059
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: recLe0tMpIwHgsV4c
   name: DISTRIBUIDORA ALCAZAREN
@@ -801,6 +1083,26 @@
 
     http://bit.ly/PlanesaFreshOnline
   logo_link: https://drive.google.com/open?id=1N_zNvXwVHA6kRBtZY89hqqWNXGznpHWg
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: att9vEtabQ1bFB63c
+    url: https://dl.airtable.com/.attachments/58fe270698041cd1eb8550cde9e42c6b/9fdd6181/pf-NohemiMarroquinHernandez.jpg
+    filename: pf - Nohemí Marroquín Hernández.jpg
+    size: 25301
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/11499aca66dc7159087a94d0a362187b/7ef51608
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/57a839e065aafb5505236140b9f7c1c7/9fbc26de
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/d0b6a25df2e7021525ee7f5f43208109/9e487a00
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: sac@ferreteriaelglobo.com
   id: recNps1fiRPGJDRet
@@ -824,9 +1126,32 @@
   id: recOID7KVNeqgpNRT
   name: Banco de Antigua
   category: Bancos
+  description: Creemos en dar acceso a soluciones financieras, sencillas, oportunas
+    e innovadoras que hagan posibles los sueños de los microempresarios y de las familias
+    de Guatemala.
   phone: '24205555'
   social_media: https://bantigua.com.gt/
   logo_link: https://drive.google.com/open?id=1WRFla_OMl0jn6SnEHMuV_F23tARyYxWK
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attSHgGuBLguYVgiQ
+    url: https://dl.airtable.com/.attachments/8a161e2311d5d1e7a564e166f5f9b1b7/f2628654/BANCODEANTIGUA-ReneGonzalez.png
+    filename: BANCO DE ANTIGUA - René González.png
+    size: 3950
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/8c2877c8d8929bfa1626a5e57f4bc6bf/12fb36c7
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/b4800bb8baef3ae87cb64740c0d513e1/efb3be99
+        width: 225
+        height: 225
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/47bfea9502d675bcbbbbdedcce51389e/a9c47dbd
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: recOgkiumTYtqIJWn
   name: EPA
@@ -861,6 +1186,26 @@
 
     '
   logo_link: https://drive.google.com/open?id=1fqKPFsf0UoeuLrWAyAHaXwgwmeg4xFTw
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attMWsa3OjK8YiNFN
+    url: https://dl.airtable.com/.attachments/58fc04b25a83feb5f8f4d8a1ee60a947/66d183c3/SOLDELRIO-NohemiMarroquinHernandez.jpg
+    filename: SOL DEL RIO - Nohemí Marroquín Hernández.jpg
+    size: 17124
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/eb3f31070583bb0d41efbaf693df2667/683c215d
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/06b216377ed41d9fef3cba1a47f05c4c/01ee2619
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/9f6c9b6847ff9a309acbed4863854f3d/4326cac1
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: 'magazinepolyester@gmail.com
 
@@ -873,6 +1218,26 @@
     de la actualidad, sin atarse a la coyuntura.
   social_media: http://www.polyestermag.com/
   logo_link: https://drive.google.com/open?id=16FNBhJhZS1DPT2n7IuXtMU9Ckt-IYM_M
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attHWM1EkY5jROLuB
+    url: https://dl.airtable.com/.attachments/ddb51f8d21f4efc736365d0e347d32b8/c8a6d0df/POLYESTER-NohemiMarroquinHernandez1.png
+    filename: POLYESTER - Nohemí Marroquín Hernández (1).png
+    size: 68551
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/7424440f2fe47bcb5c2b549338e691ff/f7a58279
+        width: 37
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/01d08e735b59d0adf0ba4d923fe774dd/706348ff
+        width: 521
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/49b3a1191cc77103175223a427efa3ca/d4b323fb
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: castillouniformes@gmail.com
   id: recOuW92vzDEUnPCF
@@ -916,9 +1281,32 @@
   id: recPiFqL4luT9LQXB
   name: BANTRAB
   category: Bancos
+  description: Bantrab, Banco de Guatemala comprometido con los Trabajadores Guatemaltecos,
+    créditos, Tarjetas de c´redito, cuentas monetarias, ahorro, inversiones, plazo
+    fijo.
   phone: '23633423'
   social_media: https://www.bantrab.com.gt/
   logo_link: https://drive.google.com/open?id=1s5CkB2U7llPTkYb2o2MFfRPmcCSVsrja
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attkgICSnOJrXEPTF
+    url: https://dl.airtable.com/.attachments/cf35f9fe886464c914a471b88caff528/f2e3fcd9/bantrab-ReneGonzalez.png
+    filename: bantrab - René González.png
+    size: 18074
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/50143506020567f8497521a68fa9080f/af3fc78f
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/3b0e6168b07d7c83f0d15959cf9c534c/b56eb426
+        width: 512
+        height: 513
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/a820ea13e3f50fc14c180ffd3eb26617/b59acab0
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Persona encargada del negocio: Mathias Fahsen
   Email: booking@algofueradelonormal.com
@@ -982,6 +1370,26 @@
   phone: '23398888'
   social_media: https://www.banrural.com.gt/banruralc/
   logo_link: https://drive.google.com/open?id=1o2y3h7U2aw_293oZf3PxpUBv4Ke6UOuI
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attp0xgQrakjBU1YT
+    url: https://dl.airtable.com/.attachments/1b2c29b25e081f454c68bd61f1f97acf/fbd5c669/Fz_rBV61_400x400-ReneGonzalez.jpg
+    filename: Fz_rBV61_400x400 - René González.jpg
+    size: 13095
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/9f1feed97d3de3668fd6070b74bf8614/5de2c9ac
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/35a76583b0e4508dadb8b289a8d0165b/10be9ae6
+        width: 400
+        height: 400
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/b034fa734bae206fad02be534fb4fd1f/1005c637
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: informacion@tumercaditogt.com
   id: recSLrWHi2E1OoMss
@@ -994,6 +1402,26 @@
   phone: '57127641'
   social_media: https://www.facebook.com/tumercaditogt
   logo_link: https://drive.google.com/open?id=1d0OKfCbBBsFBcpEck_PfUJUUai1EICo6
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attCLg5RGfu7yXkFD
+    url: https://dl.airtable.com/.attachments/c873ae8406cf4c569969ec05486159a6/f7bea38c/mg-NohemiMarroquinHernandez.jpg
+    filename: mg - Nohemí Marroquín Hernández.jpg
+    size: 38512
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/60b2430885724650eaac0b40d7df92c1/cc47c82d
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/2b634f01dfbcd3b8ad132d4e7917afab/090384e1
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/18412af806fadfb63dcc4bdb8d31527d/43726b8a
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: recSYrNhWVJFpBsPI
   name: Queseso
@@ -1034,6 +1462,26 @@
     cine y no morir en el intento.
   social_media: https://www.facebook.com/elhubpodcast
   logo_link: https://drive.google.com/open?id=18zpEtRAaQ7XdHhJSG5Gkv5v8sgGQ6BLb
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attRuNvHLXf2IkRwU
+    url: https://dl.airtable.com/.attachments/4cd7958ee8f9ec559c38d8121078ceb0/b719d443/ehp-NohemiMarroquinHernandez1.jpg
+    filename: ehp - Nohemí Marroquín Hernández (1).jpg
+    size: 176862
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/955c25272bf9d5622b2566825cd7b145/fd4bdaa9
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/cb89c12a2fafcb11b59f47171565bb49/ac98d872
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/efce68507acb9b41997b89f01056653b/d621c0de
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: rhinoelectricbikes@gmail.com
   id: recTvX1n7mk9tqr0I
@@ -1114,6 +1562,26 @@
   phone: '22936899'
   social_media: https://www.facebook.com/elmercaditodelola
   logo_link: https://drive.google.com/open?id=1YEbLeU2n8-izsweh_cjrUPHO17N7314K
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attkbtefLHhPGprPG
+    url: https://dl.airtable.com/.attachments/0cfe53c72e8ba7fc4f226f6479143793/6e0bd18a/ml-NohemiMarroquinHernandez.jpg
+    filename: ml - Nohemí Marroquín Hernández.jpg
+    size: 99582
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/b7287899a0acae5486300fa263bfaeb8/21096ab2
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/789f4db6eb6b2191f7160d0a6d2fe9d2/c7d9268d
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/3625a96061a1a384a3ca3bdfe0883204/cc3f680e
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: recWen20AzZw29rJf
   name: Librería Platino
@@ -1132,6 +1600,26 @@
   phone: '37171753'
   social_media: https://primemeatimport.com/
   logo_link: https://drive.google.com/open?id=1H5MGac4OpgIX9fOavH5CNEurm0vprdJn
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attpbI6CB3PhR4pH5
+    url: https://dl.airtable.com/.attachments/772cd99227185160118b89f6cb17c2be/66ee0646/EP-NohemiMarroquinHernandez.jpg
+    filename: EP - Nohemí Marroquín Hernández.jpg
+    size: 80915
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/7087609a220abb5c64d89665fbf67483/4944e5ab
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/efdf548d862dbdd9c736b8fb4475cb46/db9eb0aa
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/29905c112375346645bb05b540054b02/f0eee932
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Persona encargada del negocio: Pablo Chinchilla
   Email: gerencia@grupogaya.com
@@ -1154,6 +1642,26 @@
   phone: '23610909'
   social_media: https://www.baccredomatic.com/es-gt
   logo_link: https://drive.google.com/open?id=10_AdZAjpLEjPmE3cycyHjipCQgpEkfpi
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: att2UySAdSteyzGsn
+    url: https://dl.airtable.com/.attachments/0c9639721193ce3f8b8e87c000006335/04e4df8a/BAC-ReneGonzalez.jpg
+    filename: BAC - René González.jpg
+    size: 18136
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/e935a98940f2cd458b535b7f88f68fbb/4bba34e2
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/7217a3faba8e5bea5be86f02f1e05df5/05f56b17
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/361919dd8d6225893c7a2984bed31699/514f601a
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: |2
 
@@ -1186,6 +1694,26 @@
   phone: '56911907'
   social_media: https://www.facebook.com/larebeldecoleccion
   logo_link: https://drive.google.com/open?id=1P_nKauxA-pH55VU903gVZ7ueNcUQondG
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attwTLZN3A2yN3bMh
+    url: https://dl.airtable.com/.attachments/9b883275880f312e1997b76cc3457b5c/4125e748/rebelde-NohemiMarroquinHernandez1.png
+    filename: rebelde - Nohemí Marroquín Hernández (1).png
+    size: 10882
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/167d24f06335d3bf8a701475c4c8cfab/a564b765
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/5980773186677165a776e2ee81c0a298/17ab1d15
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/abf6fbb493992abf0013da08a237f1d8/df1e3614
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: consultas@grupoalza.com
   id: recYUtv9BYUENHf7j
@@ -1195,6 +1723,26 @@
   phone: '66289000'
   social_media: https://www.facebook.com/AlimentosSasson
   logo_link: https://drive.google.com/open?id=1MId_zvUsGCIEg5Div05iNPTAokmLNyXP
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: att1RC0nniiouaEsb
+    url: https://dl.airtable.com/.attachments/78071beb69c5856d0a79ab02f35e590d/a3254b1a/Sasson-NohemiMarroquinHernandez.png
+    filename: Sassón - Nohemí Marroquín Hernández.png
+    size: 249673
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/d8799f0467ff2d17c888f29a07ac3449/a57e3d02
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/28871c2e60f27395dc1fa9eca79643a3/2c0ad9a0
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/81260544bf8fb0e00d52f42f7152d277/a5deccb0
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: recYWQYDwfXQ417Rt
   name: Top Bikes de Vecesa
@@ -1247,6 +1795,26 @@
   phone: '54199993'
   social_media: https://www.facebook.com/caoba.farms
   logo_link: https://drive.google.com/open?id=13bNzyT62lMgVIP8zWHexLe25KmHGKhFX
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attTCOAhTuZqyku15
+    url: https://dl.airtable.com/.attachments/40b6c536feba14766a4f6de63a353c20/edaa153b/cf-NohemiMarroquinHernandez.jpg
+    filename: cf - Nohemí Marroquín Hernández.jpg
+    size: 45937
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/458708cc1b41cc02b4bc3b9bd98de17b/4c9839ff
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/6326faef484e8eb93a15b5050607f756/66a679b5
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/2202c511c6d1083d656880df23516c3c/be08ff69
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: elattico@gmail.com
   id: recaPtEJYbXql8uC6
@@ -1256,6 +1824,26 @@
   phone: '23680853'
   social_media: http://www.galeriaelattico.com/
   logo_link: https://drive.google.com/open?id=17jFK8tLOKOCjt7o4Pxz0l53iQVw1v_or
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attJtK1wb5AmVa3qZ
+    url: https://dl.airtable.com/.attachments/3daca236d7c8515e7badc71e9416a301/6f1236a9/attico-NohemiMarroquinHernandez.jpg
+    filename: attico - Nohemí Marroquín Hernández.jpg
+    size: 12745
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/cd269b54f77ca650f9a69c08956f566c/4ba6c0cc
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/0cecdece00ef86637002dff91404c8b8/a0469697
+        width: 460
+        height: 460
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/022e06931e90901739aff53e3fe22712/5d8c8e0d
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: |2-
 
@@ -1280,6 +1868,26 @@
   phone: '56986598'
   social_media: https://www.facebook.com/achillesguatemala
   logo_link: https://drive.google.com/open?id=17cpOY7x2R2j_nRwe-fGoXMMVyBl6vgwS
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attkotRgQKoHegLJX
+    url: https://dl.airtable.com/.attachments/71eee5a1a1353f34fa9b171a136e7054/282a5825/achilles-NohemiMarroquinHernandez.jpg
+    filename: achilles - Nohemí Marroquín Hernández.jpg
+    size: 53666
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/ef0ee47f8c8d013f412a9d47fa6c0857/74671662
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/c82a09e960bbba19976c147b4008770f/a4133535
+        width: 512
+        height: 513
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/49083b9aabc42f3cdc4bf40bcbf06f61/32b52dda
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: reccb7VvCtm8X2Fn8
   name: Boulevard 37
@@ -1298,6 +1906,26 @@
   phone: '23772200'
   social_media: http://www.cceguatemala.org/
   logo_link: https://drive.google.com/open?id=1G27u7U2Ir_jtueBgpQcb_G347LPYhgUb
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: atte2quJTPfHJPeOs
+    url: https://dl.airtable.com/.attachments/eeff75c640be6a17c1d74f81f38c860c/1730a3fd/cce-NohemiMarroquinHernandez.jpg
+    filename: cce - Nohemí Marroquín Hernández.jpg
+    size: 6087
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/ffeb15b7657473d0dc57962ef70d9fb9/d5a77901
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/a9aa819e1c3e2ff641f05010c8d0215c/599e0291
+        width: 315
+        height: 315
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/b0781fd7c6866f345bccf95a2d7d298c/beaae981
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: recdGA7H8k3lT2SjA
   name: Cerveza El Zapote
@@ -1337,6 +1965,26 @@
     CINE EMERGENTE después del COVID-19
   social_media: https://www.facebook.com/Emergt-114716120258844
   logo_link: https://drive.google.com/open?id=1ZC8Xbhq9ZMbcru7ThL5w5zyPMI1ESXn9
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attu8d9hmRE0vSnyL
+    url: https://dl.airtable.com/.attachments/dc07009f6c3faef82cae07f7eb0577f4/36b01d97/EMERGT-NohemiMarroquinHernandez.jpg
+    filename: EMERGT - Nohemí Marroquín Hernández.jpg
+    size: 225700
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/d52a49c874f8640592ce6ec82629ae73/3f275ff1
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/41cc221e2f8f72f9b634a6f9abcda4d2/81016d6d
+        width: 514
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/cbc736aa9b8939c8681c88280d137e3e/757c0b45
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: info@petfood.gt
   id: recdyL2L7RuAS0HQe
@@ -1356,6 +2004,26 @@
   phone: '31015432'
   social_media: https://www.instagram.com/nuestracocina.gt/?hl=es-la
   logo_link: https://drive.google.com/open?id=1xI-V7bRkbN7H6mavXefCRV-gv6lT_uCi
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attHmFMOIAajl4YCR
+    url: https://dl.airtable.com/.attachments/76ca3228209b913689db614f03284b6d/f4a10d3f/nc-NohemiMarroquinHernandez.jpg
+    filename: nc - Nohemí Marroquín Hernández.jpg
+    size: 40349
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/c88c0b530a9cc25a8cc607ccf5422534/c4c54d4d
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/c14bb2a35acc21ccec4b42c929b439ef/868fbf7c
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/05f804964259f5b2724180bb86fa0394/400cecc7
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: 'info@quetzalbrewingcompany.com
 
@@ -1413,6 +2081,26 @@
   phone: '51916051'
   social_media: https://www.facebook.com/freshseedsexpress
   logo_link: https://drive.google.com/open?id=1iqRqUY6WDnF4ZX-3E32qhjyCvEMXkKt5
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attDbMBtuyZOAkH5e
+    url: https://dl.airtable.com/.attachments/4f3acca5878f941aa7387958b3197b77/09b366cb/fse-NohemiMarroquinHernandez.jpg
+    filename: fse - Nohemí Marroquín Hernández.jpg
+    size: 61791
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/d3953b1687d015cdb5bde7fa17573a95/6bd9fba1
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/0e9170555ddcee7c146f613da7af0f5c/b1cb6f69
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/6543cdf8b7e10362dc5e6f48ed270ff9/f4999d59
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: recgtqFUtqSuQNJdG
   name: 'Miettes '
@@ -1443,6 +2131,26 @@
   phone: '123'
   social_media: https://www.instagram.com/eckelskitchen/?hl=es-la
   logo_link: https://drive.google.com/open?id=1leTLEDILPL6-ueqACPbGMz5FWCRPAqk_
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attxxdeDoUjCNKD91
+    url: https://dl.airtable.com/.attachments/e3ca165b75784a2bb1aaeb0841b6b78f/061724a1/ec-NohemiMarroquinHernandez.png
+    filename: ec - Nohemí Marroquín Hernández.png
+    size: 367056
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/222df321c2cf0cca65d31e7a11229767/fcfedf41
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/9c5a6e7f60b1dcda01ab78fad9eb7bfb/8cbd4255
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/5c8a2ac29066be4f79c6d714a6a8f2fc/6f7e17ba
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: tndp@iristextiles.com
   id: rechlrDDlNLEwIv6o
@@ -1462,6 +2170,26 @@
   phone: '48590390'
   social_media: https://www.instagram.com/proyectoapartamento302/
   logo_link: https://drive.google.com/open?id=1Gyzi1_sAM-jE7NSEBs_U9UDtWMU4271G
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: atteg7upcLe749LjN
+    url: https://dl.airtable.com/.attachments/e605154ee25a023e92ec5aa5f1e3320b/5d57193c/APARTAMENTO-NohemiMarroquinHernandez.jpg
+    filename: APARTAMENTO - Nohemí Marroquín Hernández.jpg
+    size: 14737
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/a4a1f8b0c8cc5724216a0ead2da28b31/7be79325
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/589c5aadfc020b0e5d895fdeaf42d2a0/73f905d9
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/7a619992ba9f0168f45aa76d4608bc78/53eb5864
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: 'info@3dsign-arquitectura.com
 
@@ -1479,6 +2207,26 @@
   description: Serenatas de balcón o jardín
   social_media: https://www.instagram.com/raysa.morales/
   logo_link: https://drive.google.com/open?id=1kmXkKBI5Wn-aclFLfxAd2EEeenIMTe-x
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attuMP4YV3WswhsVF
+    url: https://dl.airtable.com/.attachments/2c20c2993b1ae8a317d4f0a2e7f8609d/dfdfd522/RAYSA-NohemiMarroquinHernandez.jpg
+    filename: RAYSA - Nohemí Marroquín Hernández.jpg
+    size: 20652
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/3b9dfcee9b8ef37ada683f8ca60b6a91/cd98dfb6
+        width: 31
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/3ab5cdd5d92970316086fc6675ab1852/56261bf9
+        width: 512
+        height: 588
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/9848b1eef0af2cbfa543c2681429cff7/ca70222a
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: reciTxoYoviktau9D
   name: Partisano Coctelería
@@ -1492,9 +2240,32 @@
   id: recilKDhfQaXet18l
   name: Banco Industrial
   category: Bancos
+  description: Banco Industrial, banco de la organización financiera más importante
+    de Guatemala. Producto personal, empresarial y banca electrónica. Siempre de tu
+    lado.
   phone: '24116000'
   social_media: https://www.corporacionbi.com/gt/bancoindustrial/inicio
   logo_link: https://drive.google.com/open?id=16B9hdg1nFulMG9-SmY_PmOo7fTJ5o75t
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attabLXxW9Xg5IWm2
+    url: https://dl.airtable.com/.attachments/777616ad6a60a1449c2dc1a6829c1b73/2c831ab3/unnamed-ReneGonzalez.png
+    filename: unnamed - René González.png
+    size: 30389
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/33deaca33f468f2dc30380b7a44f421b/5147c68d
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/6ea9f0f9c32eecba8b42a11ee6853ac4/2c5cb6ed
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/c1f3d52391785732ffb54ed90154300a/a55ecff3
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: restauranteeladobe@gmail.com
   id: recj8J1XkmrbD0Pft
@@ -1525,6 +2296,26 @@
   phone: '22850207'
   social_media: https://www.facebook.com/astoriadelicatessen
   logo_link: https://drive.google.com/open?id=11MdoefJoXT0N21q3uoAqTVrv1rx3wHkj
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attMQUOmWgQoUlwGP
+    url: https://dl.airtable.com/.attachments/4b49479264ca620d1c47feda4427af63/b66d4080/astoria-NohemiMarroquinHernandez.png
+    filename: astoria - Nohemí Marroquín Hernández.png
+    size: 26439
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/f41d8fde9d7d80a252f4d8539cb1cae7/30893169
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/32d52d2d98906f7d86bf6c256a58107a/323c6857
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/996ef1ba02b502256df5aef7abeea4cc/59ce6e6f
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: jorgexarriola@gmail.com
   id: reckK3NW5XzAVVLSr
@@ -1549,6 +2340,26 @@
   phone: '56341453'
   social_media: https://www.facebook.com/santalucia.alimentosgt
   logo_link: https://drive.google.com/open?id=1bJxTqjO_84SWKdRuAiqrE_MuJGd9Fa-2
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: att1FMO41ZFGGV9Nz
+    url: https://dl.airtable.com/.attachments/de2eb19fa5bb5da5b8d9326c36d8c93f/7b6a0fc8/SL-NohemiMarroquinHernandez.jpg
+    filename: SL - Nohemí Marroquín Hernández.jpg
+    size: 113899
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/6f3fef2f9faac4d91ac0bc3f507c7d2f/77b6b9d6
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/a35eabe798294c7bc946a07114ecc7b7/5ad67789
+        width: 519
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/63311122aceb7025e5dd64757d44b9f7/2664ccdb
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Persona encargada del negocio: Juan Ma Perez
   Email: jm.kodama@gmail.com
@@ -1562,6 +2373,26 @@
   phone: '57876194'
   social_media: https://www.instagram.com/tikonel_farms/?hl=es-la
   logo_link: https://drive.google.com/open?id=16RedkkDePcYo4LkdOOx3ZTlHqod3_P4b
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: att2wVauuz7nNyq3t
+    url: https://dl.airtable.com/.attachments/930d1c53f2ed6dc904cf6abd6b066319/a58666f0/logo-NohemiMarroquinHernandez.jpg
+    filename: logo - Nohemí Marroquín Hernández.jpg
+    size: 2965012
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/969e33b5a63484de48c0dafbf87f9f38/b10e82f8
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/49051caa46a4de1aee26b9e7aa92f5de/1f07ce6b
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/7c9ec547b111b16e3245e19d60db7c5a/28b84f39
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: reckNoNye51xooNJr
   name: RON BOTRÁN AÑEJO
@@ -1622,6 +2453,26 @@
   phone: '23112311'
   social_media: http://www.parma.gt/
   logo_link: https://drive.google.com/open?id=1ppaNb6rWQw3Q2nYEaiWZCa2QFre5b4W7
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attC29rbPG36hBqHw
+    url: https://dl.airtable.com/.attachments/8aee0252b9aae166e7a064f2259ff1aa/ea445f59/Parma-NohemiMarroquinHernandez.jpg
+    filename: Parma - Nohemí Marroquín Hernández.jpg
+    size: 15674
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/9b67c049bbc22d790b27a92770660df7/7eaa8648
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/f4192d305ba9599553046d38e4509e6d/3126f57a
+        width: 500
+        height: 500
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/48cc5cfa42528f3acb26bc11ba338b4c/6496e4ae
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: elsiglojp@gmail.com
   Lugares que cubre tu delivery: Ciudad de Guatemala
@@ -1680,6 +2531,26 @@
   phone: '57270431'
   social_media: https://www.instagram.com/santopescadogt/?hl=es-la
   logo_link: https://drive.google.com/open?id=1UIvNNSDOO5QRUpdXW4TzzVD3nk89nDHj
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attjO4IeqzF7avwOP
+    url: https://dl.airtable.com/.attachments/1fb76760a1f5d1cc3cb41bd189fea52f/21682c69/StoPescado-NohemiMarroquinHernandez.jpg
+    filename: Sto Pescado - Nohemí Marroquín Hernández.jpg
+    size: 167902
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/08376a0b97bd51197db67d1181647b0e/7824f135
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/c575b21e5e2346d4bfdfde4417e6c6a3/a0fc2b80
+        width: 515
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/004e6a33b476c831a93b9693dcb7ae79/51ead91c
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: 'info@institutonaturista.com.gt
 
@@ -1701,6 +2572,26 @@
   description: Dj set en vivo todos los miércoles.
   social_media: www.soundcloud.com/basico3
   logo_link: https://drive.google.com/open?id=1V1I9vWpu_uUnKcRZsIgGQFUiCzvG3qEG
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attpGcy1B3iPgJXaF
+    url: https://dl.airtable.com/.attachments/9999f761f2940d72018c857055a3bb33/f499010b/BASICO3-NohemiMarroquinHernandez.jpg
+    filename: BASICO3 - Nohemí Marroquín Hernández.jpg
+    size: 68457
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/e831583f4bca5c23a6553c49e4d815ac/1fff5e82
+        width: 48
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/c72362ef8294e3ee116f32c1b64936c3/063bfe6f
+        width: 683
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/ae7390daa230d446f52070f2f36da8fc/80cab256
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: hello@alessa.jewelry
   id: reco3sC7WgfQj5NiK
@@ -1807,6 +2698,26 @@
   phone: '23341241'
   social_media: https://www.facebook.com/trovajazz.trovajazz
   logo_link: https://drive.google.com/open?id=1cihq1bYQCeyVUvIBAVYFeVSJXwqBuOZq
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attnPT5ErsSwkj3vP
+    url: https://dl.airtable.com/.attachments/61b175b333715f957798836ba27aeb62/084ffeb5/TrovaJazz-NohemiMarroquinHernandez.jpg
+    filename: Trova Jazz - Nohemí Marroquín Hernández.jpg
+    size: 10429
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/182e839e666b759dd8269e83754dccb4/7bc21fbe
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/d24ccdb009274c8ab431706319a23b6a/b3ce4c1b
+        width: 379
+        height: 379
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/97f7c367d7b9989d535bd5bb5ecdd8c6/e5c34db6
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: info@cerveceriapantera.com
   id: recqjsXfH97N9bjer
@@ -1824,6 +2735,26 @@
   phone: '50163880'
   social_media: https://www.facebook.com/DTodito-102188184842052
   logo_link: https://drive.google.com/open?id=1idlG01y65ual9Xt5me_59I6xJeeyrdz5
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: att08yYwMJVIpselZ
+    url: https://dl.airtable.com/.attachments/9a88c1f495c162c322b10d3f3af741e4/6283441f/dtodito-NohemiMarroquinHernandez.jpg
+    filename: d´todito - Nohemí Marroquín Hernández.jpg
+    size: 52429
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/d1ff67a10e8bf04d10ca40fc0c53c66e/d1aa2f73
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/f8cab89b3d4731d6477bde15d17c5f2d/6c0e43b3
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/a6b77de6a50efb7dba126a8ac67266b6/8da4db69
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: healthinfo@herrerallerandi.com
   id: recs9y7kBleZLz4qD
@@ -1842,6 +2773,26 @@
     de primera calidad! Ideal para acompañar tus platos favoritos
   social_media: https://www.instagram.com/gopesto.gt/
   logo_link: https://drive.google.com/open?id=1qApl_U-mIRJBc6hMSgv-hIX59RxunJj1
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attpM5gLqDTPNGAK6
+    url: https://dl.airtable.com/.attachments/1703a8973c1f9c57e76b938ab9c25ff6/66600fc6/WhatsAppImage2020-08-26at1_12_10PM-NohemiMarroquinHernandez.jpeg
+    filename: WhatsApp Image 2020-08-26 at 1_12_10 PM - Nohemí Marroquín Hernández.jpeg
+    size: 36355
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/e7d8bd375f6f8e387dda99762814c48d/9042f6c6
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/6a95bf01d0ff0b65a6512e5fa472def3/f72cc4c7
+        width: 451
+        height: 445
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/9a1b9a74c0baa56a265a87b41fe6167a/84338c71
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   id: recsJ2sVhiaERODki
   name: Distribuidora Ola Azul
@@ -1863,9 +2814,33 @@
   id: recsWuSzh71AS08af
   name: Banco GyT Continental
   category: Bancos
+  description: Por su solidez y trayectoria de más 60 años en el mercado, Grupo Financiero
+    G&T Continental reafirma su posición vanguardista y su liderazgo en el país. Actualmente,
+    es reconocido por abrir brecha en la creación de productos y servicios innovadores,
+    así como en profundizar y dar respuesta a las necesidades de su cliente.
   phone: '23386801'
   social_media: https://www.gtc.com.gt/
   logo_link: https://drive.google.com/open?id=1vbkGErX8aan3E4A14ZdhTcK-pee8ej4p
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attigdJVpIRll4CJr
+    url: https://dl.airtable.com/.attachments/a25b2cd52dd0928f88f254b053e3a2c4/8be84407/GYT-ReneGonzalez.png
+    filename: GYT - René González.png
+    size: 19355
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/f1f9722185ebeae51214b221167e6d93/b9e37555
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/df9fa22f7d2c96fcef58b36f8292607f/9eee416c
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/79ea806f9f209f91559b8c15825eef6e/c34c7bfc
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: 'info@sur.gt
 
@@ -1891,6 +2866,26 @@
   phone: '78328773'
   social_media: https://www.facebook.com/FUNBAGUATEMALA
   logo_link: https://drive.google.com/open?id=1o-M1eocj-S6kKkeFZc0vD-7QaTHLM9nj
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attVhzGEla7yvDk67
+    url: https://dl.airtable.com/.attachments/b0e1fe66f01ab91a87c26df8998f4af6/c2a24f6d/FUNBA-NohemiMarroquinHernandez.png
+    filename: FUNBA - Nohemí Marroquín Hernández.png
+    size: 11297
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/fac78551c254e7b4842d00e1e830234b/9d3732cd
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/432a818e0dc63177d97b4d32c3e93670/9808c686
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/823d2a7b83b7c2b8dd975a605e63a53f/ccca3f57
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: info@osgalleryla.com
   id: rectPYQ7MRX3QDx3r
@@ -1900,6 +2895,26 @@
   phone: '3109934019'
   social_media: https://www.facebook.com/OSgalleryLA
   logo_link: https://drive.google.com/open?id=1o7O8ls7IYEieXzpUI2niHZGXcxQc0-pF
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attY4aVnwAdhFZdSK
+    url: https://dl.airtable.com/.attachments/7bb50dcd1c0a2230d2ce2684963e2998/cc3fe29a/os-NohemiMarroquinHernandez.jpg
+    filename: os - Nohemí Marroquín Hernández.jpg
+    size: 69185
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/fbdc2777b2343aa0d29e7c25d2f017ef/4aa71079
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/7335678e62e140feef7ab99e0d8ab205/c7d845f5
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/707bff065a2fc59bafff2ed82c65ecf0/c8b8c902
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: info@tec.gt
   id: rectpsWRuMRfVNGqm
@@ -1953,9 +2968,31 @@
   id: recvDA5WFgU0jgkhK
   name: Banco Promerica
   category: Bancos
+  description: En Grupo Promerica creemos que todas las personas y empresas de nuestras
+    comunidades deberían superar sus límites para alcanzar el éxito que se merecen.
   phone: '24139400'
   social_media: https://www.bancopromerica.com.gt/
   logo_link: https://drive.google.com/open?id=1bkyq0X1d6PkmQc7uGQFAHT-QUDmpZkFM
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attbPzn3zwq6kRbfV
+    url: https://dl.airtable.com/.attachments/88869f07e9061536c8ea268773324594/699cfc31/PROMERICA-ReneGonzalez.png
+    filename: PROMERICA - René González.png
+    size: 14379
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/96727edb34c4c9e7fc05ef9008b26c40/6d55e40c
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/616a2fbd73200ea9ec8ccc87853dd6ff/fc5f0120
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/7061a96f61de0c6b3bebdd28e90e110d/984f5620
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: rojocerezocoffee@gmail.com
   id: recvR7MldcqaIXQE0
@@ -1969,9 +3006,33 @@
   id: recvWwyEHroOAZN0Y
   name: BAM
   category: Bancos
+  description: En BAM nos enfocamos en proporcionar soluciones que permitan un mundo
+    más armonioso, más funcional; más sencillo. Somos una organización comprometida
+    con la eficiencia en el servicio a través de un proceso permanente de mejora e
+    innovación. Creamos valor facilitando la vida a los demás.
   phone: '23386565'
   social_media: https://www.bam.com.gt/
   logo_link: https://drive.google.com/open?id=1ycblIt21Bft7bHYyvEu14xM8aTWujg9l
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: attBcGvMeJj22CZh7
+    url: https://dl.airtable.com/.attachments/5460a92b121826a27ed1150d8fa6092b/756c71fe/BAMEMPLEOS-ReneGonzalez.png
+    filename: BAM EMPLEOS - René González.png
+    size: 4157
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/5e6a52c171176f5de85bf1852d64463b/976929b2
+        width: 77
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/c47b3a370e80648d600413a07db351c1/50345220
+        width: 750
+        height: 350
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/5505ecfa5da59855b122091b9a58d171/80dd1476
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: 'sobreruedas@gmx.com
 
@@ -1985,6 +3046,26 @@
   phone: '52326689'
   social_media: https://www.facebook.com/Sobre-Ruedas-2299970936942262
   logo_link: https://drive.google.com/open?id=1WvHHRez_zDYZOEaIvoxGscBFO4vC7MPE
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: att2Qiv1iByICu1nR
+    url: https://dl.airtable.com/.attachments/51b09969908c3840e212c8152257f7ba/ddc00ba5/sr-NohemiMarroquinHernandez.png
+    filename: sr - Nohemí Marroquín Hernández.png
+    size: 71721
+    type: image/png
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/60e88124945db5e28f68d2b7390cf457/a7dba8a1
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/daf57f578040d8b3daff09a4b48c2a6e/39a3e9d5
+        width: 499
+        height: 499
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/dba441e4d0ef29564f783956e5c77668/04d34def
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: "."
   id: recw8jsulC5ska3nf
@@ -2025,6 +3106,26 @@
   phone: '22966876'
   social_media: http://www.revstudioguatemala.com/
   logo_link: https://drive.google.com/open?id=1ZIWOPPf-wN4_kP0ICes46I1c6dE4kznC
+  logo_attachment:
+  - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    id: atttsKSsi93ogGvuh
+    url: https://dl.airtable.com/.attachments/2b5d2aeb6ffd0d57af54cf1661242fe6/22ef9711/REV-NohemiMarroquinHernandez.jpg
+    filename: REV - Nohemí Marroquín Hernández.jpg
+    size: 156339
+    type: image/jpeg
+    thumbnails: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+      small: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/75bba0cf4f2e6db419dbaf2c89599bbb/5543e332
+        width: 36
+        height: 36
+      large: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/8450f4270bfe028dcb9a177a2852d110/ce5ae2da
+        width: 512
+        height: 512
+      full: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+        url: https://dl.airtable.com/.attachmentThumbnails/d32025419c8a22c25bd78bd3286cea06/9cad3b2d
+        width: 3000
+        height: 3000
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   Email: info@favri.co
   id: recxr05m10Vw36zih

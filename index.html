@@ -37,7 +37,7 @@ page_name: home
           </ul>
         </div>
       </div>
-      <div class="col-lg-8 py-2">
+      <div class="col-lg-8 pl-4">
         {% for business in site.data.airtable %}
           {% assign business = business['resource'] %}
           {% include business_card.html %}
