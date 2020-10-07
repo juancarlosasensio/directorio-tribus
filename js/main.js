@@ -17,12 +17,11 @@ $(document).on("click", ".sidebar-toggler, .sidebar-overlay", function () {
 $(document).on("click", "[data-filter-category]", function () {
   category = $(this).data("filter-category")
 
-  $("[data-filter-category]").removeClass("bold");
-  $(this).addClass("bold");
+  $("[data-filter-category]").removeClass("active");
+  $(this).addClass("active");
 
   if (category == "all") {
     $(".business-card").removeClass("hidden");
-    $(".business-card").first().addClass("mt-0")
   } else {
     $(".business-card").addClass("hidden");
     $(`[data-category='${category}']`).removeClass("hidden");
