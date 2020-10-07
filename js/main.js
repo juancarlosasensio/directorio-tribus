@@ -17,8 +17,8 @@ $(document).on("click", ".sidebar-toggler, .sidebar-overlay", function () {
 $(document).on("click", "[data-filter-category]", function () {
   category = $(this).data("filter-category")
 
-  $("[data-filter-category]").removeClass("bold");
-  $(this).addClass("bold");
+  $("[data-filter-category]").removeClass("active");
+  $(this).addClass("active");
 
   if (category == "all") {
     $(".business-card").removeClass("hidden");

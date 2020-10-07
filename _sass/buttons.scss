@@ -2,10 +2,17 @@
   border-radius: 1px;
   border: none;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 600;
   background: var(--bg-white);
   color: var(--black);
   padding: 10px 12px;
+
+  &:hover, &:focus { opacity: 0.85; }
+  
+  &.active { 
+    font-size: 1.1rem;
+    border: 1px dotted var(--black);
+  }
 
   &[data-filter-category*="Alimentos"] { background-color: var(--pink); }
   &[data-filter-category*="Bancos"] { background-color: var(--aqua); color: var(--black); }

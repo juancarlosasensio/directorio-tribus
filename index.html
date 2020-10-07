@@ -6,13 +6,13 @@ page_name: home
 {% include navbar.html %}
 
 {% assign all_categories = site.data.airtable | map: "category" | uniq | sort %}
-<section class="py-4 mb-4">
+<section class="py-4 mt-3 mb-4">
   <div class="container">
     <div class="row">
       <div class="col-lg-4 pl-4">
-        <div class="sticky-top">
+        <div class="sticky-top pb-4">
           <h1 class="section-title mb-3">Directorio de Comercios Locales 🇬🇹 </h1>
-          <div class="filter-button d-inline-block bold cursor-pointer mb-2" data-filter-category="all">Ver todas</div>
+          <div class="filter-button active d-inline-block bold cursor-pointer mb-2" data-filter-category="all">Ver todas</div>
           {% for category in all_categories %}
             <div class="filter-button d-inline-block cursor-pointer mb-2" data-filter-category="{{ category }}">{{ category }}</div>
           {% endfor %}
