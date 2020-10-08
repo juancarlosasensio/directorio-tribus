@@ -2,6 +2,8 @@ $(document).ready(function () {
   var scroll = new SmoothScroll('[data-scroll]', {});
 
   new WOW().init();
+  
+  $('[data-toggle="tooltip"]').tooltip()
 });
 
 $(document).on("click", ".sidebar-toggler, .sidebar-overlay", function () {
