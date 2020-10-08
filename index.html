@@ -3,18 +3,21 @@ layout: default
 page_name: home
 ---
 
-{% include navbar.html %}
-
 {% assign all_categories = site.data.airtable | map: "category" | uniq | sort %}
+{% include navbar.html %}
 <section class="py-4 mt-3 mb-4">
   <div class="container">
     <div class="row">
       <div class="col-lg-4 pl-4">
-        <div class="sticky-top pb-4">
+        <div class="sticky-top hide-on-mobile pb-4">
           <h1 class="section-title mb-3">Directorio de Comercios Locales 🇬🇹 </h1>
-          <div class="filter-button active d-inline-block bold cursor-pointer mb-2" data-filter-category="all">Ver todas</div>
+          <div class="filter-button active d-inline-block bold cursor-pointer mb-2" 
+                data-toggle="tooltip" data-placement="top" title="Ver todas"
+                data-filter-category="all">Ver todas</div>
           {% for category in all_categories %}
-            <div class="filter-button d-inline-block cursor-pointer mb-2" data-filter-category="{{ category }}">{{ category }}</div>
+            <div class="filter-button d-inline-block cursor-pointer mb-2" 
+                 data-toggle="tooltip" data-placement="top" title="{{ category }}"
+                 data-filter-category="{{ category }}">{{ category | truncatewords: 3, '...'  }}</div>
           {% endfor %}
         </div>
       </div>
