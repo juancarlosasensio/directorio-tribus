@@ -48,6 +48,10 @@ a {
     text-decoration: underline; 
     &:after { text-decoration: none; }
   }
+  &[href^="tel:"]:before {
+    content: "\260e";
+    margin-right: 0.5em;
+  }
 }
 
 .absolute-link {

@@ -7,7 +7,9 @@
     {% else %}
     <div class="business-card-banner--content">
       <h3 class="business-card-banner--title">{{ business.name }}</h3>
-      <div class="business-card-banner--subtitle"><i class="fas fa-phone-square-alt"></i> {{ business.phone }}</div>
+      <div class="business-card-banner--subtitle">
+        <a href="tel: {{ business.phone }}">{{ business.phone }}</a>
+      </div>
     </div>
     {% endif %}
   </div>
@@ -21,9 +23,11 @@
       <div class="business-card--date light-grey">
         {{ business.description }}
       </div>
+      {% if business.phone %}
       <div class="business-card--address white">
-        {{ business.phone }}
+        <a href="tel: {{ business.phone }}">{{ business.phone }}</a>
       </div>
+      {% endif %}
     </div>
 
     <div class="business-card--content">
