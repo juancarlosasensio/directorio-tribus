@@ -1,4 +1,14 @@
 :root {
+  /*  Fonts  */
+  --font-plain: Helvetica Neue, Helvetica,Arial,sans-serif;
+  --font-special: Barlow Condensed,Helvetica,sans-serif;
+  --font-mono: Menlo,Courier,Courier New, Andale Mono, monospace;
+  /*  Colors  */
+  --color-dark: #050505;
+  --color-darkish: #404040;
+  --color-lightish: #e6e6e6;
+  --color-light: #fafafa;
+  --color-mid: grey;
   --black:#080818;
   --white: #FEEEEF;
   --bg-white: #F7F7E7;
@@ -13,6 +23,27 @@
   --pink: #EE77BB;
   --dark-pink: #F477BD;
   --bright-pink: #FF0299;
+
+  /* Spacing */ 
+  --ratio: 1.4;
+  --s-5: calc(var(--s0)/var(--ratio)/var(--ratio)/var(--ratio)/var(--ratio)/var(--ratio));
+  --s-4: calc(var(--s0)/var(--ratio)/var(--ratio)/var(--ratio)/var(--ratio));
+  --s-3: calc(var(--s0)/var(--ratio)/var(--ratio)/var(--ratio));
+  --s-2: calc(var(--s0)/var(--ratio)/var(--ratio));
+  --s-1: calc(var(--s0)/var(--ratio));
+  --s0: 1rem;
+  --s1: calc(var(--s0)*var(--ratio));
+  --s2: calc(var(--s0)*var(--ratio)*var(--ratio));
+  --s3: calc(var(--s0)*var(--ratio)*var(--ratio)*var(--ratio));
+  --s4: calc(var(--s0)*var(--ratio)*var(--ratio)*var(--ratio)*var(--ratio));
+  --s5: calc(var(--s0)*var(--ratio)*var(--ratio)*var(--ratio)*var(--ratio)*var(--ratio));
+
+  /* Typography-related styles */
+  --measure: 65ch;
+  --line-height: var(--ratio);
+  --line-height-small: calc(0.8*var(--ratio));
+  --border-thin: var(--s-5);
+  --border-thick: var(--s-2);
 }
 
 

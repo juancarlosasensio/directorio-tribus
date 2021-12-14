@@ -11,14 +11,26 @@ page_name: home
       <div class="col-lg-4 pl-4">
         <div class="sticky-top hide-on-mobile pb-4">
           <h1 class="section-title mb-3">Directorio de Comercios Locales 🇬🇹 </h1>
-          <div class="filter-button active d-inline-block bold cursor-pointer mb-2" 
-                data-toggle="tooltip" data-placement="top" title="Ver todas"
-                data-filter-category="all">Ver todas</div>
-          {% for category in all_categories %}
-            <div class="filter-button d-inline-block cursor-pointer mb-2" 
-                 data-toggle="tooltip" data-placement="top" title="{{ category }}"
-                 data-filter-category="{{ category }}">{{ category | truncatewords: 3, '...'  }}</div>
-          {% endfor %}
+          <cluster-l 
+            space="calc(var(--s1)/4)"
+            role="list">
+            <button 
+              class="filter-button active d-inline-block bold cursor-pointer" 
+              data-toggle="tooltip" data-placement="top" 
+              title="Ver todas"
+              data-filter-category="all"
+              role="listitem"
+            >Ver todas</button>
+            {% for category in all_categories %}
+              <button class="filter-button d-inline-block cursor-pointer" 
+                data-toggle="tooltip" data-placement="top" 
+                title="{{ category }}"
+                data-filter-category="{{ category }}"
+                role="listitem">
+                  {{ category | truncatewords: 3, '...'  }}
+              </button>
+            {% endfor %}
+          </cluster-l>
         </div>
       </div>
 
