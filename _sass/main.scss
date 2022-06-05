@@ -1,8 +1,7 @@
 html, body {
-  font-size: 16px;
-}
-
-body {
+  line-height: var(--ratio);
+  font-size: calc(.333vw + 1em);
+  font-family: var(--font-plain);
   background-color: var(--black);
   color: var(--bg-white);
 }
@@ -14,6 +13,258 @@ body {
   @media (max-width: 991px) {
     padding: 0 20px;
   }
+}
+
+/* Universal styles */
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+  background-color: inherit;
+  font-family: inherit;
+  color: inherit;
+  overflow-wrap: break-all;
+  margin: 0;
+  padding: 0;
+  border: 0 solid;
+}
+
+* {
+  max-width: var(--measure);
+}
+
+/* Exception-based styling for the following els... */
+html,
+body,
+div,
+header,
+nav,
+main,
+sidebar-l,
+footer {
+  max-width: none;
+}
+
+h1, .h1, 
+h2, .h2, 
+h3, .h3, 
+h4, .h4,
+h5, .h5,
+h6, .h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+/* Utility classes */
+/* 
+  The backslashes are required in 
+  the classes below to escape 
+  special characters (forward slash and colon).
+*/
+.max-width\:measure {
+  max-width: var(--measure);
+}
+
+.max-width\:measure\/2 {
+  max-width: calc(var(--measure) / 2);
+}
+
+.max-width\:100\% {
+  max-width: 100%;
+}
+
+.measure\:poetry {
+  max-width: calc(var(--measure) / 2);
+}
+
+.text-align\:center {
+  text-align: center;
+}
+
+.font-size\:base {
+  font-size: 1rem;
+}
+
+.font-size\:biggish {
+  font-size: 1.75rem;
+}
+
+.font-size\:big {
+  font-size: 2.25rem;
+}
+
+.text-align\:center {
+  text-align: center;
+}
+
+.text-align\:left {
+  text-align: left;
+}
+
+.text-align\:right {
+  text-align: right;
+}
+
+/* How to more easily achieve a beautiful, vertical flow and rhythm for content? https://codepen.io/piccalilli/pen/qQgxaY?editors=0110 */
+.flow {
+  --flow-space: var(--s1);
+}
+
+.flow>*+* {
+  margin-top: 1em;
+  margin-top: var(--flow-space);
+}
+
+/* What if I want to break out of the measure? Like, for example, adding full-bleed sections? https://codepen.io/piccalilli/pen/Nmxrwv */
+
+/* Stack custom el basic styles... */
+stack-l {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+stack-l > * + * {
+  margin-top: var(--s1);
+}
+
+/* Box custom el basic styles... */
+box-l {
+  display: block;
+  padding: var(--s1);
+  border-width: var(--border-thin);
+  /* ↓ For high contrast mode */
+  outline: var(--border-thin) solid transparent;
+  outline-offset: calc(var(--border-thin) * -1);
+}
+
+/* Center custom el basic styles... */
+center-l {
+  display: block;
+  box-sizing: content-box;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: var(--measure);
+}
+
+/* Cluster custom el basic styles... */
+cluster-l {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+/* Sidebar custom el basic styles... */
+sidebar-l {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+sidebar-l > *   {
+  flex-grow: 1;
+}
+
+/* Switcher custom el basic styles... */
+switcher-l {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+switcher-l > *   {
+  flex-basis: calc((var(--measure) - 100%) * 999);
+  flex-grow: 1;
+}
+
+/* Cover custom el basic styles... */
+cover-l {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: var(--s1);
+}
+
+/* Grid custom el basic styles... */
+grid-l {
+  display: grid;
+  grid-gap: var(--s1);
+  align-content: start;
+  grid-template-columns: 100%;
+}
+
+/* Frame custom el basic styles... */
+frame-l {
+  display: block;
+  position: relative;
+  padding-bottom: calc(6 / 9 * 100%);
+}
+
+frame-l > *   {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+frame-l > i m g,
+frame-l > v i deo {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* Reel custom el basic styles... */
+reel-l {
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-color: var(--color-light) var(--color-dark);
+}
+
+reel-l > *   {
+  flex: 0 0 var(--item-width);
+}
+
+reel-l > i m g {
+  height: 100%;
+  flex-basis: auto;
+  width: auto;
+}
+
+reel-l::-webkit-scrollbar {
+  height: 1rem;
+}
+
+reel-l::-webkit-scrollbar-track {
+  background-color: var(--color-dark);
+}
+
+reel-l::-webkit-scrollbar-thumb {
+  background-color: var(--color-dark);
+  background-image: linear-gradient(var(--color-dark) 0, var(--color-dark) 0.25rem, var(--color-light) 0.25rem, var(--color-light) 0.75rem, var(--color-dark) 0.75rem);
+}
+
+/* Imposter custom el basic styles... */
+imposter-l {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Icon custom el basic styles... */
+icon-l svg {
+  height: 0.75em;
+  height: 1cap;
+  width: 0.75em;
+  width: 1cap;
 }
 
 h1 {
@@ -126,4 +377,11 @@ ul.unstyled-list {
   @media(min-width: 992px) {
     display: none;
   }
+}
+
+cluster-l {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
 }

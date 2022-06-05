@@ -1,3 +1,11 @@
+.business-cards > * + * {
+  margin-top: 3rem;
+}
+
+.business-cards>.business-card + .business-card {
+  border-bottom: 1px dotted var(--bg-white);
+}
+
 .business-card {
   position: relative;
   display: flex;
@@ -38,34 +46,31 @@
     padding: 16px;
   }
 
-  .business-card-banner--title {
-    font-weight: bold;
-    font-size: 1.125rem;
-    margin: 0 0 4px;
-  }
+  // .business-card-banner--title {
+  //   font-weight: bold;
+  //   font-size: 1.125rem;
+  // }
 
-  .business-card-banner--subtitle {
-    font-size: 0.9rem;
-    color: var(--light-grey)
-  }
+  // .business-card-banner--subtitle {
+  //   font-size: 0.9rem;
+  //   color: var(--light-grey)
+  // }
 
-  .business-card--title {
-    font-size: 1.5rem;
-    margin: 0;
-  }
+  // .business-card--title {
+  //   font-size: 1.5rem;
+  //   margin: 0;
+  // }
 
-  .business-card--meta {
-    margin-top: 0.67rem;
-    color: rgba(0, 0, 0, 0.843137);
-    font-size: 1rem;
-    line-height: 1.67;
-  }
+  // .business-card--meta {
+  //   color: rgba(0, 0, 0, 0.843137);
+  //   font-size: 1rem;
+  //   line-height: 1.67;
+  // }
 
-  .business-card--content {
-    color: var(--bg-white);
-    font-size: 1rem;
-    margin-top: 0.67rem;
-  }
+  // .business-card--content {
+  //   color: var(--bg-white);
+  //   font-size: 1rem;
+  // }
 
   @media (max-width: 991px) {
     flex-direction: column;
