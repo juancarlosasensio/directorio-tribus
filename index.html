@@ -5,11 +5,72 @@ page_name: home
 
 {% assign all_categories = site.data.airtable | map: "category" | uniq | sort %}
 {% include navbar.html %}
-<section class="py-4 mt-3 mb-4">
+
+<cover-l class="container pt-4" noPad>
+  <sidebar-l contentMin="66%" sideWidth="18rem">
+    <div class="sticky-top pb-4">
+      <h1 class="section-title mb-3">Directorio de Comercios Locales 🇬🇹 </h1>
+      <cluster-l 
+        space="calc(var(--s1)/4)"
+        role="list">
+        <button 
+          class="filter-button active d-inline-block bold cursor-pointer" 
+          data-toggle="tooltip" data-placement="top" 
+          title="Ver todas"
+          data-filter-category="all"
+          role="listitem"
+        >Ver todas</button>
+        {% for category in all_categories %}
+          <button class="filter-button d-inline-block cursor-pointer" 
+            data-toggle="tooltip" data-placement="top" 
+            title="{{ category }}"
+            data-filter-category="{{ category }}"
+            role="listitem">
+              {{ category | truncatewords: 3, '...'  }}
+          </button>
+        {% endfor %}
+      </cluster-l>
+    </div>
+    <center-l role="main" max="100%" class="main pr-3">
+      <stack-l space="var(--s3)">
+        {% for business in site.data.airtable %}
+          {% assign business = business['resource'] %}
+          {% include business_card.html %}
+        {% endfor %}
+      </stack-l>
+    </center-l>
+    
+    
+    <!-- Sidebar el #1, left sidebar
+      <stack-l role="navigation">
+      <center-l>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/">Home</a></li>
+        </ul>
+      </center-l>
+    </stack-l>
+    Sidebar el #2, right main content
+    <center-l role="main" max="100%" class="main">
+      <h1>Frontier</h1>
+      <p>
+        In the early days of HTML, there were a number of presentational elements; elements devised purely to affect the appearance of their content. The center was one such element, but has long since been considered obsolete. Curiously, it is still supported in some browsers, including Google's Chrome. Presumably this is because Google's search homepage still uses a center to center-justify its famous search input. Tech' giants' whimsical usage of defunct elements aside, we mostly moved away from using presentational markup in the 2000s. By making styling the responsibility of a separate technology—CSS—we were able to manage style and structure separately. Consequently, a change in art direction would no longer mean reconstituting our content.
+        We later discovered that styling HTML purely in terms of semantics and context was rather ambitious, and led to some unwieldy selectors like
+      </p>
+      <h4>whaaat?</h4>
+      <p>
+        In the beginning...
+      </p>
+    </center-l> -->
+  </sidebar-l>
+</cover-l>
+
+<!-- <section class="py-4 mt-3 mb-4">
   <div class="container">
     <div class="row">
       <div class="col-lg-4 pl-4">
-        <div class="sticky-top hide-on-mobile pb-4">
+        <div class="sticky-top">
           <h1 class="section-title mb-3">Directorio de Comercios Locales 🇬🇹 </h1>
           <cluster-l 
             space="calc(var(--s1)/4)"
@@ -42,4 +103,4 @@ page_name: home
       </div>
     </div>
   </div>
-</section>
+</section> -->
