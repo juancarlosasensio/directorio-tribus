@@ -32,6 +32,15 @@ bundle exec jekyll build
 # Output will be in _site/
 ```
 
+### Deploy to Netlify
+```bash
+# Deploy to production
+netlify deploy --prod --dir=_site
+
+# Or push to master branch to trigger auto-deployment
+git push origin master
+```
+
 ## Architecture
 
 ### Data Flow
@@ -65,16 +74,27 @@ bundle exec jekyll build
 
 ### Dependencies
 - **Jekyll 4.1.1** - Static site generator
-- **Ruby 3.0.6** - Required Ruby version (set in `.ruby-version`)
+- **Ruby 3.3.1** - Currently using Ruby 3.3.1 (updated from 3.0.6 for compatibility with modern macOS)
+- **Webrick** - HTTP server library (required for Jekyll serve in Ruby 3.0+)
 - **Airtable gem** - For API integration
 - **Bootstrap** - CSS framework (vendor files in `vendor/css/`)
 - **jQuery** - For DOM manipulation and filtering
 - **Font Awesome** - Icon library
 
+## Deployment
+
+The site is deployed at: **https://directorio-tribus.netlify.app/**
+
+Netlify is configured to auto-deploy when changes are pushed to the `master` branch on GitHub. The `netlify.toml` file specifies:
+- Build command: `bundle exec jekyll build`
+- Publish directory: `_site`
+- Ruby version: 3.3.1
+
 ## Important Notes
 
 - The Airtable API key is currently hardcoded in `_plugins/airtable.rb`. Handle with care when sharing or making the repo public.
+- The Airtable plugin (`_plugins/airtable.rb`) runs automatically during Jekyll build and overwrites `_data/airtable.yml`. If the API is unavailable, temporarily disable the plugin by renaming it.
 - Business images are stored in Google Drive; the `logo_attachment` field contains direct URLs to these images.
 - The site uses Bootstrap 4 grid system with a sticky sidebar for filters on desktop.
 - Phone numbers are clickable via `tel:` links for mobile users.
-- Recent commit pinned Ruby to 3.0.6 for CI/Netlify compatibility.
+- Ruby 3.3.1 requires the `webrick` gem for `jekyll serve` to work (not included by default in Ruby 3.0+).
