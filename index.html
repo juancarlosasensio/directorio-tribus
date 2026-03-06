@@ -3,7 +3,7 @@ layout: default
 page_name: home
 ---
 
-{% assign all_categories = site.data.airtable | map: "category" | uniq | sort %}
+{% assign all_categories = site.data.airtable | map: "category" | compact | uniq | sort %}
 {% include navbar.html %}
 <section class="py-4 mt-3 mb-4">
   <div class="container">
@@ -24,7 +24,6 @@ page_name: home
 
       <div class="col-lg-8 pl-4">
         {% for business in site.data.airtable %}
-          {% assign business = business['resource'] %}
           {% include business_card.html %}
         {% endfor %}
       </div>
