@@ -8,7 +8,7 @@
     <div class="business-card-banner--content" style="{% if business.logo_attachment %}display:none;{% endif %}">
       <h3 class="business-card-banner--title">{{ business.name }}</h3>
       <div class="business-card-banner--subtitle">
-        📞 <a href="tel: {{ business.phone }}">{{ business.phone }}</a>
+        <a href="tel: {{ business.phone }}">{{ business.phone }}</a>
       </div>
     </div>
   </div>
