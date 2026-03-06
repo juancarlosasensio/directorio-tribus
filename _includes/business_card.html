@@ -2,16 +2,15 @@
   <div class="img-wrapper {% unless business.logo_attachment %} no-img {% endunless %}">
     {% if business.logo_attachment %}
       {% for entry in business.logo_attachment %}
-      <img src="{{ entry.url }}">
+      <img src="{{ entry.url }}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
       {% endfor %}
-    {% else %}
-    <div class="business-card-banner--content">
+    {% endif %}
+    <div class="business-card-banner--content" style="{% if business.logo_attachment %}display:none;{% endif %}">
       <h3 class="business-card-banner--title">{{ business.name }}</h3>
       <div class="business-card-banner--subtitle">
-        <a href="tel: {{ business.phone }}">{{ business.phone }}</a>
+        📞 <a href="tel: {{ business.phone }}">{{ business.phone }}</a>
       </div>
     </div>
-    {% endif %}
   </div>
 
   <div class="mt-2">
